@@ -32,7 +32,7 @@
 ## Files Definitions
 
 - `scrapers`  - All the scripts for each website is located here.
-- `logfile.log` - All the logs will be save here everytime you use the script. and All Error for each script will be seen here.
+- `logfile.log` - All the logs will be input here including the errors.
 - `main.py` - This is the main script that need to run function of this is to run all the code inside `scrapers` folders.
 - `savefiles` - All the scraped data will be save here.
 
