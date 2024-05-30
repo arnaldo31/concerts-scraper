@@ -7,7 +7,7 @@ This script scrapes concert information from different websites and saves the re
 - JSON
 
 ## Libraries Used
-- `beautifulsoup4`  a library library used for web scraping. 
+- `beautifulsoup4`  a library used for web scraping. 
 - `lxml` a library used for processing XML and HTML documents.
 - `requests` a library used to send HTTP requests.
 
