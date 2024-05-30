@@ -11,7 +11,7 @@
    when installing python check the `add to path` check box.
    
 2. You will need to install the following packages with `pip`
-   go to `cmd` and type each of this line
+   go to `cmd` and type each of this line.
    
     - Windows commands:
       ```
@@ -24,10 +24,10 @@
 4. unzip the file if you dont have unzip app download it - https://www.7-zip.org/a/7z2406-x64.exe
 
 ## How to Use
-1. Open folder where this project is saved on your local machine
+1. Open folder where this project is saved on your local machine.
 2. Run the `main.py`
 3. Wait the script to finish.
-4. check the scrape data from `savefiles` folder
+4. check the scrape data from `savefiles` folder.
 
 ## Files Definitions
 
