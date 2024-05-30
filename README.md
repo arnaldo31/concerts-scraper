@@ -6,6 +6,11 @@
 - Python
 - JSON
 
+## Libraries Used
+- beautifulsoup4
+- lxml
+- requests
+  
 ## Installation
 1. You will need to have [Python](https://www.python.org/downloads/)
    when installing python check the `add to path` check box.
