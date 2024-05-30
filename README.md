@@ -4,7 +4,7 @@ This script will scrape concert info from different kinds of website and save re
 
 ## Technologies Used
 - Python
-- csv
+- JSON
 
 ## Installation
 1. You will need to have [Python](https://www.python.org/downloads/) and [pip](https://pip.pypa.io/en/stable/installation/) installed (on Mac they are already installed)
