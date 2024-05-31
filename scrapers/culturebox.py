@@ -3,7 +3,6 @@ from bs4 import BeautifulSoup
 from datetime import datetime
 from settings import logging_config
 
-
 log_error,log_info = logging_config.configure_logging(__file__)
 
 save = []

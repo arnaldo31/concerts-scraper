@@ -40,7 +40,8 @@ def scrape():
         try:
             img = article.img.get('src')
         except:
-            pass
+            continue
+        
 
         dic['title'] = title
         dic['openingHours'] = doorTime

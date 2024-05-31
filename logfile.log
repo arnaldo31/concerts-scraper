@@ -3,3 +3,64 @@ INFO : 2024-05-31 01:34:23,704 :File (.\scrapers\hotelcecil.py) - completed
 INFO : 2024-05-31 01:35:50,734 :File (.\scrapers\culturebox.py) - completed
 INFO : 2024-05-31 01:37:19,334 :File (.\scrapers\loppen.py) - completed
 INFO : 2024-05-31 02:09:16,577 :File (.\scrapers\pumpehuset.py) - completed
+----------------------------------------------------------------------------------------------------
+ERROR : 2024-06-01 02:48:52,552 :File (.\scrapers\rust.py) - An error occurred:
+Traceback (most recent call last):
+  File "c:\Users\art\OneDrive\Desktop\concerts_scrapers\scrapers\rust.py", line 133, in run
+    scrape()
+  File "c:\Users\art\OneDrive\Desktop\concerts_scrapers\scrapers\rust.py", line 50, in scrape
+    dic['photos'].append({'provider':img})
+                                     ^^^
+UnboundLocalError: cannot access local variable 'img' where it is not associated with a value
+
+----------------------------------------------------------------------------------------------------
+INFO : 2024-06-01 02:49:11,971 :File (.\scrapers\hotelcecil.py) - completed
+----------------------------------------------------------------------------------------------------
+ERROR : 2024-06-01 02:58:18,433 :File (.\scrapers\rust.py) - An error occurred:
+Traceback (most recent call last):
+  File "c:\Users\art\OneDrive\Desktop\concerts_scrapers\scrapers\rust.py", line 134, in run
+    scrape()
+  File "c:\Users\art\OneDrive\Desktop\concerts_scrapers\scrapers\rust.py", line 51, in scrape
+    dic['photos'].append({'provider':img})
+                                     ^^^
+UnboundLocalError: cannot access local variable 'img' where it is not associated with a value
+
+----------------------------------------------------------------------------------------------------
+INFO : 2024-06-01 03:03:52,188 :File (.\scrapers\rust.py) - completed
+----------------------------------------------------------------------------------------------------
+ERROR : 2024-06-01 05:05:36,260 :File (.\scrapers\stengade.py) - An error occurred:
+Traceback (most recent call last):
+  File "c:\Users\art\OneDrive\Desktop\concerts_scrapers\scrapers\stengade.py", line 95, in run
+    crwal()
+  File "c:\Users\art\OneDrive\Desktop\concerts_scrapers\scrapers\stengade.py", line 50, in crwal
+    doorClose =  event_dates[1].find(class_='event-time-24hr').text
+                ~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+ERROR : 2024-06-01 05:06:09,402 :File (.\scrapers\stengade.py) - An error occurred:
+Traceback (most recent call last):
+  File "c:\Users\art\OneDrive\Desktop\concerts_scrapers\scrapers\stengade.py", line 96, in run
+    crwal()
+  File "c:\Users\art\OneDrive\Desktop\concerts_scrapers\scrapers\stengade.py", line 51, in crwal
+    doorClose =  event_dates[1].find(class_='event-time-24hr').text
+                ~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+ERROR : 2024-06-01 05:14:10,583 :File (.\scrapers\stengade.py) - An error occurred:
+Traceback (most recent call last):
+  File "c:\Users\art\OneDrive\Desktop\concerts_scrapers\scrapers\stengade.py", line 94, in run
+    crwal()
+  File "c:\Users\art\OneDrive\Desktop\concerts_scrapers\scrapers\stengade.py", line 48, in crwal
+    startDate = soup.text.split('startDate')[1].split(',')[0].replace(':','').replace('"','').replace("'",'').replace('+','.').strip()
+                ~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+----------------------------------------------------------------------------------------------------
+INFO : 2024-06-01 05:14:37,120 :File (.\scrapers\stengade.py) - completed
+INFO : 2024-06-01 05:17:24,018 :File (.\scrapers\stengade.py) - completed
+INFO : 2024-06-01 05:21:19,769 :File (.\scrapers\stengade.py) - completed
+INFO : 2024-06-01 05:24:37,653 :File (.\scrapers\stengade.py) - completed

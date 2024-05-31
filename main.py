@@ -1,4 +1,4 @@
-from scrapers  import pumpehuset,hotelcecil,culturebox,loppen,rust ## this is the 1st barch 5 website 
+from scrapers  import pumpehuset,hotelcecil,culturebox,loppen,rust,stengade ## this is the 1st barch 5 website 
 from datetime import datetime
 import json
 import codecs
@@ -12,20 +12,22 @@ def save():
         
 def crawler():
     
-    data = rust.run()
-    savefile.extend(data)
+    # data = rust.run()
+    # savefile.extend(data)
     
-    data = hotelcecil.run()
-    savefile.extend(data)
+    # data = hotelcecil.run()
+    # savefile.extend(data)
     
-    data = culturebox.run()
-    savefile.extend(data)
+    # data = culturebox.run()
+    # savefile.extend(data)
     
-    data = loppen.run()
-    savefile.extend(data)
+    # data = loppen.run()
+    # savefile.extend(data)
     
+    # data = pumpehuset.run()
+    # savefile.extend(data)
     
-    data = pumpehuset.run()
+    data = stengade.run()
     savefile.extend(data)
 
 if __name__ == '__main__':
