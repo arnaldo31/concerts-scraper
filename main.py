@@ -24,6 +24,7 @@ def crawler():
     data = loppen.run()
     savefile.extend(data)
     
+    
     data = pumpehuset.run()
     savefile.extend(data)
 
