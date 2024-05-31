@@ -13,7 +13,7 @@ def configure_logging(script_name):
     logging.basicConfig(
         level=logging.INFO,  # Set the default log level
         handlers=[
-            logging.FileHandler("logfile.log"),
+            logging.FileHandler("logfile.log",mode='w'),
             logging.StreamHandler()
         ]
     )

@@ -12,20 +12,20 @@ def save():
         
 def crawler():
     
-    # data = rust.run()
-    # savefile.extend(data)
+    data = rust.run()
+    savefile.extend(data)
     
-    # data = hotelcecil.run()
-    # savefile.extend(data)
+    data = hotelcecil.run()
+    savefile.extend(data)
     
-    # data = culturebox.run()
-    # savefile.extend(data)
+    data = culturebox.run()
+    savefile.extend(data)
     
-    # data = loppen.run()
-    # savefile.extend(data)
+    data = loppen.run()
+    savefile.extend(data)
     
-    # data = pumpehuset.run()
-    # savefile.extend(data)
+    data = pumpehuset.run()
+    savefile.extend(data)
     
     data = stengade.run()
     savefile.extend(data)
