@@ -41,7 +41,7 @@ This script scrapes concert information from different websites and saves the re
 ## Files and Directory Structure
 
 - `scrapers/` - Contains individual scripts for scraping each website.
-- `logfile.log` - Contains logs, including error messages.
+- `scraper.log` - Contains logs of all scrape concert with time, including error messages.
 - `main.py` - The main script that executes all code in the `scrapers` folder.
 - `savefiles/` - Where all the scraped data is saved.
 
