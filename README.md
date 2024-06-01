@@ -1,45 +1,50 @@
-﻿# Concerts Scraper
+# Concerts Scraper
 
- This script will going to scrape different concerts from diffirent websites and save results as JSON data.
+This script scrapes concert information from different websites and saves the results as JSON data.
 
 ## Technologies Used
 - Python
 - JSON
 
 ## Libraries Used
-- beautifulsoup4
-- lxml
-- requests
-  
+- `beautifulsoup4`
+- `lxml`
+- `requests`
+
 ## Installation
-1. You will need to have [Python](https://www.python.org/downloads/)
-   when installing python check the `add to path` check box.
-   
-2. You will need to install the following packages with `pip`
-   go to `cmd` and type each of this line.
-   
-    - Windows commands:
-      ```
-      pip install requests
-      pip install beautifulsoup4
-      pip install lxml
-      
-      ```
-3. download this repository code - https://github.com/arnaldo31/concerts-scraper/archive/refs/heads/main.zip
-4. unzip the file if you dont have unzip app download it - https://www.7-zip.org/a/7z2406-x64.exe
+
+1. **Install Python**
+   - You will need to have [Python](https://www.python.org/downloads/) installed.
+   - When installing Python, ensure you check the `Add to PATH` checkbox.
+
+2. **Install Required Packages**
+   - Open your command prompt (cmd) and type the following commands to install the necessary packages:
+     ```
+     pip install requests
+     pip install beautifulsoup4
+     pip install lxml
+     ```
+
+3. **Download the Repository**
+   - Download this repository's code from [GitHub](https://github.com/arnaldo31/concerts-scraper/archive/refs/heads/main.zip).
+
+4. **Unzip the File**
+   - Unzip the downloaded file. If you do not have an unzip application, you can download one [here](https://www.7-zip.org/a/7z2406-x64.exe).
 
 ## How to Use
-1. Open folder where this project is saved on your local machine.
-2. Run the `main.py`
-3. Wait the script to finish.
-4. check the scrape data from `savefiles` folder.
 
-## Files Definitions
+1. Open the folder where this project is saved on your local machine.
+2. Run the `main.py` script:
+3. Wait for the script to finish.
+4. Check the scraped data in the `savefiles` folder.
+5. Check the `scraper.log` file if there is any error happen during the scraping.
 
-- `scrapers`  - All the scripts for each website is located here.
-- `logfile.log` - All the logs will be input here including the errors.
-- `main.py` - This is the main script that need to run function of this is to run all the code inside `scrapers` folders.
-- `savefiles` - All the scraped data will be save here.
+## Files and Directory Structure
 
-## Filename Format is (JSON)
-- save_{yy/mm/dd}.json
+- `scrapers/` - Contains individual scripts for scraping each website.
+- `scraper.log` - Contains logs of all scrape concert with time, including error messages.
+- `main.py` - The main script that executes all code in the `scrapers` folder.
+- `savefiles/` - Where all the scraped data is saved.
+
+## Filename Format for Saved Data (JSON)
+- `save_YYMMDD.json` (e.g., `save_240531.json` for data saved on May 31, 2024).
