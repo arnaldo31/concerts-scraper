@@ -1,9 +1,16 @@
 import requests
 from bs4 import BeautifulSoup
 from datetime import datetime
-from settings import logging_config
+import logging
+from datetime import datetime
+import traceback
 
-log_error,log_info = logging_config.configure_logging(__file__)
+today = datetime.today()
+date_save = today.strftime("%Y-%m-%d")
+logging.basicConfig(filename='scraper.log',level=logging.INFO,
+                    encoding='utf-8',
+                    format='%(asctime)s : %(message)s',
+                    datefmt='%d-%b-%y %H:%M:%S')
 
 save = []
 
@@ -141,12 +148,22 @@ def crawl():
         
         text = 'www.culture-box.com | ' + dic['title']
         print(text)
+        title = ' completed - ' + dic['title']
+        logging.info(title)
         save.append(dic)
 
 def run():
+    filename = __file__.split('\\')[-1]
+    logging.info("-" * 113)
+    logging.info(f" Starting  - ({filename}) scraper")
+
     try:
         crawl()
-        log_info()
+        logging.info(f" completed - total: {len(save)}")
     except Exception as e:
-        log_error()
+        error_message = ''.join(traceback.format_exception(type(e), e, e.__traceback__))
+        logging.info("-" * 113)
+        logging.error(f"An error occurred: (scrapers\\{filename})\n%s", error_message)
+        logging.error("-" * 113)
+
     return save

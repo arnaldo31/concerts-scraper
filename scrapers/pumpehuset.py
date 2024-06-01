@@ -2,32 +2,50 @@ import requests
 from bs4 import BeautifulSoup
 from datetime import datetime
 import threading
-from settings import logging_config
+import logging
+from datetime import datetime
+import traceback
 
-log_error,log_info = logging_config.configure_logging(__file__)
-    
+today = datetime.today()
+date_save = today.strftime("%Y-%m-%d")
+logging.basicConfig(filename='scraper.log',level=logging.INFO,
+                    encoding='utf-8',
+                    format='%(asctime)s : %(message)s',
+                    datefmt='%d-%b-%y %H:%M:%S')
+
+save = []
+
+
+month_mapping = {
+        "Jan": "01", "Feb": "02", "Mar": "03",
+        "Apr": "04", "May": "05", "Jun": "06",
+        "Jul": "07", "Aug": "08", "Sep": "09",
+        "Oct": "10", "Nov": "11", "Dec": "12"
+    }
+
+mons = []
 def parse(item:dict,category:str):
     dic = {}
     dic['title'] = item['title']
     date_str = item['date'].strip()
     parts = date_str.split()
+
     try:
         day = parts[0]
         if len(day) == 1:
             day = '0'+day
-        month = parts[1]
-        if len(month) == 2:
-            month = '0'+month
+        month = month_mapping[parts[1]]
         year = parts[2]
     except:
         return None
     date_str = f"{day} {month} {year}"
+
     try:
         date_obj = datetime.strptime(date_str, "%d %B %Y")
         iso_date_time = date_obj.strftime("%Y-%m-%dT%H:%M:%S.%fZ")
     except:
         iso_date_time = f'{year}-{month}-{day}T00:00:00.000000Z'
-    
+
     dic['monthlySchedule'] = {
         "startDate": iso_date_time, 
         "endDate": iso_date_time
@@ -59,11 +77,12 @@ def parse(item:dict,category:str):
     title = dic['title']
     text = 'www.pumpehuset.com | ' + title
     print(text)
-    scraper_obj.save.append(dic)
+    title = ' completed - ' + dic['title']
+    logging.info(title)
+    save.append(dic)
 
 class scraper:
-    
-    save = []
+
     headers = {
         'accept': 'application/json, text/plain, */*',
         'accept-language': 'en-US,en;q=0.9',
@@ -161,12 +180,20 @@ scraper_obj = scraper()
 category = ['pumpehuset','byhaven']
 
 def run():
-    savefile = []
+
+    filename = __file__.split('\\')[-1]
+    logging.info("-" * 113)
+    logging.info(f" Starting  - ({filename}) scraper")
+
     try:
         for cat in category:
             scraper_obj.run(category=cat)
-        savefile = scraper_obj.save
-        log_info()
+        logging.info(f" completed - total: {len(save)}")
     except Exception as e:
-        log_error(e)
-    return savefile
+        error_message = ''.join(traceback.format_exception(type(e), e, e.__traceback__))
+        logging.info("-" * 113)
+        logging.error(f"An error occurred: (scrapers\\{filename})\n%s", error_message)
+        logging.error("-" * 113)
+
+    return save
+

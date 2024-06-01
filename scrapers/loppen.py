@@ -1,8 +1,16 @@
 import requests
 from bs4 import BeautifulSoup
-from settings import logging_config
 
-log_error,log_info = logging_config.configure_logging(__file__)
+import logging
+from datetime import datetime
+import traceback
+
+today = datetime.today()
+date_save = today.strftime("%Y-%m-%d")
+logging.basicConfig(filename='scraper.log',level=logging.INFO,
+                    encoding='utf-8',
+                    format='%(asctime)s : %(message)s',
+                    datefmt='%d-%b-%y %H:%M:%S')
 
 headers = {
     'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
@@ -39,7 +47,11 @@ def crawl(link):
     title = soup.find(attrs={'property':'og:title'}).get('content')
     dic = {}
     dic['title'] = title
-    date = soup.find(class_='date-display-single').get('content').replace('+',':')
+    date = soup.find(class_='date-display-single').get('content')
+    if '+' in date:
+        date = date.split('+')[0] + '.000Z'
+    else:
+        return None
     startDate = date
     endDate = date
     dic['monthlySchedule'] = {
@@ -86,6 +98,8 @@ def scraper():
         link = card.find(class_='event-link').get('href')
         try:
             dic = crawl(link)
+            if dic == None:
+                continue
         except:
             continue
         ticket = card.a.get('href')
@@ -99,16 +113,25 @@ def scraper():
         dic['postType'] = 'MUSIC'
         text = 'www.loppen.dk | ' + dic['title']
         print(text)
+        title = ' completed - ' + dic['title']
+        logging.info(title)
         save.append(dic)
-    
-    
+                
+
 def run():
     
+    filename = __file__.split('\\')[-1]
+    logging.info("-" * 113)
+    logging.info(f" Starting  - ({filename}) scraper")
+
     try:
         scraper()
-        log_info()
+        logging.info(f" completed - total: {len(save)}")
     except Exception as e:
-        log_error(e)
-        
+        error_message = ''.join(traceback.format_exception(type(e), e, e.__traceback__))
+        logging.info("-" * 113)
+        logging.error(f"An error occurred: (scrapers\\{filename})\n%s", error_message)
+        logging.error("-" * 113)
+
     return save
 

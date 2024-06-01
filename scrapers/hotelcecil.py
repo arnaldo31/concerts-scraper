@@ -3,9 +3,15 @@ from bs4 import BeautifulSoup
 from datetime import datetime
 import threading
 import time
-from settings import logging_config
+import logging
+import traceback
 
-log_error,log_info = logging_config.configure_logging(__file__)
+today = datetime.today()
+date_save = today.strftime("%Y-%m-%d")
+logging.basicConfig(filename='scraper.log',level=logging.INFO,
+                    encoding='utf-8',
+                    format='%(asctime)s : %(message)s',
+                    datefmt='%d-%b-%y %H:%M:%S')
 
 save = []
 
@@ -171,6 +177,8 @@ def parse1(card:dict):
         return None
     text = 'www.hotelcecil.dk | ' + dic['title']
     print(text)
+    title = ' completed - ' + dic['title']
+    logging.info(title)
     save.append(dic)
         
 def scraper():
@@ -196,9 +204,18 @@ def scraper():
             th.join() # Main thread wait for threads finish
 
 def run():
+    
+    filename = __file__.split('\\')[-1]
+    logging.info("-" * 113)
+    logging.info(f" Starting  - ({filename}) scraper")
+
     try:
         scraper()
-        log_info()
+        logging.info(f" completed - total: {len(save)}")
     except Exception as e:
-        log_error(e)
+        error_message = ''.join(traceback.format_exception(type(e), e, e.__traceback__))
+        logging.info("-" * 113)
+        logging.error(f"An error occurred: (scrapers\\{filename})\n%s", error_message)
+        logging.error("-" * 113)
+
     return save

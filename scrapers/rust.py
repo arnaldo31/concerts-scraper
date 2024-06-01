@@ -1,8 +1,15 @@
 import requests
 from bs4 import BeautifulSoup
-from settings import logging_config
+import logging
+from datetime import datetime
+import traceback
 
-log_error,log_info = logging_config.configure_logging(__file__)
+today = datetime.today()
+date_save = today.strftime("%Y-%m-%d")
+logging.basicConfig(filename='scraper.log',level=logging.INFO,
+                    encoding='utf-8',
+                    format='%(asctime)s : %(message)s',
+                    datefmt='%d-%b-%y %H:%M:%S')
     
 save = []
 
@@ -35,7 +42,14 @@ def scrape():
         title = article.find(class_='event-title').text.strip()
         dic = {}
         startdate = article.find(attrs={'itemprop':'startDate'}).get('content')
+        if ' ' in startdate:
+            startdate = startdate.split(' ')[0].strip()
         doorTime = article.find(attrs={'itemprop':'doorTime'}).get('content')
+        if '00:00' in doorTime:
+            if ':' in article.find(attrs={'itemprop':'startDate'}).get('content'):
+                doorTime = article.find(attrs={'itemprop':'startDate'}).get('content').split(' ')[1].strip()
+            else:
+                continue
         description = article.find(attrs={'itemprop':'description'}).get_text('\n',strip=True)
         try:
             img = article.img.get('src')
@@ -98,9 +112,10 @@ def scrape():
             except Exception as e:
                 dic['genre'] = ''
 
-        date_str = startdate.split(' ')[0]
-        formatted_date = f"{date_str[:4]}-{date_str[4:6]}-{date_str[6:]}"
-        dic['startDate'] = startdate.replace(date_str,formatted_date).replace(' ','T') + ':00.000Z'
+        
+        formatted_date = f"{startdate[:4]}-{startdate[4:6]}-{startdate[6:]}"
+        doorTime = doorTime.strip()
+        dic['startDate'] = f'{formatted_date}T{doorTime}:00.000Z'
         dic['endDate'] = dic['startDate']
         dic['monthlySchedule'] = {
             'startDate':dic.get('startDate',''),
@@ -126,14 +141,24 @@ def scrape():
             continue
         
         dic['genre'] = dic['genre'].lower().replace(' ','')
+        title = ' completed - ' + dic['title']
+        logging.info(title)
         save.append(dic)
 
 def run():
     
+    filename = __file__.split('\\')[-1]
+    logging.info("-" * 113)
+    logging.info(f" Starting  - ({filename}) scraper")
+
     try:
         scrape()
-        log_info()
+        logging.info(f" completed - total: {len(save)}")
     except Exception as e:
-        log_error(e)
-        
+        error_message = ''.join(traceback.format_exception(type(e), e, e.__traceback__))
+        logging.info("-" * 113)
+        logging.error(f"An error occurred: (scrapers\\{filename})\n%s", error_message)
+        logging.error("-" * 113)
+
     return save
+

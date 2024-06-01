@@ -1,8 +1,17 @@
 import requests
 from bs4 import BeautifulSoup
-from settings import logging_config
 import json
-log_error,log_info = logging_config.configure_logging(__file__)
+
+import logging
+from datetime import datetime
+import traceback
+
+today = datetime.today()
+date_save = today.strftime("%Y-%m-%d")
+logging.basicConfig(filename='scraper.log',level=logging.INFO,
+                    encoding='utf-8',
+                    format='%(asctime)s : %(message)s',
+                    datefmt='%d-%b-%y %H:%M:%S')
 
 headers = {
     'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
@@ -29,7 +38,6 @@ def crwal():
     soup = BeautifulSoup(response.text,'lxml')
     
     events = soup.find(class_='eventlist eventlist--upcoming').find_all('article')
-
     for item in events:
         url = 'https://www.stengade.dk' + item.a.get('href')
         while True:
@@ -51,8 +59,8 @@ def crwal():
                 continue
             if 'startDate' in string:
                 json_str = json.loads(string)
-                startDate = json_str['startDate'].replace('+','.')
-                endDate = json_str['endDate'].replace('+','.')
+                startDate = json_str['startDate'].replace('+','.') + 'Z'
+                endDate = json_str['endDate'].replace('+','.') + 'Z'
             
         dic['monthlySchedule'] = {
             'startDate':startDate,
@@ -86,19 +94,31 @@ def crwal():
         dic['postType'] = 'Music'
         dic['channel'] = '@public'
         dic['parent'] = 'ROOT'
-        dic['address'] = ''
-        dic['locationLatitude'] = '55.68819'
-        dic['locationLongitude'] = '12.55569509999998'
+        dic['address'] = 'Stengade'
+        dic['locationLatitude'] = 55.688320535608916
+        dic['locationLongitude'] =  12.555628026246128
         
         print('www.stengade.dk | ',dic['title'])
+
+        title = ' completed - ' + dic['title']
+        logging.info(title)
         save.append(dic)
 
 def run():
+    
+    filename = __file__.split('\\')[-1]
+    logging.info("-" * 113)
+    logging.info(f" Starting  - ({filename}) scraper")
+
+
     try:
         crwal()
-        log_info()
+        logging.info(f" completed - total: {len(save)}")
     except Exception as e:
-        log_error(e)
+        error_message = ''.join(traceback.format_exception(type(e), e, e.__traceback__))
+        logging.info("-" * 113)
+        logging.error(f"An error occurred: (scrapers\\{filename})\n%s", error_message)
+        logging.error("-" * 113)
 
 
     return save
