@@ -52,10 +52,7 @@ def translate(word):
             return data['data']['translations'][0]['translatedText']
 
 def parse(url:str,dic:dict):
-    #url = 'https://www.hotelcecil.dk/datoer/martinnorgaard'
-    #url = 'https://www.hotelcecil.dk/datoer/tomas-hoffding-2'
-    #url = 'https://www.hotelcecil.dk/datoer/crack-cloud-can'
-    #url = 'https://www.hotelcecil.dk/datoer/claus-hempler-8'
+
     while True:
         try:
             res = requests.get(url,headers=headers,timeout=5)
@@ -219,3 +216,4 @@ def run():
         logging.error("-" * 113)
 
     return save
+

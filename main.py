@@ -1,4 +1,5 @@
-from scrapers  import pumpehuset,hotelcecil,culturebox,loppen,rust,stengade ## this is the 1st barch 5 website 
+from scrapers import pumpehuset,hotelcecil,culturebox,loppen,rust ## this is the 1st barch 5 website 
+from scrapers import stengade,drkoncerthuset,amagerbio
 from datetime import datetime
 import json
 import codecs
@@ -48,14 +49,16 @@ def check_date(date_str:str):
 # Cleaning the scrape Data
 def clean_data(savefile:list):
     
+        
     final_save = []
     keys_approved = ['title','openingHours','url','body','photos','genre','monthlySchedule','postType','channel','locationLatitude','locationLongitude','address','parent']
-        
+    
     for item in savefile:
         keys_item = item.keys()
         passed = True
-        for key_ in keys_item:
-            if key_ not in keys_approved:
+        for key_ in keys_approved:
+            if key_ not in keys_item:
+                print('key_ notfound : ',key_)
                 passed = False
         
         if passed == False:
@@ -85,6 +88,8 @@ def crawler():
     savefile.extend(loppen.run())
     savefile.extend(pumpehuset.run())
     savefile.extend(stengade.run())
+    savefile.extend(drkoncerthuset.run())
+    savefile.extend(amagerbio.run())
     
     return savefile
 
