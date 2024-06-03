@@ -35,7 +35,7 @@ This script scrapes concert information from different websites and saves the re
 
 1. Open the folder where this project is saved on your local machine.
 2. Run the `main.py` script:
-3. Wait for the script to finish.
+3. Wait for the script to finish scraping.
 4. Check the scraped data in the `savefiles` folder.
 5. Check the `scraper.log` file if there is any error happen during the scraping.
 
