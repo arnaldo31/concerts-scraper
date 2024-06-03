@@ -3,8 +3,7 @@ from bs4 import BeautifulSoup
 from datetime import datetime
 import logging
 import traceback
-import json
-import pprint
+
 
 today = datetime.today()
 date_save = today.strftime("%Y-%m-%d")

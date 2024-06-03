@@ -1,8 +1,9 @@
-from scrapers import pumpehuset,hotelcecil,culturebox,loppen,rust ## this is the 1st barch 5 website 
-from scrapers import stengade,drkoncerthuset,amagerbio
+from scrapers import pumpehuset,hotelcecil,culturebox,loppen,rust ## 1st batch website
+from scrapers import stengade,drkoncerthuset,amagerbio,lafontaine,jazzhusmontmartre ## 2nd batch website
 from datetime import datetime
 import json
 import codecs
+import html
 
 # Create new scraper.log file
 def clear_log_file():
@@ -72,6 +73,7 @@ def clean_data(savefile:list):
         if date == False:
             continue
         
+        item['body'] = html.unescape(item['body'])
         final_save.append(item)
 
     save(savefile=final_save)
@@ -90,6 +92,8 @@ def crawler():
     savefile.extend(stengade.run())
     savefile.extend(drkoncerthuset.run())
     savefile.extend(amagerbio.run())
+    savefile.extend(lafontaine.run())
+    savefile.extend(jazzhusmontmartre.run())
     
     return savefile
 
