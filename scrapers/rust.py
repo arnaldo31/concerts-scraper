@@ -122,6 +122,7 @@ def scrape():
             'endDate':dic.get('endDate','')
         }
         dic['postType'] = 'Music'
+        dic['parent'] = 'ROOT'
         dic['channel'] = '@public'
         dic['locationLatitude'] = 55.69121
         dic['locationLongitude'] = 12.55929

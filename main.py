@@ -59,7 +59,7 @@ def clean_data(savefile:list):
         passed = True
         for key_ in keys_approved:
             if key_ not in keys_item:
-                print('key_ notfound : ',key_)
+                #print('key_ notfound : ',key_,item['address'])
                 passed = False
         
         if passed == False:

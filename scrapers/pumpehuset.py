@@ -118,6 +118,7 @@ class scraper:
         
         soup = BeautifulSoup(res.text,'lxml')
         description = soup.find(class_='text__content text__content--large')
+        dic['body'] = ''
         if description != None:
             dic['body'] = description.parent.get_text('\n',strip=True)
         
