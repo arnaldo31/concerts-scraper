@@ -23,6 +23,7 @@ This script scrapes concert information from different websites and saves the re
      pip install requests
      pip install beautifulsoup4
      pip install lxml
+     pip install aiohttp
      ```
 
 3. **Download the Repository**
