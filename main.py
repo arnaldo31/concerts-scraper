@@ -12,9 +12,17 @@ def clear_log_file():
 
 # Saving the file
 def save(savefile: list):
+    seen = []
+    unique_list = []
+    for item in savefile:
+        text = '{}-{}-{}'.format(item['title'],item['address'],item['url'])
+        if text not in seen:
+            seen.append(text)
+            unique_list.append(item)
+            
     current_date = datetime.now().strftime('%Y%m%d')
-    with codecs.open(f'.\\savefiles\\save_{current_date}.json', 'w', encoding='utf-8') as f:
-        json.dump({'posts': savefile}, f, ensure_ascii=False, indent=4)
+    with codecs.open(f'.\\savefiles\\concerts_save_{current_date}.json', 'w', encoding='utf-8') as f:
+        json.dump({'posts': unique_list}, f, ensure_ascii=False, indent=4)
 
 # Check if hours is in correct format
 def check_hours(time_str:str):

@@ -1,1477 +1,1648 @@
-09-Jun-24 06:03:56 : -----------------------------------------------------------------------------------------------------------------
-09-Jun-24 06:03:56 :  Starting  - (rust.py) scraper
-09-Jun-24 06:04:03 :  completed - Girli (UK) [få billetter]
-09-Jun-24 06:04:05 :  completed - MUSIK+ & RUST præsenterer AKADEMIET’s SOMMERKONCERTER 2024
-09-Jun-24 06:04:06 :  completed - MUSIK+ & RUST præsenterer AKADEMIET’s SOMMERKONCERTER 2024
-09-Jun-24 06:04:08 :  completed - MUSIK+ & RUST præsenterer AKADEMIET’s SOMMERKONCERTER 2024
-09-Jun-24 06:04:10 :  completed - PATRi!K (IS) – Útgáfutónleikar
-09-Jun-24 06:04:12 :  completed - Vingborg/Valencia
-09-Jun-24 06:04:13 :  completed - Miller
-09-Jun-24 06:04:14 :  completed - Girlband! (UK)
-09-Jun-24 06:04:15 :  completed - DR PACKER (AU)
-09-Jun-24 06:04:17 :  completed - Kasablanca
-09-Jun-24 06:04:18 :  completed - Jeremy Troy
-09-Jun-24 06:04:19 :  completed - TELENOVA (AU)
-09-Jun-24 06:04:20 :  completed - Rust In Peace: Blazing Eternity + Altar Of Oblivion
-09-Jun-24 06:04:20 :  completed - Evig Ferie (NO)
-09-Jun-24 06:04:21 :  completed - Rust In Peace: Philip Sayce (CA)
-09-Jun-24 06:04:22 :  completed - NAÂMAN (FR)
-09-Jun-24 06:04:23 :  completed - AIKO (CZ)
-09-Jun-24 06:04:24 :  completed - ROSÉL
-09-Jun-24 06:04:25 :  completed - Kessoncoda (UK)
-09-Jun-24 06:04:26 :  completed - Siri Neel releasekoncert
-09-Jun-24 06:04:26 :  completed - MadeinTYO (US)
-09-Jun-24 06:04:27 :  completed - Rust In Peace: Hotel Hunger
-09-Jun-24 06:04:28 :  completed - Rust In Peace: Hotel Hunger
-09-Jun-24 06:04:28 :  completed - IST IST (UK)
-09-Jun-24 06:04:29 :  completed - BLANKS (NL)
-09-Jun-24 06:04:30 :  completed - Nils Hoffmann (DE)
-09-Jun-24 06:04:31 :  completed - total: 26
-09-Jun-24 06:04:31 : -----------------------------------------------------------------------------------------------------------------
-09-Jun-24 06:04:31 :  Starting  - (hotelcecil.py) scraper
-09-Jun-24 06:04:35 :  completed - Nimesh Patel
-09-Jun-24 06:04:36 :  completed - Claus Hempler
-09-Jun-24 06:04:36 :  completed - Claus Hempler
-09-Jun-24 06:04:36 :  completed - Claus Hempler
-09-Jun-24 06:04:36 :  completed - Claus Hempler
-09-Jun-24 06:04:37 :  completed - Catherine Cohen
-09-Jun-24 06:04:37 :  completed - Claus Hempler
-09-Jun-24 06:04:37 :  completed - Best of Bowie
-09-Jun-24 06:04:37 :  completed - Vivienne Mort
-09-Jun-24 06:04:38 :  completed - ÃKSE
-09-Jun-24 06:04:38 :  completed - Isaiah Collier & The Chosen Few (US)
-09-Jun-24 06:04:38 :  completed - Emil De Waal
-09-Jun-24 06:04:38 :  completed - Tom Skinner (UK)
-09-Jun-24 06:04:38 :  completed - Stefan Pasborg Trio
-09-Jun-24 06:04:38 :  completed - Martin Kohlstedt (DE)
-09-Jun-24 06:04:39 :  completed - SmÃ¦kDown
-09-Jun-24 06:04:39 :  completed - Billie Marten (UK)
-09-Jun-24 06:04:39 :  completed - Ana Frango ElÃ©trico (BR)
-09-Jun-24 06:04:39 :  completed - Rumpistol Ensemble
-09-Jun-24 06:04:39 :  completed - Knudsen/Bremer/Ewert
-09-Jun-24 06:04:40 :  completed - Anne Bakland
-09-Jun-24 06:04:40 :  completed - Bros
-09-Jun-24 06:04:40 :  completed - Ghost Iris
-09-Jun-24 06:04:40 :  completed - Toldermania
-09-Jun-24 06:04:40 :  completed - David Eugene Edwards (US)
-09-Jun-24 06:04:44 :  completed - Josh Berry (UK)
-09-Jun-24 06:04:44 :  completed - Anne Bakland
-09-Jun-24 06:04:44 :  completed - Bros
-09-Jun-24 06:04:44 :  completed - Bros
-09-Jun-24 06:04:44 :  completed - Crack Cloud (CAN)
-09-Jun-24 06:04:45 :  completed - Jacob AksglÃ¦de
-09-Jun-24 06:04:45 :  completed - RH
-09-Jun-24 06:04:45 :  completed - Shaka Loveless
-09-Jun-24 06:04:45 :  completed - Jacob AksglÃ¦de
-09-Jun-24 06:04:45 :  completed - Jacob AksglÃ¦de
-09-Jun-24 06:04:46 :  completed - Saturnus
-09-Jun-24 06:04:46 :  completed - Flyte (UK)
-09-Jun-24 06:04:46 :  completed - DÃ¸ssing
-09-Jun-24 06:04:46 :  completed - Sam Lee (UK)
-09-Jun-24 06:04:46 :  completed - Country Night
-09-Jun-24 06:04:48 :  completed - Hakkedrengene
-09-Jun-24 06:04:48 :  completed - Miriam Mandipira & The Soul Family
-09-Jun-24 06:04:48 :  completed - Miriam Mandipira & The Soul Family
-09-Jun-24 06:04:48 :  completed - Marie Key
-09-Jun-24 06:04:48 :  completed - Astrid Engberg
-09-Jun-24 06:04:49 :  completed - Marie Key
-09-Jun-24 06:04:49 :  completed - Marie Key
-09-Jun-24 06:04:49 :  completed - Marie Key
-09-Jun-24 06:04:49 :  completed - Jacob Bellens
-09-Jun-24 06:04:49 :  completed - Nana Rashid
-09-Jun-24 06:04:50 :  completed - Marie Key
-09-Jun-24 06:04:50 :  completed - Monty Franklin (AUS)
-09-Jun-24 06:04:50 :  completed - Matt Andersen (CAN)
-09-Jun-24 06:04:50 :  completed - Lasse Skriver
-09-Jun-24 06:04:50 :  completed - Marie Key
-09-Jun-24 06:04:51 :  completed - Natalie Cuomo (US) & Dan LaMorte (US)
-09-Jun-24 06:04:51 :  completed - Baloosh
-09-Jun-24 06:04:51 :  completed - Ella Augusta
-09-Jun-24 06:04:51 :  completed - Baloosh
-09-Jun-24 06:04:51 :  completed - Mads Langer
-09-Jun-24 06:04:55 :  completed - Thor Pedersen
-09-Jun-24 06:04:55 :  completed - Marie Key
-09-Jun-24 06:04:55 :  completed - Marie Key
-09-Jun-24 06:04:55 :  completed - School of X
-09-Jun-24 06:04:55 :  completed - Alexander Oscar
-09-Jun-24 06:04:56 :  completed - Elsked
-09-Jun-24 06:04:56 :  completed - Gong
-09-Jun-24 06:04:56 :  completed - Magnus MÃ¼nster
-09-Jun-24 06:04:56 :  completed - Ãsten
-09-Jun-24 06:04:56 :  completed - CÃ¦cilie Norby
-09-Jun-24 06:04:57 :  completed - ÃNDI
-09-Jun-24 06:04:57 :  completed - Tue West
-09-Jun-24 06:04:57 :  completed - Dans & LÃ¦r
-09-Jun-24 06:04:57 :  completed - Calby
-09-Jun-24 06:04:57 :  completed - Sega Bodega
-09-Jun-24 06:04:59 :  completed - Leoniden (DE)
-09-Jun-24 06:04:59 :  completed - Julia Holter (US)
-09-Jun-24 06:04:59 :  completed - The Raveonettes
-09-Jun-24 06:04:59 :  completed - The Raveonettes
-09-Jun-24 06:04:59 :  completed - The Raveonettes
-09-Jun-24 06:05:01 :  completed - The Raveonettes
-09-Jun-24 06:05:01 :  completed - The Raveonettes
-09-Jun-24 06:05:01 :  completed - Fallulah
-09-Jun-24 06:05:01 :  completed - The Raveonettes
-09-Jun-24 06:05:01 :  completed - Signe Svendsen & Kajsa Vala
-09-Jun-24 06:05:02 :  completed - Larry Dean (SCT)
-09-Jun-24 06:05:02 :  completed - OTOOTO
-09-Jun-24 06:05:02 :  completed - Nabiha
-09-Jun-24 06:05:02 :  completed - Unmack
-09-Jun-24 06:05:02 :  completed - Alberte Winding
-09-Jun-24 06:05:04 :  completed - Baal
-09-Jun-24 06:05:04 :  completed - Baal
-09-Jun-24 06:05:04 :  completed - Baal
-09-Jun-24 06:05:04 :  completed - Nymalet
-09-Jun-24 06:05:04 :  completed - Baal
-09-Jun-24 06:05:05 :  completed - Martin NÃ¸rgaard
-09-Jun-24 06:05:05 :  completed - The Comedy Store
-09-Jun-24 06:05:05 :  completed - Martin NÃ¸rgaard
-09-Jun-24 06:05:05 :  completed - Tomas HÃ¸ffding
-09-Jun-24 06:05:05 :  completed - Tomas HÃ¸ffding
-09-Jun-24 06:05:06 :  completed - Lasse Rimmer
-09-Jun-24 06:05:06 :  completed - Natasha Brock
-09-Jun-24 06:05:06 :  completed - total: 102
-09-Jun-24 06:05:06 : -----------------------------------------------------------------------------------------------------------------
-09-Jun-24 06:05:06 :  Starting  - (culturebox.py) scraper
-09-Jun-24 06:05:11 :  completed - BLACK BOX - SAT 8 JUNE 2024
-09-Jun-24 06:05:13 :  completed - BLACK BOX - FRI 14 JUNE 2024
-09-Jun-24 06:05:16 :  completed - BLACK BOX - SAT 15 JUNE 2024
-09-Jun-24 06:05:20 :  completed - BLACK BOX - FRI 21 JUNE 2024
-09-Jun-24 06:05:22 :  completed - BLACK BOX - SAT 22 JUNE 2024
-09-Jun-24 06:05:25 :  completed - BLACK BOX - FRI 28 JUNE 2024
-09-Jun-24 06:05:27 :  completed - BLACK BOX - SAT 29 JUNE 2024
-09-Jun-24 06:05:29 :  completed - BLACK BOX - FRI 5 JULY 2024
-09-Jun-24 06:05:32 :  completed - BLACK BOX - SAT 6 JULY 2024
-09-Jun-24 06:05:36 :  completed - BLACK BOX - FRI 12 JULY 2024
-09-Jun-24 06:05:53 :  completed - BLACK BOX - SAT 13 JULY 2024
-09-Jun-24 06:05:55 :  completed - BLACK BOX - FRI 19 JULY 2024
-09-Jun-24 06:05:58 :  completed - BLACK BOX - SAT 20 JULY 2024
-09-Jun-24 06:06:00 :  completed - BLACK BOX - FRI 26 JULY 2024
-09-Jun-24 06:06:00 :  completed - total: 14
-09-Jun-24 06:06:00 : -----------------------------------------------------------------------------------------------------------------
-09-Jun-24 06:06:00 :  Starting  - (loppen.py) scraper
-09-Jun-24 06:06:04 :  completed - Rain Parade
-09-Jun-24 06:06:08 :  completed - Mildlife
-09-Jun-24 06:06:11 :  completed - Glyders
-09-Jun-24 06:06:14 :  completed - Frigjort Festival 2024 fredag
-09-Jun-24 06:06:18 :  completed - Frigjort Festival 2024 lørdag
-09-Jun-24 06:06:20 :  completed - Gustaf
-09-Jun-24 06:06:24 :  completed - David Ritschard
-09-Jun-24 06:06:28 :  completed - Januar
-09-Jun-24 06:06:31 :  completed - Library Card
-09-Jun-24 06:06:34 :  completed - Causa Sui 2024
-09-Jun-24 06:06:36 :  completed - The Darts 2024
-09-Jun-24 06:06:40 :  completed - Maustetytöt
-09-Jun-24 06:06:43 :  completed - Alex Warren
-09-Jun-24 06:06:47 :  completed - The Mukherjee Development
-09-Jun-24 06:06:51 :  completed - Amanda Bergman
-09-Jun-24 06:06:54 :  completed - GIRL & GIRL
-09-Jun-24 06:06:56 :  completed - Bodega
-09-Jun-24 06:06:59 :  completed - J Bernardt
-09-Jun-24 06:07:03 :  completed - The Headhunters
-09-Jun-24 06:07:06 :  completed - Hjalte Ross
-09-Jun-24 06:07:09 :  completed - trust
-09-Jun-24 06:07:13 :  completed - Crash Test Dummies
-09-Jun-24 06:07:16 :  completed - Total Hip Replacement
-09-Jun-24 06:07:20 :  completed - Royel Otis
-09-Jun-24 06:07:23 :  completed - Jonny Hefty & Jøden
-09-Jun-24 06:07:26 :  completed - Nadine Shah
-09-Jun-24 06:07:29 :  completed - Personal Trainer
-09-Jun-24 06:07:32 :  completed - Shannon and the Clams
-09-Jun-24 06:07:34 :  completed - The Sheepdogs
-09-Jun-24 06:07:37 :  completed - EARLY JAMES
-09-Jun-24 06:07:37 :  completed - total: 30
-09-Jun-24 06:07:37 : -----------------------------------------------------------------------------------------------------------------
-09-Jun-24 06:07:37 :  Starting  - (pumpehuset.py) scraper
-09-Jun-24 06:07:40 :  completed - Destin Conrad
-09-Jun-24 06:07:41 :  completed - Richie Kotzen
-09-Jun-24 06:07:42 :  completed - Babasónicos
-09-Jun-24 06:07:43 :  completed - Lil Darkie
-09-Jun-24 06:07:43 :  completed - Hanabie
-09-Jun-24 06:07:43 :  completed - Plini
-09-Jun-24 06:07:43 :  completed - Wos
-09-Jun-24 06:07:43 :  completed - No Te Va Gustar
-09-Jun-24 06:07:43 :  completed - Babasónicos Ekstrakoncert
-09-Jun-24 06:07:46 :  completed - No Te Va Gustar
-09-Jun-24 06:07:46 :  completed - Wos
-09-Jun-24 06:07:46 :  completed - Babasónicos
-09-Jun-24 06:07:46 :  completed - Lil Darkie
-09-Jun-24 06:07:46 :  completed - Hanabie
-09-Jun-24 06:07:46 :  completed - Babasónicos Ekstrakoncert
-09-Jun-24 06:07:46 :  completed - Plini
-09-Jun-24 06:07:46 :  completed - Richie Kotzen
-09-Jun-24 06:07:46 :  completed - Destin Conrad
-09-Jun-24 06:07:48 :  completed - Plini
-09-Jun-24 06:07:48 :  completed - Babasónicos Ekstrakoncert
-09-Jun-24 06:07:49 :  completed - Babasónicos
-09-Jun-24 06:07:49 :  completed - No Te Va Gustar
-09-Jun-24 06:07:49 :  completed - Destin Conrad
-09-Jun-24 06:07:49 :  completed - Wos
-09-Jun-24 06:07:49 :  completed - Richie Kotzen
-09-Jun-24 06:07:49 :  completed - Lil Darkie
-09-Jun-24 06:07:49 :  completed - Hanabie
-09-Jun-24 06:07:51 :  completed - Babasónicos Ekstrakoncert
-09-Jun-24 06:07:51 :  completed - Plini
-09-Jun-24 06:07:51 :  completed - Richie Kotzen
-09-Jun-24 06:07:51 :  completed - Wos
-09-Jun-24 06:07:52 :  completed - Lil Darkie
-09-Jun-24 06:07:52 :  completed - Babasónicos
-09-Jun-24 06:07:52 :  completed - No Te Va Gustar
-09-Jun-24 06:07:52 :  completed - Hanabie
-09-Jun-24 06:07:52 :  completed - Destin Conrad
-09-Jun-24 06:07:53 :  completed - No Te Va Gustar
-09-Jun-24 06:07:54 :  completed - Richie Kotzen
-09-Jun-24 06:07:54 :  completed - Destin Conrad
-09-Jun-24 06:07:54 :  completed - Babasónicos Ekstrakoncert
-09-Jun-24 06:07:54 :  completed - Lil Darkie
-09-Jun-24 06:07:54 :  completed - Plini
-09-Jun-24 06:07:54 :  completed - Wos
-09-Jun-24 06:07:55 :  completed - Hanabie
-09-Jun-24 06:07:55 :  completed - Babasónicos
-09-Jun-24 06:07:56 :  completed - Hanabie
-09-Jun-24 06:07:56 :  completed - Plini
-09-Jun-24 06:07:56 :  completed - Lil Darkie
-09-Jun-24 06:07:56 :  completed - Babasónicos Ekstrakoncert
-09-Jun-24 06:07:57 :  completed - No Te Va Gustar
-09-Jun-24 06:07:57 :  completed - Destin Conrad
-09-Jun-24 06:07:57 :  completed - Wos
-09-Jun-24 06:07:57 :  completed - Babasónicos
-09-Jun-24 06:07:58 :  completed - Richie Kotzen
-09-Jun-24 06:07:59 :  completed - Lil Darkie
-09-Jun-24 06:08:00 :  completed - Richie Kotzen
-09-Jun-24 06:08:00 :  completed - Babasónicos Ekstrakoncert
-09-Jun-24 06:08:00 :  completed - Hanabie
-09-Jun-24 06:08:00 :  completed - Plini
-09-Jun-24 06:08:00 :  completed - Babasónicos
-09-Jun-24 06:08:00 :  completed - Wos
-09-Jun-24 06:08:00 :  completed - Destin Conrad
-09-Jun-24 06:08:03 :  completed - No Te Va Gustar
-09-Jun-24 06:08:05 :  completed - Babasónicos Ekstrakoncert
-09-Jun-24 06:08:05 :  completed - Lil Darkie
-09-Jun-24 06:08:05 :  completed - Hanabie
-09-Jun-24 06:08:05 :  completed - Plini
-09-Jun-24 06:08:06 :  completed - Richie Kotzen
-09-Jun-24 06:08:06 :  completed - Wos
-09-Jun-24 06:08:06 :  completed - Babasónicos
-09-Jun-24 06:08:06 :  completed - Destin Conrad
-09-Jun-24 06:08:06 :  completed - No Te Va Gustar
-09-Jun-24 06:08:07 :  completed - Babasónicos
-09-Jun-24 06:08:08 :  completed - Hanabie
-09-Jun-24 06:08:08 :  completed - Plini
-09-Jun-24 06:08:08 :  completed - Richie Kotzen
-09-Jun-24 06:08:08 :  completed - Destin Conrad
-09-Jun-24 06:08:09 :  completed - Wos
-09-Jun-24 06:08:09 :  completed - Babasónicos Ekstrakoncert
-09-Jun-24 06:08:09 :  completed - No Te Va Gustar
-09-Jun-24 06:08:09 :  completed - Lil Darkie
-09-Jun-24 06:08:12 :  completed - Soulfly
-09-Jun-24 06:08:12 :  completed - Electric Sun Fest
-09-Jun-24 06:08:12 :  completed - Ari Abdul
-09-Jun-24 06:08:13 :  completed - Electric Sun Fest
-09-Jun-24 06:08:13 :  completed - Blonde Redhead
-09-Jun-24 06:08:13 :  completed - Boldy James + The Alchemist
-09-Jun-24 06:08:13 :  completed - Cro-Mags
-09-Jun-24 06:08:13 :  completed - Ty Segall
-09-Jun-24 06:08:14 :  completed - Terror + Lifesick
-09-Jun-24 06:08:16 :  completed - Electric Sun Fest
-09-Jun-24 06:08:16 :  completed - Ty Segall
-09-Jun-24 06:08:16 :  completed - Ari Abdul
-09-Jun-24 06:08:16 :  completed - Boldy James + The Alchemist
-09-Jun-24 06:08:16 :  completed - Cro-Mags
-09-Jun-24 06:08:16 :  completed - Electric Sun Fest
-09-Jun-24 06:08:16 :  completed - Terror + Lifesick
-09-Jun-24 06:08:21 :  completed - Soulfly
-09-Jun-24 06:08:27 :  completed - Blonde Redhead
-09-Jun-24 06:08:29 :  completed - Soulfly
-09-Jun-24 06:08:29 :  completed - Ari Abdul
-09-Jun-24 06:08:30 :  completed - Blonde Redhead
-09-Jun-24 06:08:30 :  completed - Cro-Mags
-09-Jun-24 06:08:30 :  completed - Terror + Lifesick
-09-Jun-24 06:08:30 :  completed - Electric Sun Fest
-09-Jun-24 06:08:30 :  completed - Electric Sun Fest
-09-Jun-24 06:08:30 :  completed - Ty Segall
-09-Jun-24 06:08:30 :  completed - Boldy James + The Alchemist
-09-Jun-24 06:08:32 :  completed - Electric Sun Fest
-09-Jun-24 06:08:32 :  completed - Cro-Mags
-09-Jun-24 06:08:32 :  completed - Soulfly
-09-Jun-24 06:08:32 :  completed - Terror + Lifesick
-09-Jun-24 06:08:33 :  completed - Boldy James + The Alchemist
-09-Jun-24 06:08:33 :  completed - Ari Abdul
-09-Jun-24 06:08:33 :  completed - Blonde Redhead
-09-Jun-24 06:08:33 :  completed - Electric Sun Fest
-09-Jun-24 06:08:33 :  completed - Ty Segall
-09-Jun-24 06:08:35 :  completed - Cro-Mags
-09-Jun-24 06:08:36 :  completed - Terror + Lifesick
-09-Jun-24 06:08:36 :  completed - Electric Sun Fest
-09-Jun-24 06:08:36 :  completed - Boldy James + The Alchemist
-09-Jun-24 06:08:36 :  completed - Soulfly
-09-Jun-24 06:08:36 :  completed - Ari Abdul
-09-Jun-24 06:08:36 :  completed - Electric Sun Fest
-09-Jun-24 06:08:36 :  completed - Blonde Redhead
-09-Jun-24 06:08:36 :  completed - Ty Segall
-09-Jun-24 06:08:38 :  completed - Electric Sun Fest
-09-Jun-24 06:08:38 :  completed - Cro-Mags
-09-Jun-24 06:08:38 :  completed - Ari Abdul
-09-Jun-24 06:08:39 :  completed - Soulfly
-09-Jun-24 06:08:39 :  completed - Ty Segall
-09-Jun-24 06:08:39 :  completed - Blonde Redhead
-09-Jun-24 06:08:39 :  completed - Terror + Lifesick
-09-Jun-24 06:08:39 :  completed - Boldy James + The Alchemist
-09-Jun-24 06:08:40 :  completed - Electric Sun Fest
-09-Jun-24 06:08:42 :  completed - Boldy James + The Alchemist
-09-Jun-24 06:08:42 :  completed - Terror + Lifesick
-09-Jun-24 06:08:43 :  completed - Cro-Mags
-09-Jun-24 06:08:43 :  completed - Ty Segall
-09-Jun-24 06:08:43 :  completed - Soulfly
-09-Jun-24 06:08:43 :  completed - Electric Sun Fest
-09-Jun-24 06:08:43 :  completed - Ari Abdul
-09-Jun-24 06:08:44 :  completed - Electric Sun Fest
-09-Jun-24 06:08:46 :  completed - Blonde Redhead
-09-Jun-24 06:08:57 :  completed - Soulfly
-09-Jun-24 06:08:57 :  completed - Cro-Mags
-09-Jun-24 06:08:57 :  completed - Ari Abdul
-09-Jun-24 06:08:57 :  completed - Blonde Redhead
-09-Jun-24 06:08:57 :  completed - Electric Sun Fest
-09-Jun-24 06:08:57 :  completed - Terror + Lifesick
-09-Jun-24 06:08:57 :  completed - Ty Segall
-09-Jun-24 06:08:57 :  completed - Boldy James + The Alchemist
-09-Jun-24 06:09:00 :  completed - Electric Sun Fest
-09-Jun-24 06:09:16 :  completed - Ari Abdul
-09-Jun-24 06:09:17 :  completed - Terror + Lifesick
-09-Jun-24 06:09:17 :  completed - Electric Sun Fest
-09-Jun-24 06:09:17 :  completed - Boldy James + The Alchemist
-09-Jun-24 06:09:17 :  completed - Electric Sun Fest
-09-Jun-24 06:09:17 :  completed - Ty Segall
-09-Jun-24 06:09:17 :  completed - Soulfly
-09-Jun-24 06:09:17 :  completed - Blonde Redhead
-09-Jun-24 06:09:17 :  completed - Cro-Mags
-09-Jun-24 06:09:31 :  completed - Avi Kaplan
-09-Jun-24 06:09:32 :  completed - Evergrey
-09-Jun-24 06:09:32 :  completed - Symphony X
-09-Jun-24 06:09:32 :  completed - Skyggesiden
-09-Jun-24 06:09:32 :  completed - Varg2TM
-09-Jun-24 06:09:32 :  completed - Left To Die + Incantation
-09-Jun-24 06:09:32 :  completed - Randall King
-09-Jun-24 06:09:33 :  completed - 06 Boys
-09-Jun-24 06:09:35 :  completed - BODYSLAM! Wrestling
-09-Jun-24 06:09:37 :  completed - BODYSLAM! Wrestling
-09-Jun-24 06:09:37 :  completed - Evergrey
-09-Jun-24 06:09:37 :  completed - Symphony X
-09-Jun-24 06:09:38 :  completed - Randall King
-09-Jun-24 06:09:38 :  completed - 06 Boys
-09-Jun-24 06:09:38 :  completed - Left To Die + Incantation
-09-Jun-24 06:09:38 :  completed - Varg2TM
-09-Jun-24 06:09:38 :  completed - Skyggesiden
-09-Jun-24 06:09:39 :  completed - Avi Kaplan
-09-Jun-24 06:09:40 :  completed - Varg2TM
-09-Jun-24 06:09:41 :  completed - Avi Kaplan
-09-Jun-24 06:09:41 :  completed - Skyggesiden
-09-Jun-24 06:09:42 :  completed - Evergrey
-09-Jun-24 06:09:42 :  completed - Left To Die + Incantation
-09-Jun-24 06:09:42 :  completed - Randall King
-09-Jun-24 06:09:42 :  completed - BODYSLAM! Wrestling
-09-Jun-24 06:09:42 :  completed - 06 Boys
-09-Jun-24 06:09:42 :  completed - Symphony X
-09-Jun-24 06:09:44 :  completed - Evergrey
-09-Jun-24 06:09:44 :  completed - Left To Die + Incantation
-09-Jun-24 06:09:44 :  completed - 06 Boys
-09-Jun-24 06:09:44 :  completed - BODYSLAM! Wrestling
-09-Jun-24 06:09:45 :  completed - Avi Kaplan
-09-Jun-24 06:09:45 :  completed - Randall King
-09-Jun-24 06:09:45 :  completed - Varg2TM
-09-Jun-24 06:09:45 :  completed - Symphony X
-09-Jun-24 06:09:45 :  completed - Skyggesiden
-09-Jun-24 06:09:47 :  completed - Symphony X
-09-Jun-24 06:09:47 :  completed - Varg2TM
-09-Jun-24 06:09:47 :  completed - Left To Die + Incantation
-09-Jun-24 06:09:48 :  completed - Avi Kaplan
-09-Jun-24 06:09:48 :  completed - Randall King
-09-Jun-24 06:09:48 :  completed - 06 Boys
-09-Jun-24 06:09:48 :  completed - Evergrey
-09-Jun-24 06:09:48 :  completed - BODYSLAM! Wrestling
-09-Jun-24 06:09:48 :  completed - Skyggesiden
-09-Jun-24 06:09:50 :  completed - Randall King
-09-Jun-24 06:09:50 :  completed - Avi Kaplan
-09-Jun-24 06:09:51 :  completed - Varg2TM
-09-Jun-24 06:09:51 :  completed - 06 Boys
-09-Jun-24 06:09:51 :  completed - Skyggesiden
-09-Jun-24 06:09:51 :  completed - Evergrey
-09-Jun-24 06:09:51 :  completed - BODYSLAM! Wrestling
-09-Jun-24 06:09:51 :  completed - Symphony X
-09-Jun-24 06:09:52 :  completed - Left To Die + Incantation
-09-Jun-24 06:09:54 :  completed - Randall King
-09-Jun-24 06:09:54 :  completed - Avi Kaplan
-09-Jun-24 06:09:54 :  completed - Left To Die + Incantation
-09-Jun-24 06:09:54 :  completed - Symphony X
-09-Jun-24 06:09:55 :  completed - BODYSLAM! Wrestling
-09-Jun-24 06:09:55 :  completed - Evergrey
-09-Jun-24 06:09:55 :  completed - 06 Boys
-09-Jun-24 06:09:55 :  completed - Skyggesiden
-09-Jun-24 06:09:55 :  completed - Varg2TM
-09-Jun-24 06:09:57 :  completed - Varg2TM
-09-Jun-24 06:09:57 :  completed - Randall King
-09-Jun-24 06:09:57 :  completed - 06 Boys
-09-Jun-24 06:09:57 :  completed - Left To Die + Incantation
-09-Jun-24 06:09:57 :  completed - Evergrey
-09-Jun-24 06:09:58 :  completed - Symphony X
-09-Jun-24 06:09:58 :  completed - BODYSLAM! Wrestling
-09-Jun-24 06:09:58 :  completed - Avi Kaplan
-09-Jun-24 06:10:02 :  completed - Skyggesiden
-09-Jun-24 06:10:04 :  completed - Randall King
-09-Jun-24 06:10:04 :  completed - Avi Kaplan
-09-Jun-24 06:10:04 :  completed - 06 Boys
-09-Jun-24 06:10:04 :  completed - Left To Die + Incantation
-09-Jun-24 06:10:04 :  completed - Evergrey
-09-Jun-24 06:10:04 :  completed - Varg2TM
-09-Jun-24 06:10:05 :  completed - BODYSLAM! Wrestling
-09-Jun-24 06:10:05 :  completed - Symphony X
-09-Jun-24 06:10:05 :  completed - Skyggesiden
-09-Jun-24 06:10:08 :  completed - El Kuelgue
-09-Jun-24 06:10:09 :  completed - Caligula's Horse
-09-Jun-24 06:10:09 :  completed - Udgårdsfest 2024
-09-Jun-24 06:10:09 :  completed - Jireel
-09-Jun-24 06:10:09 :  completed - Jazmin Bean
-09-Jun-24 06:10:09 :  completed - De Danske Hyrder
-09-Jun-24 06:10:09 :  completed - BFL - Brian For Livet
-09-Jun-24 06:10:09 :  completed - John Maus
-09-Jun-24 06:10:13 :  completed - Ghøstkid
-09-Jun-24 06:10:14 :  completed - Caligula's Horse
-09-Jun-24 06:10:14 :  completed - El Kuelgue
-09-Jun-24 06:10:14 :  completed - De Danske Hyrder
-09-Jun-24 06:10:15 :  completed - John Maus
-09-Jun-24 06:10:15 :  completed - Ghøstkid
-09-Jun-24 06:10:15 :  completed - Udgårdsfest 2024
-09-Jun-24 06:10:15 :  completed - Jireel
-09-Jun-24 06:10:15 :  completed - Jazmin Bean
-09-Jun-24 06:10:21 :  completed - BFL - Brian For Livet
-09-Jun-24 06:10:22 :  completed - John Maus
-09-Jun-24 06:10:22 :  completed - Caligula's Horse
-09-Jun-24 06:10:22 :  completed - Jazmin Bean
-09-Jun-24 06:10:23 :  completed - Ghøstkid
-09-Jun-24 06:10:23 :  completed - El Kuelgue
-09-Jun-24 06:10:23 :  completed - Jireel
-09-Jun-24 06:10:23 :  completed - Udgårdsfest 2024
-09-Jun-24 06:10:23 :  completed - BFL - Brian For Livet
-09-Jun-24 06:10:23 :  completed - De Danske Hyrder
-09-Jun-24 06:10:26 :  completed - John Maus
-09-Jun-24 06:10:26 :  completed - Udgårdsfest 2024
-09-Jun-24 06:10:26 :  completed - Ghøstkid
-09-Jun-24 06:10:26 :  completed - De Danske Hyrder
-09-Jun-24 06:10:26 :  completed - Jireel
-09-Jun-24 06:10:26 :  completed - Caligula's Horse
-09-Jun-24 06:10:26 :  completed - Jazmin Bean
-09-Jun-24 06:10:26 :  completed - El Kuelgue
-09-Jun-24 06:10:27 :  completed - BFL - Brian For Livet
-09-Jun-24 06:10:29 :  completed - BFL - Brian For Livet
-09-Jun-24 06:10:29 :  completed - John Maus
-09-Jun-24 06:10:29 :  completed - Jazmin Bean
-09-Jun-24 06:10:29 :  completed - Udgårdsfest 2024
-09-Jun-24 06:10:29 :  completed - Jireel
-09-Jun-24 06:10:29 :  completed - Ghøstkid
-09-Jun-24 06:10:29 :  completed - El Kuelgue
-09-Jun-24 06:10:30 :  completed - De Danske Hyrder
-09-Jun-24 06:10:30 :  completed - Caligula's Horse
-09-Jun-24 06:10:32 :  completed - El Kuelgue
-09-Jun-24 06:10:32 :  completed - Jazmin Bean
-09-Jun-24 06:10:32 :  completed - Jireel
-09-Jun-24 06:10:32 :  completed - Ghøstkid
-09-Jun-24 06:10:32 :  completed - Udgårdsfest 2024
-09-Jun-24 06:10:32 :  completed - De Danske Hyrder
-09-Jun-24 06:10:32 :  completed - John Maus
-09-Jun-24 06:10:32 :  completed - BFL - Brian For Livet
-09-Jun-24 06:10:33 :  completed - Caligula's Horse
-09-Jun-24 06:10:34 :  completed - Jireel
-09-Jun-24 06:10:34 :  completed - De Danske Hyrder
-09-Jun-24 06:10:34 :  completed - Udgårdsfest 2024
-09-Jun-24 06:10:34 :  completed - Caligula's Horse
-09-Jun-24 06:10:35 :  completed - Ghøstkid
-09-Jun-24 06:10:35 :  completed - El Kuelgue
-09-Jun-24 06:10:35 :  completed - John Maus
-09-Jun-24 06:10:35 :  completed - BFL - Brian For Livet
-09-Jun-24 06:10:35 :  completed - Jazmin Bean
-09-Jun-24 06:10:37 :  completed - De Danske Hyrder
-09-Jun-24 06:10:38 :  completed - Udgårdsfest 2024
-09-Jun-24 06:10:38 :  completed - Ghøstkid
-09-Jun-24 06:10:38 :  completed - Caligula's Horse
-09-Jun-24 06:10:38 :  completed - Jazmin Bean
-09-Jun-24 06:10:38 :  completed - Jireel
-09-Jun-24 06:10:38 :  completed - BFL - Brian For Livet
-09-Jun-24 06:10:38 :  completed - El Kuelgue
-09-Jun-24 06:10:38 :  completed - John Maus
-09-Jun-24 06:10:40 :  completed - Caligula's Horse
-09-Jun-24 06:10:40 :  completed - El Kuelgue
-09-Jun-24 06:10:40 :  completed - Jazmin Bean
-09-Jun-24 06:10:40 :  completed - John Maus
-09-Jun-24 06:10:40 :  completed - Udgårdsfest 2024
-09-Jun-24 06:10:40 :  completed - Ghøstkid
-09-Jun-24 06:10:41 :  completed - BFL - Brian For Livet
-09-Jun-24 06:10:41 :  completed - De Danske Hyrder
-09-Jun-24 06:10:41 :  completed - Jireel
-09-Jun-24 06:10:44 :  completed - Sungazer
-09-Jun-24 06:10:44 :  completed - Trentemøller
-09-Jun-24 06:10:44 :  completed - Future Palace
-09-Jun-24 06:10:45 :  completed - Leif Vollebekk
-09-Jun-24 06:10:45 :  completed - Blackbraid
-09-Jun-24 06:10:45 :  completed - ORM
-09-Jun-24 06:10:45 :  completed - Trentemøller
-09-Jun-24 06:10:45 :  completed - Kalandra + Lili Refrain
-09-Jun-24 06:10:45 :  completed - Chance Peña
-09-Jun-24 06:10:47 :  completed - Sungazer
-09-Jun-24 06:10:47 :  completed - Trentemøller
-09-Jun-24 06:10:47 :  completed - Future Palace
-09-Jun-24 06:10:48 :  completed - Kalandra + Lili Refrain
-09-Jun-24 06:10:48 :  completed - Blackbraid
-09-Jun-24 06:10:48 :  completed - ORM
-09-Jun-24 06:10:48 :  completed - Chance Peña
-09-Jun-24 06:10:48 :  completed - Trentemøller
-09-Jun-24 06:10:49 :  completed - Leif Vollebekk
-09-Jun-24 06:10:51 :  completed - Blackbraid
-09-Jun-24 06:10:51 :  completed - ORM
-09-Jun-24 06:10:51 :  completed - Future Palace
-09-Jun-24 06:10:52 :  completed - Sungazer
-09-Jun-24 06:10:52 :  completed - Trentemøller
-09-Jun-24 06:10:52 :  completed - Leif Vollebekk
-09-Jun-24 06:10:52 :  completed - Trentemøller
-09-Jun-24 06:10:52 :  completed - Chance Peña
-09-Jun-24 06:10:57 :  completed - Kalandra + Lili Refrain
-09-Jun-24 06:10:58 :  completed - ORM
-09-Jun-24 06:10:59 :  completed - Blackbraid
-09-Jun-24 06:10:59 :  completed - Kalandra + Lili Refrain
-09-Jun-24 06:10:59 :  completed - Trentemøller
-09-Jun-24 06:10:59 :  completed - Leif Vollebekk
-09-Jun-24 06:10:59 :  completed - Sungazer
-09-Jun-24 06:10:59 :  completed - Chance Peña
-09-Jun-24 06:10:59 :  completed - Trentemøller
-09-Jun-24 06:10:59 :  completed - Future Palace
-09-Jun-24 06:11:01 :  completed - Chance Peña
-09-Jun-24 06:11:01 :  completed - ORM
-09-Jun-24 06:11:02 :  completed - Kalandra + Lili Refrain
-09-Jun-24 06:11:02 :  completed - Leif Vollebekk
-09-Jun-24 06:11:02 :  completed - Blackbraid
-09-Jun-24 06:11:02 :  completed - Trentemøller
-09-Jun-24 06:11:02 :  completed - Trentemøller
-09-Jun-24 06:11:02 :  completed - Sungazer
-09-Jun-24 06:11:03 :  completed - Future Palace
-09-Jun-24 06:11:05 :  completed - Blackbraid
-09-Jun-24 06:11:06 :  completed - Trentemøller
-09-Jun-24 06:11:06 :  completed - Chance Peña
-09-Jun-24 06:11:06 :  completed - Future Palace
-09-Jun-24 06:11:06 :  completed - Trentemøller
-09-Jun-24 06:11:06 :  completed - Sungazer
-09-Jun-24 06:11:06 :  completed - ORM
-09-Jun-24 06:11:06 :  completed - Kalandra + Lili Refrain
-09-Jun-24 06:11:06 :  completed - Leif Vollebekk
-09-Jun-24 06:11:08 :  completed - Sungazer
-09-Jun-24 06:11:08 :  completed - Chance Peña
-09-Jun-24 06:11:08 :  completed - Future Palace
-09-Jun-24 06:11:09 :  completed - Blackbraid
-09-Jun-24 06:11:09 :  completed - Trentemøller
-09-Jun-24 06:11:09 :  completed - Leif Vollebekk
-09-Jun-24 06:11:09 :  completed - ORM
-09-Jun-24 06:11:09 :  completed - Kalandra + Lili Refrain
-09-Jun-24 06:11:09 :  completed - Trentemøller
-09-Jun-24 06:11:11 :  completed - Chance Peña
-09-Jun-24 06:11:11 :  completed - Leif Vollebekk
-09-Jun-24 06:11:11 :  completed - Kalandra + Lili Refrain
-09-Jun-24 06:11:11 :  completed - Trentemøller
-09-Jun-24 06:11:11 :  completed - Sungazer
-09-Jun-24 06:11:12 :  completed - ORM
-09-Jun-24 06:11:12 :  completed - Trentemøller
-09-Jun-24 06:11:12 :  completed - Future Palace
-09-Jun-24 06:11:18 :  completed - Blackbraid
-09-Jun-24 06:11:19 :  completed - Kalandra + Lili Refrain
-09-Jun-24 06:11:20 :  completed - Leif Vollebekk
-09-Jun-24 06:11:20 :  completed - Future Palace
-09-Jun-24 06:11:20 :  completed - ORM
-09-Jun-24 06:11:20 :  completed - Chance Peña
-09-Jun-24 06:11:20 :  completed - Trentemøller
-09-Jun-24 06:11:20 :  completed - Sungazer
-09-Jun-24 06:11:20 :  completed - Trentemøller
-09-Jun-24 06:11:26 :  completed - Blackbraid
-09-Jun-24 06:11:29 :  completed - Joywave
-09-Jun-24 06:11:30 :  completed - Two Another
-09-Jun-24 06:11:30 :  completed - APHACA
-09-Jun-24 06:11:30 :  completed - Veil Of Maya + Signs Of The Swarm
-09-Jun-24 06:11:30 :  completed - Gatecreeper
-09-Jun-24 06:11:30 :  completed - LYDSYN
-09-Jun-24 06:11:30 :  completed - Trentemøller
-09-Jun-24 06:11:30 :  completed - You Me At Six
-09-Jun-24 06:11:30 :  completed - Blues Pills
-09-Jun-24 06:11:34 :  completed - Two Another
-09-Jun-24 06:11:34 :  completed - Gatecreeper
-09-Jun-24 06:11:34 :  completed - Joywave
-09-Jun-24 06:11:34 :  completed - You Me At Six
-09-Jun-24 06:11:34 :  completed - LYDSYN
-09-Jun-24 06:11:35 :  completed - Veil Of Maya + Signs Of The Swarm
-09-Jun-24 06:11:35 :  completed - Blues Pills
-09-Jun-24 06:11:35 :  completed - Trentemøller
-09-Jun-24 06:11:37 :  completed - APHACA
-09-Jun-24 06:11:39 :  completed - APHACA
-09-Jun-24 06:11:39 :  completed - Joywave
-09-Jun-24 06:11:39 :  completed - Gatecreeper
-09-Jun-24 06:11:40 :  completed - Two Another
-09-Jun-24 06:11:40 :  completed - LYDSYN
-09-Jun-24 06:11:40 :  completed - Veil Of Maya + Signs Of The Swarm
-09-Jun-24 06:11:40 :  completed - Blues Pills
-09-Jun-24 06:11:40 :  completed - You Me At Six
-09-Jun-24 06:11:41 :  completed - Trentemøller
-09-Jun-24 06:11:42 :  completed - Joywave
-09-Jun-24 06:11:42 :  completed - Blues Pills
-09-Jun-24 06:11:43 :  completed - APHACA
-09-Jun-24 06:11:43 :  completed - Two Another
-09-Jun-24 06:11:43 :  completed - You Me At Six
-09-Jun-24 06:11:43 :  completed - LYDSYN
-09-Jun-24 06:11:43 :  completed - Veil Of Maya + Signs Of The Swarm
-09-Jun-24 06:11:43 :  completed - Gatecreeper
-09-Jun-24 06:11:44 :  completed - Trentemøller
-09-Jun-24 06:11:45 :  completed - Trentemøller
-09-Jun-24 06:11:45 :  completed - LYDSYN
-09-Jun-24 06:11:45 :  completed - Two Another
-09-Jun-24 06:11:46 :  completed - Blues Pills
-09-Jun-24 06:11:46 :  completed - APHACA
-09-Jun-24 06:11:46 :  completed - You Me At Six
-09-Jun-24 06:11:46 :  completed - Veil Of Maya + Signs Of The Swarm
-09-Jun-24 06:11:46 :  completed - Gatecreeper
-09-Jun-24 06:11:47 :  completed - Joywave
-09-Jun-24 06:11:50 :  completed - Blues Pills
-09-Jun-24 06:11:50 :  completed - Trentemøller
-09-Jun-24 06:11:51 :  completed - Joywave
-09-Jun-24 06:11:51 :  completed - LYDSYN
-09-Jun-24 06:11:51 :  completed - APHACA
-09-Jun-24 06:11:51 :  completed - Two Another
-09-Jun-24 06:11:51 :  completed - Veil Of Maya + Signs Of The Swarm
-09-Jun-24 06:11:51 :  completed - You Me At Six
-09-Jun-24 06:11:53 :  completed - Gatecreeper
-09-Jun-24 06:11:56 :  completed - You Me At Six
-09-Jun-24 06:11:56 :  completed - Gatecreeper
-09-Jun-24 06:11:56 :  completed - APHACA
-09-Jun-24 06:11:56 :  completed - Joywave
-09-Jun-24 06:11:57 :  completed - Two Another
-09-Jun-24 06:11:57 :  completed - LYDSYN
-09-Jun-24 06:11:57 :  completed - Veil Of Maya + Signs Of The Swarm
-09-Jun-24 06:11:57 :  completed - Blues Pills
-09-Jun-24 06:11:58 :  completed - Trentemøller
-09-Jun-24 06:12:00 :  completed - Blues Pills
-09-Jun-24 06:12:00 :  completed - You Me At Six
-09-Jun-24 06:12:01 :  completed - Joywave
-09-Jun-24 06:12:01 :  completed - Gatecreeper
-09-Jun-24 06:12:01 :  completed - Veil Of Maya + Signs Of The Swarm
-09-Jun-24 06:12:01 :  completed - LYDSYN
-09-Jun-24 06:12:01 :  completed - APHACA
-09-Jun-24 06:12:01 :  completed - Two Another
-09-Jun-24 06:12:01 :  completed - Trentemøller
-09-Jun-24 06:12:02 :  completed - Joywave
-09-Jun-24 06:12:02 :  completed - Trentemøller
-09-Jun-24 06:12:03 :  completed - APHACA
-09-Jun-24 06:12:03 :  completed - Gatecreeper
-09-Jun-24 06:12:03 :  completed - You Me At Six
-09-Jun-24 06:12:03 :  completed - Blues Pills
-09-Jun-24 06:12:03 :  completed - LYDSYN
-09-Jun-24 06:12:03 :  completed - Veil Of Maya + Signs Of The Swarm
-09-Jun-24 06:12:03 :  completed - Two Another
-09-Jun-24 06:12:08 :  completed - Roben &#038; Knud
-09-Jun-24 06:12:08 :  completed - Wheel
-09-Jun-24 06:12:09 :  completed - Smash Into Pieces
-09-Jun-24 06:12:09 :  completed - Kanonenfieber
-09-Jun-24 06:12:09 :  completed - Pind
-09-Jun-24 06:12:09 :  completed - BEAK>
-09-Jun-24 06:12:09 :  completed - Dark Tranquillity
-09-Jun-24 06:12:09 :  completed - Nakkeknaekker
-09-Jun-24 06:12:12 :  completed - Therapy?
-09-Jun-24 06:12:14 :  completed - Therapy?
-09-Jun-24 06:12:14 :  completed - Pind
-09-Jun-24 06:12:14 :  completed - Wheel
-09-Jun-24 06:12:14 :  completed - BEAK>
-09-Jun-24 06:12:14 :  completed - Dark Tranquillity
-09-Jun-24 06:12:14 :  completed - Roben &#038; Knud
-09-Jun-24 06:12:15 :  completed - Nakkeknaekker
-09-Jun-24 06:12:15 :  completed - Kanonenfieber
-09-Jun-24 06:12:17 :  completed - Smash Into Pieces
-09-Jun-24 06:12:18 :  completed - BEAK>
-09-Jun-24 06:12:18 :  completed - Roben &#038; Knud
-09-Jun-24 06:12:19 :  completed - Nakkeknaekker
-09-Jun-24 06:12:19 :  completed - Pind
-09-Jun-24 06:12:19 :  completed - Therapy?
-09-Jun-24 06:12:19 :  completed - Kanonenfieber
-09-Jun-24 06:12:19 :  completed - Dark Tranquillity
-09-Jun-24 06:12:19 :  completed - Wheel
-09-Jun-24 06:12:23 :  completed - Smash Into Pieces
-09-Jun-24 06:12:25 :  completed - Nakkeknaekker
-09-Jun-24 06:12:25 :  completed - Roben &#038; Knud
-09-Jun-24 06:12:25 :  completed - Therapy?
-09-Jun-24 06:12:25 :  completed - Pind
-09-Jun-24 06:12:25 :  completed - Smash Into Pieces
-09-Jun-24 06:12:25 :  completed - Kanonenfieber
-09-Jun-24 06:12:25 :  completed - Dark Tranquillity
-09-Jun-24 06:12:26 :  completed - Wheel
-09-Jun-24 06:12:27 :  completed - BEAK>
-09-Jun-24 06:12:28 :  completed - Dark Tranquillity
-09-Jun-24 06:12:29 :  completed - Therapy?
-09-Jun-24 06:12:30 :  completed - BEAK>
-09-Jun-24 06:12:30 :  completed - Pind
-09-Jun-24 06:12:30 :  completed - Wheel
-09-Jun-24 06:12:31 :  completed - Smash Into Pieces
-09-Jun-24 06:12:31 :  completed - Roben &#038; Knud
-09-Jun-24 06:12:31 :  completed - Nakkeknaekker
-09-Jun-24 06:12:32 :  completed - Kanonenfieber
-09-Jun-24 06:12:34 :  completed - BEAK>
-09-Jun-24 06:12:34 :  completed - Pind
-09-Jun-24 06:12:34 :  completed - Smash Into Pieces
-09-Jun-24 06:12:34 :  completed - Dark Tranquillity
-09-Jun-24 06:12:35 :  completed - Nakkeknaekker
-09-Jun-24 06:12:35 :  completed - Therapy?
-09-Jun-24 06:12:35 :  completed - Wheel
-09-Jun-24 06:12:35 :  completed - Roben &#038; Knud
-09-Jun-24 06:12:35 :  completed - Kanonenfieber
-09-Jun-24 06:12:39 :  completed - Pind
-09-Jun-24 06:12:39 :  completed - Smash Into Pieces
-09-Jun-24 06:12:39 :  completed - Kanonenfieber
-09-Jun-24 06:12:39 :  completed - BEAK>
-09-Jun-24 06:12:39 :  completed - Wheel
-09-Jun-24 06:12:39 :  completed - Therapy?
-09-Jun-24 06:12:39 :  completed - Nakkeknaekker
-09-Jun-24 06:12:39 :  completed - Roben &#038; Knud
-09-Jun-24 06:12:39 :  completed - Dark Tranquillity
-09-Jun-24 06:12:41 :  completed - Roben &#038; Knud
-09-Jun-24 06:12:41 :  completed - Smash Into Pieces
-09-Jun-24 06:12:41 :  completed - Dark Tranquillity
-09-Jun-24 06:12:41 :  completed - Therapy?
-09-Jun-24 06:12:42 :  completed - Nakkeknaekker
-09-Jun-24 06:12:42 :  completed - BEAK>
-09-Jun-24 06:12:42 :  completed - Pind
-09-Jun-24 06:12:42 :  completed - Kanonenfieber
-09-Jun-24 06:12:42 :  completed - Wheel
-09-Jun-24 06:12:43 :  completed - Smash Into Pieces
-09-Jun-24 06:12:43 :  completed - Nakkeknaekker
-09-Jun-24 06:12:43 :  completed - Dark Tranquillity
-09-Jun-24 06:12:44 :  completed - Therapy?
-09-Jun-24 06:12:44 :  completed - Wheel
-09-Jun-24 06:12:44 :  completed - Pind
-09-Jun-24 06:12:44 :  completed - Kanonenfieber
-09-Jun-24 06:12:44 :  completed - Roben &#038; Knud
-09-Jun-24 06:12:44 :  completed - BEAK>
-09-Jun-24 06:12:47 :  completed - Bernth
-09-Jun-24 06:12:47 :  completed - Roben &#038; Knud - ekstrakoncert
-09-Jun-24 06:12:47 :  completed - Front 242
-09-Jun-24 06:12:47 :  completed - Imminence
-09-Jun-24 06:12:47 :  completed - Darren Kiely
-09-Jun-24 06:12:47 :  completed - USO
-09-Jun-24 06:12:47 :  completed - Camma
-09-Jun-24 06:12:47 :  completed - Ezhel
-09-Jun-24 06:12:48 :  completed - Bernth
-09-Jun-24 06:12:49 :  completed - Front 242
-09-Jun-24 06:12:49 :  completed - USO
-09-Jun-24 06:12:49 :  completed - Roben &#038; Knud - ekstrakoncert
-09-Jun-24 06:12:49 :  completed - Imminence
-09-Jun-24 06:12:49 :  completed - Camma
-09-Jun-24 06:12:49 :  completed - Darren Kiely
-09-Jun-24 06:12:49 :  completed - Ezhel
-09-Jun-24 06:12:51 :  completed - Roben &#038; Knud - ekstrakoncert
-09-Jun-24 06:12:51 :  completed - Bernth
-09-Jun-24 06:12:51 :  completed - Camma
-09-Jun-24 06:12:51 :  completed - Front 242
-09-Jun-24 06:12:51 :  completed - USO
-09-Jun-24 06:12:51 :  completed - Ezhel
-09-Jun-24 06:12:51 :  completed - Darren Kiely
-09-Jun-24 06:12:51 :  completed - Imminence
-09-Jun-24 06:12:55 :  completed - USO
-09-Jun-24 06:12:55 :  completed - Camma
-09-Jun-24 06:12:55 :  completed - Ezhel
-09-Jun-24 06:12:55 :  completed - Imminence
-09-Jun-24 06:12:55 :  completed - Front 242
-09-Jun-24 06:12:55 :  completed - Roben &#038; Knud - ekstrakoncert
-09-Jun-24 06:12:55 :  completed - Bernth
-09-Jun-24 06:12:55 :  completed - Darren Kiely
-09-Jun-24 06:12:57 :  completed - Bernth
-09-Jun-24 06:12:57 :  completed - Imminence
-09-Jun-24 06:12:57 :  completed - USO
-09-Jun-24 06:12:57 :  completed - Front 242
-09-Jun-24 06:12:57 :  completed - Roben &#038; Knud - ekstrakoncert
-09-Jun-24 06:12:57 :  completed - Ezhel
-09-Jun-24 06:12:57 :  completed - Camma
-09-Jun-24 06:12:57 :  completed - Darren Kiely
-09-Jun-24 06:12:58 :  completed - USO
-09-Jun-24 06:12:59 :  completed - Roben &#038; Knud - ekstrakoncert
-09-Jun-24 06:12:59 :  completed - Front 242
-09-Jun-24 06:12:59 :  completed - Bernth
-09-Jun-24 06:12:59 :  completed - Darren Kiely
-09-Jun-24 06:12:59 :  completed - Imminence
-09-Jun-24 06:12:59 :  completed - Camma
-09-Jun-24 06:12:59 :  completed - Ezhel
-09-Jun-24 06:13:01 :  completed - Bernth
-09-Jun-24 06:13:01 :  completed - Ezhel
-09-Jun-24 06:13:01 :  completed - Roben &#038; Knud - ekstrakoncert
-09-Jun-24 06:13:01 :  completed - Front 242
-09-Jun-24 06:13:01 :  completed - USO
-09-Jun-24 06:13:01 :  completed - Darren Kiely
-09-Jun-24 06:13:01 :  completed - Imminence
-09-Jun-24 06:13:01 :  completed - Camma
-09-Jun-24 06:13:04 :  completed - Bernth
-09-Jun-24 06:13:04 :  completed - Ezhel
-09-Jun-24 06:13:04 :  completed - Imminence
-09-Jun-24 06:13:04 :  completed - Camma
-09-Jun-24 06:13:04 :  completed - Darren Kiely
-09-Jun-24 06:13:04 :  completed - Front 242
-09-Jun-24 06:13:04 :  completed - Roben &#038; Knud - ekstrakoncert
-09-Jun-24 06:13:04 :  completed - USO
-09-Jun-24 06:13:08 :  completed - Byhaven: Copenhagen Summer Jam
-09-Jun-24 06:13:08 :  completed - Byhaven: MELÉN + Eir
-09-Jun-24 06:13:08 :  completed - Byhaven: Sleazy Disco
-09-Jun-24 06:13:08 :  completed - Byhaven: Afro Ace Summer Party
-09-Jun-24 06:13:09 :  completed - Byhaven: Magnus Tempels + Mathilde Frontier
-09-Jun-24 06:13:09 :  completed - Byhaven: IKIGAI
-09-Jun-24 06:13:09 :  completed - Byhaven: Paklife
-09-Jun-24 06:13:09 :  completed - Byhaven: Born Into The 90's Meets Afrobeats
-09-Jun-24 06:13:09 :  completed - Byhaven: Grace Cummings + Maya Wanglen
-09-Jun-24 06:13:10 :  completed - Byhaven: Afro Ace Summer Party
-09-Jun-24 06:13:10 :  completed - Byhaven: Born Into The 90's Meets Afrobeats
-09-Jun-24 06:13:10 :  completed - Byhaven: Paklife
-09-Jun-24 06:13:11 :  completed - Byhaven: Copenhagen Summer Jam
-09-Jun-24 06:13:11 :  completed - Byhaven: MELÉN + Eir
-09-Jun-24 06:13:11 :  completed - Byhaven: Sleazy Disco
-09-Jun-24 06:13:11 :  completed - Byhaven: Grace Cummings + Maya Wanglen
-09-Jun-24 06:13:11 :  completed - Byhaven: Magnus Tempels + Mathilde Frontier
-09-Jun-24 06:13:11 :  completed - Byhaven: IKIGAI
-09-Jun-24 06:13:13 :  completed - Byhaven: Born Into The 90's Meets Afrobeats
-09-Jun-24 06:13:13 :  completed - Byhaven: MELÉN + Eir
-09-Jun-24 06:13:13 :  completed - Byhaven: Copenhagen Summer Jam
-09-Jun-24 06:13:13 :  completed - Byhaven: Paklife
-09-Jun-24 06:13:13 :  completed - Byhaven: IKIGAI
-09-Jun-24 06:13:13 :  completed - Byhaven: Sleazy Disco
-09-Jun-24 06:13:13 :  completed - Byhaven: Magnus Tempels + Mathilde Frontier
-09-Jun-24 06:13:13 :  completed - Byhaven: Grace Cummings + Maya Wanglen
-09-Jun-24 06:13:13 :  completed - Byhaven: Afro Ace Summer Party
-09-Jun-24 06:13:15 :  completed - Byhaven: MELÉN + Eir
-09-Jun-24 06:13:15 :  completed - Byhaven: Grace Cummings + Maya Wanglen
-09-Jun-24 06:13:15 :  completed - Byhaven: Sleazy Disco
-09-Jun-24 06:13:15 :  completed - Byhaven: Born Into The 90's Meets Afrobeats
-09-Jun-24 06:13:15 :  completed - Byhaven: Copenhagen Summer Jam
-09-Jun-24 06:13:15 :  completed - Byhaven: Magnus Tempels + Mathilde Frontier
-09-Jun-24 06:13:15 :  completed - Byhaven: IKIGAI
-09-Jun-24 06:13:15 :  completed - Byhaven: Paklife
-09-Jun-24 06:13:15 :  completed - Byhaven: Afro Ace Summer Party
-09-Jun-24 06:13:17 :  completed - Byhaven: Magnus Tempels + Mathilde Frontier
-09-Jun-24 06:13:17 :  completed - Byhaven: MELÉN + Eir
-09-Jun-24 06:13:17 :  completed - Byhaven: Grace Cummings + Maya Wanglen
-09-Jun-24 06:13:17 :  completed - Byhaven: IKIGAI
-09-Jun-24 06:13:17 :  completed - Byhaven: Sleazy Disco
-09-Jun-24 06:13:17 :  completed - Byhaven: Born Into The 90's Meets Afrobeats
-09-Jun-24 06:13:17 :  completed - Byhaven: Copenhagen Summer Jam
-09-Jun-24 06:13:17 :  completed - Byhaven: Afro Ace Summer Party
-09-Jun-24 06:13:17 :  completed - Byhaven: Paklife
-09-Jun-24 06:13:19 :  completed - Byhaven: Born Into The 90's Meets Afrobeats
-09-Jun-24 06:13:19 :  completed - Byhaven: Sleazy Disco
-09-Jun-24 06:13:19 :  completed - Byhaven: MELÉN + Eir
-09-Jun-24 06:13:19 :  completed - Byhaven: Grace Cummings + Maya Wanglen
-09-Jun-24 06:13:20 :  completed - Byhaven: Magnus Tempels + Mathilde Frontier
-09-Jun-24 06:13:20 :  completed - Byhaven: IKIGAI
-09-Jun-24 06:13:20 :  completed - Byhaven: Paklife
-09-Jun-24 06:13:20 :  completed - Byhaven: Copenhagen Summer Jam
-09-Jun-24 06:13:20 :  completed - Byhaven: Afro Ace Summer Party
-09-Jun-24 06:13:21 :  completed - Byhaven: Copenhagen Summer Jam
-09-Jun-24 06:13:22 :  completed - Byhaven: MELÉN + Eir
-09-Jun-24 06:13:22 :  completed - Byhaven: Born Into The 90's Meets Afrobeats
-09-Jun-24 06:13:22 :  completed - Byhaven: Paklife
-09-Jun-24 06:13:22 :  completed - Byhaven: Sleazy Disco
-09-Jun-24 06:13:22 :  completed - Byhaven: IKIGAI
-09-Jun-24 06:13:22 :  completed - Byhaven: Grace Cummings + Maya Wanglen
-09-Jun-24 06:13:22 :  completed - Byhaven: Magnus Tempels + Mathilde Frontier
-09-Jun-24 06:13:22 :  completed - Byhaven: Afro Ace Summer Party
-09-Jun-24 06:13:25 :  completed - Byhaven: Born Into The 90's Meets Afrobeats
-09-Jun-24 06:13:25 :  completed - Byhaven: Paklife
-09-Jun-24 06:13:25 :  completed - Byhaven: Sleazy Disco
-09-Jun-24 06:13:25 :  completed - Byhaven: Afro Ace Summer Party
-09-Jun-24 06:13:25 :  completed - Byhaven: Copenhagen Summer Jam
-09-Jun-24 06:13:25 :  completed - Byhaven: Grace Cummings + Maya Wanglen
-09-Jun-24 06:13:25 :  completed - Byhaven: Magnus Tempels + Mathilde Frontier
-09-Jun-24 06:13:25 :  completed - Byhaven: MELÉN + Eir
-09-Jun-24 06:13:25 :  completed - Byhaven: IKIGAI
-09-Jun-24 06:13:27 :  completed - Byhaven: Copenhagen Summer Jam
-09-Jun-24 06:13:27 :  completed - Byhaven: Paklife
-09-Jun-24 06:13:27 :  completed - Byhaven: Born Into The 90's Meets Afrobeats
-09-Jun-24 06:13:27 :  completed - Byhaven: IKIGAI
-09-Jun-24 06:13:27 :  completed - Byhaven: MELÉN + Eir
-09-Jun-24 06:13:27 :  completed - Byhaven: Grace Cummings + Maya Wanglen
-09-Jun-24 06:13:27 :  completed - Byhaven: Magnus Tempels + Mathilde Frontier
-09-Jun-24 06:13:27 :  completed - Byhaven: Afro Ace Summer Party
-09-Jun-24 06:13:27 :  completed - Byhaven: Sleazy Disco
-09-Jun-24 06:13:32 :  completed - Byhaven: UFINT + Godt Gået Frej
-09-Jun-24 06:13:32 :  completed - Byhaven: Techno In The Garden 2024
-09-Jun-24 06:13:33 :  completed - Byhaven: Tarick + CarlloYABOY
-09-Jun-24 06:13:33 :  completed - Byhaven: MILLE + Olivia Aia
-09-Jun-24 06:13:33 :  completed - Byhaven: Elisa Lama + maia maia
-09-Jun-24 06:13:33 :  completed - Byhaven: Gejst + Absurd
-09-Jun-24 06:13:33 :  completed - Byhaven: New Money
-09-Jun-24 06:13:33 :  completed - Byhaven: Luie
-09-Jun-24 06:13:33 :  completed - Byhaven: Love.Rave
-09-Jun-24 06:13:36 :  completed - Byhaven: MILLE + Olivia Aia
-09-Jun-24 06:13:36 :  completed - Byhaven: Tarick + CarlloYABOY
-09-Jun-24 06:13:36 :  completed - Byhaven: Techno In The Garden 2024
-09-Jun-24 06:13:36 :  completed - Byhaven: New Money
-09-Jun-24 06:13:36 :  completed - Byhaven: UFINT + Godt Gået Frej
-09-Jun-24 06:13:37 :  completed - Byhaven: Love.Rave
-09-Jun-24 06:13:37 :  completed - Byhaven: Elisa Lama + maia maia
-09-Jun-24 06:13:37 :  completed - Byhaven: Luie
-09-Jun-24 06:13:37 :  completed - Byhaven: Gejst + Absurd
-09-Jun-24 06:13:38 :  completed - Byhaven: Elisa Lama + maia maia
-09-Jun-24 06:13:38 :  completed - Byhaven: New Money
-09-Jun-24 06:13:39 :  completed - Byhaven: Tarick + CarlloYABOY
-09-Jun-24 06:13:39 :  completed - Byhaven: Techno In The Garden 2024
-09-Jun-24 06:13:39 :  completed - Byhaven: Love.Rave
-09-Jun-24 06:13:39 :  completed - Byhaven: MILLE + Olivia Aia
-09-Jun-24 06:13:39 :  completed - Byhaven: Luie
-09-Jun-24 06:13:39 :  completed - Byhaven: Gejst + Absurd
-09-Jun-24 06:13:39 :  completed - Byhaven: UFINT + Godt Gået Frej
-09-Jun-24 06:13:41 :  completed - Byhaven: Love.Rave
-09-Jun-24 06:13:41 :  completed - Byhaven: MILLE + Olivia Aia
-09-Jun-24 06:13:42 :  completed - Byhaven: Elisa Lama + maia maia
-09-Jun-24 06:13:42 :  completed - Byhaven: Luie
-09-Jun-24 06:13:42 :  completed - Byhaven: Techno In The Garden 2024
-09-Jun-24 06:13:42 :  completed - Byhaven: New Money
-09-Jun-24 06:13:42 :  completed - Byhaven: Tarick + CarlloYABOY
-09-Jun-24 06:13:42 :  completed - Byhaven: UFINT + Godt Gået Frej
-09-Jun-24 06:13:42 :  completed - Byhaven: Gejst + Absurd
-09-Jun-24 06:13:43 :  completed - Byhaven: Tarick + CarlloYABOY
-09-Jun-24 06:13:44 :  completed - Byhaven: MILLE + Olivia Aia
-09-Jun-24 06:13:44 :  completed - Byhaven: Love.Rave
-09-Jun-24 06:13:44 :  completed - Byhaven: Gejst + Absurd
-09-Jun-24 06:13:44 :  completed - Byhaven: Elisa Lama + maia maia
-09-Jun-24 06:13:44 :  completed - Byhaven: New Money
-09-Jun-24 06:13:44 :  completed - Byhaven: Techno In The Garden 2024
-09-Jun-24 06:13:44 :  completed - Byhaven: UFINT + Godt Gået Frej
-09-Jun-24 06:13:44 :  completed - Byhaven: Luie
-09-Jun-24 06:13:47 :  completed - Byhaven: UFINT + Godt Gået Frej
-09-Jun-24 06:13:47 :  completed - Byhaven: Gejst + Absurd
-09-Jun-24 06:13:47 :  completed - Byhaven: New Money
-09-Jun-24 06:13:48 :  completed - Byhaven: Techno In The Garden 2024
-09-Jun-24 06:13:48 :  completed - Byhaven: MILLE + Olivia Aia
-09-Jun-24 06:13:48 :  completed - Byhaven: Tarick + CarlloYABOY
-09-Jun-24 06:13:48 :  completed - Byhaven: Elisa Lama + maia maia
-09-Jun-24 06:13:48 :  completed - Byhaven: Luie
-09-Jun-24 06:13:48 :  completed - Byhaven: Love.Rave
-09-Jun-24 06:13:49 :  completed - Byhaven: Techno In The Garden 2024
-09-Jun-24 06:13:49 :  completed - Byhaven: UFINT + Godt Gået Frej
-09-Jun-24 06:13:49 :  completed - Byhaven: New Money
-09-Jun-24 06:13:49 :  completed - Byhaven: MILLE + Olivia Aia
-09-Jun-24 06:13:50 :  completed - Byhaven: Elisa Lama + maia maia
-09-Jun-24 06:13:50 :  completed - Byhaven: Gejst + Absurd
-09-Jun-24 06:13:50 :  completed - Byhaven: Luie
-09-Jun-24 06:13:50 :  completed - Byhaven: Tarick + CarlloYABOY
-09-Jun-24 06:13:50 :  completed - Byhaven: Love.Rave
-09-Jun-24 06:13:52 :  completed - Byhaven: Luie
-09-Jun-24 06:13:52 :  completed - Byhaven: New Money
-09-Jun-24 06:13:52 :  completed - Byhaven: Gejst + Absurd
-09-Jun-24 06:13:52 :  completed - Byhaven: Techno In The Garden 2024
-09-Jun-24 06:13:52 :  completed - Byhaven: MILLE + Olivia Aia
-09-Jun-24 06:13:53 :  completed - Byhaven: UFINT + Godt Gået Frej
-09-Jun-24 06:13:53 :  completed - Byhaven: Love.Rave
-09-Jun-24 06:13:53 :  completed - Byhaven: Elisa Lama + maia maia
-09-Jun-24 06:13:53 :  completed - Byhaven: Tarick + CarlloYABOY
-09-Jun-24 06:13:55 :  completed - Byhaven: Tarick + CarlloYABOY
-09-Jun-24 06:13:55 :  completed - Byhaven: UFINT + Godt Gået Frej
-09-Jun-24 06:13:55 :  completed - Byhaven: MILLE + Olivia Aia
-09-Jun-24 06:13:55 :  completed - Byhaven: Techno In The Garden 2024
-09-Jun-24 06:13:55 :  completed - Byhaven: Elisa Lama + maia maia
-09-Jun-24 06:13:55 :  completed - Byhaven: Love.Rave
-09-Jun-24 06:13:55 :  completed - Byhaven: Gejst + Absurd
-09-Jun-24 06:13:56 :  completed - Byhaven: Luie
-09-Jun-24 06:13:56 :  completed - Byhaven: New Money
-09-Jun-24 06:13:59 :  completed - Byhaven: Paella Cósmica
-09-Jun-24 06:13:59 :  completed - Byhaven: Kvarti + Vincent Wood
-09-Jun-24 06:13:59 :  completed - Byhaven: The Colour + MILA
-09-Jun-24 06:13:59 :  completed - Byhaven: Offernat + Mouth Wound
-09-Jun-24 06:13:59 :  completed - Byhaven: Dickies Jam 2024
-09-Jun-24 06:13:59 :  completed - Byhaven: Pære Banal + Sauna Senere
-09-Jun-24 06:13:59 :  completed - Byhaven: Sebastian Wolff
-09-Jun-24 06:13:59 :  completed - The Copenhell Family Reunion 2024
-09-Jun-24 06:13:59 :  completed - Byhaven: Sofie1998 + Søren Michelsen
-09-Jun-24 06:14:03 :  completed - Byhaven: Sebastian Wolff
-09-Jun-24 06:14:03 :  completed - The Copenhell Family Reunion 2024
-09-Jun-24 06:14:03 :  completed - Byhaven: Offernat + Mouth Wound
-09-Jun-24 06:14:03 :  completed - Byhaven: Paella Cósmica
-09-Jun-24 06:14:03 :  completed - Byhaven: Dickies Jam 2024
-09-Jun-24 06:14:03 :  completed - Byhaven: Kvarti + Vincent Wood
-09-Jun-24 06:14:03 :  completed - Byhaven: The Colour + MILA
-09-Jun-24 06:14:03 :  completed - Byhaven: Pære Banal + Sauna Senere
-09-Jun-24 06:14:03 :  completed - Byhaven: Sofie1998 + Søren Michelsen
-09-Jun-24 06:14:05 :  completed - Byhaven: Sebastian Wolff
-09-Jun-24 06:14:05 :  completed - Byhaven: The Colour + MILA
-09-Jun-24 06:14:05 :  completed - Byhaven: Dickies Jam 2024
-09-Jun-24 06:14:05 :  completed - Byhaven: Sofie1998 + Søren Michelsen
-09-Jun-24 06:14:05 :  completed - Byhaven: Paella Cósmica
-09-Jun-24 06:14:05 :  completed - The Copenhell Family Reunion 2024
-09-Jun-24 06:14:05 :  completed - Byhaven: Pære Banal + Sauna Senere
-09-Jun-24 06:14:05 :  completed - Byhaven: Offernat + Mouth Wound
-09-Jun-24 06:14:05 :  completed - Byhaven: Kvarti + Vincent Wood
-09-Jun-24 06:14:08 :  completed - The Copenhell Family Reunion 2024
-09-Jun-24 06:14:08 :  completed - Byhaven: The Colour + MILA
-09-Jun-24 06:14:08 :  completed - Byhaven: Dickies Jam 2024
-09-Jun-24 06:14:08 :  completed - Byhaven: Sofie1998 + Søren Michelsen
-09-Jun-24 06:14:09 :  completed - Byhaven: Sebastian Wolff
-09-Jun-24 06:14:09 :  completed - Byhaven: Paella Cósmica
-09-Jun-24 06:14:09 :  completed - Byhaven: Offernat + Mouth Wound
-09-Jun-24 06:14:09 :  completed - Byhaven: Kvarti + Vincent Wood
-09-Jun-24 06:14:09 :  completed - Byhaven: Pære Banal + Sauna Senere
-09-Jun-24 06:14:11 :  completed - Byhaven: Offernat + Mouth Wound
-09-Jun-24 06:14:11 :  completed - Byhaven: The Colour + MILA
-09-Jun-24 06:14:11 :  completed - Byhaven: Sofie1998 + Søren Michelsen
-09-Jun-24 06:14:11 :  completed - Byhaven: Dickies Jam 2024
-09-Jun-24 06:14:11 :  completed - Byhaven: Sebastian Wolff
-09-Jun-24 06:14:11 :  completed - The Copenhell Family Reunion 2024
-09-Jun-24 06:14:11 :  completed - Byhaven: Paella Cósmica
-09-Jun-24 06:14:11 :  completed - Byhaven: Pære Banal + Sauna Senere
-09-Jun-24 06:14:11 :  completed - Byhaven: Kvarti + Vincent Wood
-09-Jun-24 06:14:14 :  completed - Byhaven: Paella Cósmica
-09-Jun-24 06:14:14 :  completed - The Copenhell Family Reunion 2024
-09-Jun-24 06:14:14 :  completed - Byhaven: Kvarti + Vincent Wood
-09-Jun-24 06:14:14 :  completed - Byhaven: The Colour + MILA
-09-Jun-24 06:14:14 :  completed - Byhaven: Offernat + Mouth Wound
-09-Jun-24 06:14:14 :  completed - Byhaven: Pære Banal + Sauna Senere
-09-Jun-24 06:14:14 :  completed - Byhaven: Sebastian Wolff
-09-Jun-24 06:14:14 :  completed - Byhaven: Sofie1998 + Søren Michelsen
-09-Jun-24 06:14:14 :  completed - Byhaven: Dickies Jam 2024
-09-Jun-24 06:14:16 :  completed - Byhaven: Dickies Jam 2024
-09-Jun-24 06:14:16 :  completed - Byhaven: Pære Banal + Sauna Senere
-09-Jun-24 06:14:16 :  completed - Byhaven: Sofie1998 + Søren Michelsen
-09-Jun-24 06:14:16 :  completed - Byhaven: The Colour + MILA
-09-Jun-24 06:14:16 :  completed - The Copenhell Family Reunion 2024
-09-Jun-24 06:14:16 :  completed - Byhaven: Offernat + Mouth Wound
-09-Jun-24 06:14:16 :  completed - Byhaven: Paella Cósmica
-09-Jun-24 06:14:16 :  completed - Byhaven: Sebastian Wolff
-09-Jun-24 06:14:16 :  completed - Byhaven: Kvarti + Vincent Wood
-09-Jun-24 06:14:19 :  completed - Byhaven: Pære Banal + Sauna Senere
-09-Jun-24 06:14:19 :  completed - Byhaven: Dickies Jam 2024
-09-Jun-24 06:14:19 :  completed - Byhaven: Sofie1998 + Søren Michelsen
-09-Jun-24 06:14:19 :  completed - The Copenhell Family Reunion 2024
-09-Jun-24 06:14:19 :  completed - Byhaven: Paella Cósmica
-09-Jun-24 06:14:19 :  completed - Byhaven: Kvarti + Vincent Wood
-09-Jun-24 06:14:19 :  completed - Byhaven: Sebastian Wolff
-09-Jun-24 06:14:19 :  completed - Byhaven: Offernat + Mouth Wound
-09-Jun-24 06:14:19 :  completed - Byhaven: The Colour + MILA
-09-Jun-24 06:14:21 :  completed - Byhaven: Dickies Jam 2024
-09-Jun-24 06:14:21 :  completed - The Copenhell Family Reunion 2024
-09-Jun-24 06:14:21 :  completed - Byhaven: Sofie1998 + Søren Michelsen
-09-Jun-24 06:14:21 :  completed - Byhaven: The Colour + MILA
-09-Jun-24 06:14:21 :  completed - Byhaven: Paella Cósmica
-09-Jun-24 06:14:22 :  completed - Byhaven: Sebastian Wolff
-09-Jun-24 06:14:22 :  completed - Byhaven: Offernat + Mouth Wound
-09-Jun-24 06:14:22 :  completed - Byhaven: Pære Banal + Sauna Senere
-09-Jun-24 06:14:22 :  completed - Byhaven: Kvarti + Vincent Wood
-09-Jun-24 06:14:25 :  completed - Byhaven: Septage + Pustulant Flesh
-09-Jun-24 06:14:25 :  completed - Portal to Party - A Festival by Fraads
-09-Jun-24 06:14:25 :  completed - Byhaven: Emily Bowen + Lizzie Nielsen
-09-Jun-24 06:14:25 :  completed - Portal to Party - A Festival by Fraads
-09-Jun-24 06:14:25 :  completed - Byhaven: Maple Glider
-09-Jun-24 06:14:27 :  completed - Byhaven: Emily Bowen + Lizzie Nielsen
-09-Jun-24 06:14:27 :  completed - Portal to Party - A Festival by Fraads
-09-Jun-24 06:14:27 :  completed - Byhaven: Maple Glider
-09-Jun-24 06:14:27 :  completed - Portal to Party - A Festival by Fraads
-09-Jun-24 06:14:27 :  completed - Byhaven: Septage + Pustulant Flesh
-09-Jun-24 06:14:29 :  completed - Portal to Party - A Festival by Fraads
-09-Jun-24 06:14:30 :  completed - Portal to Party - A Festival by Fraads
-09-Jun-24 06:14:30 :  completed - Byhaven: Maple Glider
-09-Jun-24 06:14:30 :  completed - Byhaven: Septage + Pustulant Flesh
-09-Jun-24 06:14:30 :  completed - Byhaven: Emily Bowen + Lizzie Nielsen
-09-Jun-24 06:14:31 :  completed - Portal to Party - A Festival by Fraads
-09-Jun-24 06:14:31 :  completed - Byhaven: Septage + Pustulant Flesh
-09-Jun-24 06:14:31 :  completed - Byhaven: Emily Bowen + Lizzie Nielsen
-09-Jun-24 06:14:32 :  completed - Byhaven: Maple Glider
-09-Jun-24 06:14:32 :  completed - Portal to Party - A Festival by Fraads
-09-Jun-24 06:14:35 :  completed - Portal to Party - A Festival by Fraads
-09-Jun-24 06:14:35 :  completed - Byhaven: Septage + Pustulant Flesh
-09-Jun-24 06:14:35 :  completed - Byhaven: Emily Bowen + Lizzie Nielsen
-09-Jun-24 06:14:35 :  completed - Portal to Party - A Festival by Fraads
-09-Jun-24 06:14:35 :  completed - Byhaven: Maple Glider
-09-Jun-24 06:14:35 :  completed - total: 899
-09-Jun-24 06:14:35 : -----------------------------------------------------------------------------------------------------------------
-09-Jun-24 06:14:35 :  Starting  - (stengade.py) scraper
-09-Jun-24 06:14:38 :  completed - The Ruins of Beverast [DE] + Special Guests: Wayfarer [US] — Spillestedet Stengade
-09-Jun-24 06:14:39 :  completed - Unto Others [US] + Special Guests: Terminalist + Archangel — Spillestedet Stengade
-09-Jun-24 06:14:41 :  completed - Sheer Mag [US] + Special Guests: The Guilt [SE] + Planet Y — Spillestedet Stengade
-09-Jun-24 06:14:42 :  completed - Aland Z  — Spillestedet Stengade
-09-Jun-24 06:14:43 :  completed - Exelerate + Spheres [FR] + The Vision Ablaze — Spillestedet Stengade
-09-Jun-24 06:14:44 :  completed - Dopethrone [CA] + Support: TBA — Spillestedet Stengade
-09-Jun-24 06:14:45 :  completed - Fen [UK] + Special Guests: Lysbaerer + Heksproces — Spillestedet Stengade
-09-Jun-24 06:14:46 :  completed - W.I.T.C.H. [ZM] — Spillestedet Stengade
-09-Jun-24 06:14:47 :  completed - Cobra Spell [INT] + Support: TBA — Spillestedet Stengade
-09-Jun-24 06:14:49 :  completed - The Luna Riot Ball Vol.6 - Motörqueens [IT] — Spillestedet Stengade
-09-Jun-24 06:14:50 :  completed - barejegvarmig — Spillestedet Stengade
-09-Jun-24 06:14:51 :  completed - King Dude [US] + Support: TBA — Spillestedet Stengade
-09-Jun-24 06:14:52 :  completed - Deeper [US] + Support: TBA — Spillestedet Stengade
-09-Jun-24 06:14:53 :  completed - Nana Jacobi + Support: TBA — Spillestedet Stengade
-09-Jun-24 06:14:54 :  completed - Midnight Danger [SE] — Spillestedet Stengade
-09-Jun-24 06:14:55 :  completed - Austere [AU] + Support: Skuggor [SE] — Spillestedet Stengade
-09-Jun-24 06:14:56 :  completed - Ozric Tentacles [UK] + Support: Silas & Saski [UK] — Spillestedet Stengade
-09-Jun-24 06:14:58 :  completed - Inspector Spacetime [IS] — Spillestedet Stengade
-09-Jun-24 06:14:59 :  completed - Ellende [AT] + Groza [DE] + Servant [DE] — Spillestedet Stengade
-09-Jun-24 06:15:01 :  completed - Dool [NL] + Hangman's Chair [FR] — Spillestedet Stengade
-09-Jun-24 06:15:02 :  completed - The Devil & The Universe [AT] + Support: TBA — Spillestedet Stengade
-09-Jun-24 06:15:03 :  completed - Leap [UK] + Support: TBA — Spillestedet Stengade
-09-Jun-24 06:15:04 :  completed - Master Boot Record [IT] — Spillestedet Stengade
-09-Jun-24 06:15:05 :  completed - Summons + Special Guests: Melan Tropic — Spillestedet Stengade
-09-Jun-24 06:15:06 :  completed - Hazlett [AU/SE] + Support: TBA — Spillestedet Stengade
-09-Jun-24 06:15:07 :  completed - One Day of Death: Civerous [US] + Crematory Stench [US] — Spillestedet Stengade
-09-Jun-24 06:15:08 :  completed - total: 26
-09-Jun-24 06:15:08 : -----------------------------------------------------------------------------------------------------------------
-09-Jun-24 06:15:09 :  Starting  - (drkoncerthuset.py) scraper
-09-Jun-24 06:15:13 :  completed - De skønneste kor
-09-Jun-24 06:15:13 :  completed - De skønneste kor
-09-Jun-24 06:15:14 :  completed - Luisi & Schumann 
-09-Jun-24 06:15:14 :  completed - Luisi & Schumann 
-09-Jun-24 06:15:14 :  completed - DR Vokalensemblets sommerkoncert
-09-Jun-24 06:15:14 :  completed - DR Vokalensemblets sommerkoncert
-09-Jun-24 06:15:14 :  completed - Midsommer
-09-Jun-24 06:15:14 :  completed - Piano Recital
-09-Jun-24 06:15:14 :  completed - SEA & MUSIC concert
-09-Jun-24 06:15:14 :  completed - Passenger
-09-Jun-24 06:15:14 :  completed - Ben Howard
-09-Jun-24 06:15:14 :  completed - Sommerkoncert med DR Juniorkoret
-09-Jun-24 06:15:14 :  completed - Cécile McLorin Salvant
-09-Jun-24 06:15:14 :  completed - Jakob Bro - Tre Landskaber
-09-Jun-24 06:15:14 :  completed - Sinne Eeg "Celebrating 100 years of Sarah Vaughan"
-09-Jun-24 06:15:14 :  completed - Bill Frisell Trio
-09-Jun-24 06:15:14 :  completed - DR Big Band & Veronica Swift
-09-Jun-24 06:15:14 :  completed - Mette Lindberg & Kira Skov
-09-Jun-24 06:15:14 :  completed - Tabloid
-09-Jun-24 06:15:14 :  completed - Joshua Redman Group featuring Gabrielle Cavassa
-09-Jun-24 06:15:14 :  completed - Girls in Airports
-09-Jun-24 06:15:14 :  completed - OTOOTO
-09-Jun-24 06:15:14 :  completed - ANOHNI and the Johnsons
-09-Jun-24 06:15:14 :  completed - Cæcilie Norby
-09-Jun-24 06:15:14 :  completed - ANOHNI and the Johnsons
-09-Jun-24 06:15:14 :  completed - Jasper Høiby’s 3Elements
-09-Jun-24 06:15:14 :  completed - Rufus Wainwright
-09-Jun-24 06:15:14 :  completed - Marcus Miller
-09-Jun-24 06:15:14 :  completed - Det Færøske Symfoniorkester og Eivør
-09-Jun-24 06:15:14 :  completed - A Night at the Oscars
-09-Jun-24 06:15:14 :  completed - A Night at the Oscars
-09-Jun-24 06:15:14 :  completed - A Night at the Oscars
-09-Jun-24 06:15:14 :  completed - A Night at the Oscars
-09-Jun-24 06:15:14 :  completed - DR VOKALENSEMBLET PÅ FYN
-09-Jun-24 06:15:14 :  completed - DR VOKALENSEMBLET PÅ FYN
-09-Jun-24 06:15:14 :  completed - Cat Power
-09-Jun-24 06:15:14 :  completed - Kom og syng – Danske årstidssange
-09-Jun-24 06:15:14 :  completed - Luisi & Das Lied von der Erde
-09-Jun-24 06:15:14 :  completed - Luisi & Das Lied von der Erde
-09-Jun-24 06:15:14 :  completed - Cat Power
-09-Jun-24 06:15:14 :  completed - Hermanos Gutiérrez
-09-Jun-24 06:15:14 :  completed - Kom og syng – Danske årstidssange
-09-Jun-24 06:15:14 :  completed - DR Vokalensemblet & Bruckner 200 år
-09-Jun-24 06:15:14 :  completed - Ronny Chieng
-09-Jun-24 06:15:14 :  completed - Luisi & Hadelich
-09-Jun-24 06:15:14 :  completed - Luisi & Hadelich
-09-Jun-24 06:15:14 :  completed - Katherine Ryan
-09-Jun-24 06:15:14 :  completed - Kochanovsky & Rakhmaninov
-09-Jun-24 06:15:14 :  completed - DR Big Band & Nils Landgren
-09-Jun-24 06:15:14 :  completed - Meditationskoncert
-09-Jun-24 06:15:14 :  completed - Göteborg Symfoniorkester
-09-Jun-24 06:15:14 :  completed - Meditationskoncert
-09-Jun-24 06:15:14 :  completed - Meditationskoncert
-09-Jun-24 06:15:14 :  completed - Rumours of Fleetwood Mac
-09-Jun-24 06:15:14 :  completed - Rumours of Fleetwood Mac
-09-Jun-24 06:15:14 :  completed - Caroline Henderson
-09-Jun-24 06:15:14 :  completed - Ukrainske overraskelser
-09-Jun-24 06:15:14 :  completed - The Infernal Comedy
-09-Jun-24 06:15:14 :  completed - The Infernal Comedy
-09-Jun-24 06:15:14 :  completed - Saraste & Anne Sofie von Otter
-09-Jun-24 06:15:14 :  completed - Fantastiske Stemmer
-09-Jun-24 06:15:14 :  completed - Saraste & Anne Sofie von Otter
-09-Jun-24 06:15:14 :  completed - Randers Kirkemusikfestival
-09-Jun-24 06:15:14 :  completed - Stjerner og Striber
-09-Jun-24 06:15:14 :  completed - Stjerner og Striber
-09-Jun-24 06:15:14 :  completed - A Symphony of Musicals
-09-Jun-24 06:15:14 :  completed - A Symphony of Musicals
-09-Jun-24 06:15:14 :  completed - Sko/Torp
-09-Jun-24 06:15:14 :  completed - DR Pigekoret i mørke
-09-Jun-24 06:15:14 :  completed - DR Pigekoret i mørke
-09-Jun-24 06:15:14 :  completed - Peter Sommer
-09-Jun-24 06:15:14 :  completed - DR Big Band 60 år XL - LX
-09-Jun-24 06:15:14 :  completed - Hasan & Mozart
-09-Jun-24 06:15:14 :  completed - Brit Floyd P-U-L-S-E
-09-Jun-24 06:15:14 :  completed - Brit Floyd P-U-L-S-E
-09-Jun-24 06:15:14 :  completed - Brit Floyd P-U-L-S-E
-09-Jun-24 06:15:14 :  completed - Anthony Jeselnik
-09-Jun-24 06:15:14 :  completed - Interpol
-09-Jun-24 06:15:14 :  completed - Luisi & Skrjabins 2.
-09-Jun-24 06:15:14 :  completed - Luisi & Skrjabins 2.
-09-Jun-24 06:15:14 :  completed - DR Pigekoret i mørke
-09-Jun-24 06:15:14 :  completed - DR Big Band 60 år - Jazz Galla
-09-Jun-24 06:15:14 :  completed - Hans Philip
-09-Jun-24 06:15:15 :  completed - Hans Philip
-09-Jun-24 06:15:15 :  completed - Hans Philip
-09-Jun-24 06:15:15 :  completed - Tony Ann
-09-Jun-24 06:15:15 :  completed - Allehelgenskoncert
-09-Jun-24 06:15:15 :  completed - JP Cooper
-09-Jun-24 06:15:15 :  completed - Allehelgenskoncert
-09-Jun-24 06:15:15 :  completed - Allehelgenskoncert
-09-Jun-24 06:15:15 :  completed - Joan As Police Woman
-09-Jun-24 06:15:15 :  completed - Tower of Power
-09-Jun-24 06:15:15 :  completed - Iron & Wine
-09-Jun-24 06:15:15 :  completed - Palace
-09-Jun-24 06:15:15 :  completed - Ganger
-09-Jun-24 06:15:15 :  completed - Splittet til atomer
-09-Jun-24 06:15:15 :  completed - Luisi & Tjajkovskijs 6.
-09-Jun-24 06:15:15 :  completed - Ganger
-09-Jun-24 06:15:15 :  completed - LUCY
-09-Jun-24 06:15:15 :  completed - Luisi & Tjajkovskijs 6.
-09-Jun-24 06:15:15 :  completed - Rasmus Walter
-09-Jun-24 06:15:15 :  completed - Peter Sommer
-09-Jun-24 06:15:15 :  completed - Peter Sommer
-09-Jun-24 06:15:15 :  completed - Queen Machine x Danmarks Underholdningsorkester
-09-Jun-24 06:15:15 :  completed - Queen Machine x Danmarks Underholdningsorkester
-09-Jun-24 06:15:15 :  completed - Peltokoski & Zarathustra
-09-Jun-24 06:15:15 :  completed - Peltokoski & Zarathustra
-09-Jun-24 06:15:15 :  completed - Lausanne Kammerorkester & Mozart
-09-Jun-24 06:15:15 :  completed - DR Big Band - Freddie Hubbard revisited
-09-Jun-24 06:15:15 :  completed - Bo Kaspers Orkester
-09-Jun-24 06:15:15 :  completed - Bo Kaspers Orkester
-09-Jun-24 06:15:15 :  completed - Queen Machine x Danmarks Underholdningsorkester
-09-Jun-24 06:15:15 :  completed - Tommy Emmanuel, CGP
-09-Jun-24 06:15:15 :  completed - Carl Emil Petersen
-09-Jun-24 06:15:15 :  completed - De Niese & Dido og Æneas
-09-Jun-24 06:15:15 :  completed - De Niese & Dido og Æneas
-09-Jun-24 06:15:15 :  completed - Hymne til Sankt Cæcilia
-09-Jun-24 06:15:15 :  completed - Hymne til Sankt Cæcilia
-09-Jun-24 06:15:15 :  completed - Jonah Blacksmith Live
-09-Jun-24 06:15:15 :  completed - Jonah Blacksmith Live
-09-Jun-24 06:15:15 :  completed - Max Richter
-09-Jun-24 06:15:15 :  completed - Carl Emil Petersen
-09-Jun-24 06:15:15 :  completed - Brahms & Debussy
-09-Jun-24 06:15:15 :  completed - Brahms & Debussy
-09-Jun-24 06:15:15 :  completed - DR Big Band præsenterer Helge Sunde
-09-Jun-24 06:15:15 :  completed - Burhan G & Danmarks Underholdningsorkester
-09-Jun-24 06:15:15 :  completed - Jul med DR Vokalensemblet
-09-Jun-24 06:15:15 :  completed - Jul med DR Vokalensemblet
-09-Jun-24 06:15:15 :  completed - Jul med DR Vokalensemblet
-09-Jun-24 06:15:15 :  completed - DR Pigekorets jul
-09-Jun-24 06:15:15 :  completed - Jul i DR Big Band
-09-Jun-24 06:15:15 :  completed - DR Pigekorets jul
-09-Jun-24 06:15:15 :  completed - Jul i DR Big Band
-09-Jun-24 06:15:15 :  completed - Jul med DR Vokalensemblet
-09-Jun-24 06:15:15 :  completed - DR Pigekorets jul
-09-Jun-24 06:15:15 :  completed - DR Pigekorets jul
-09-Jun-24 06:15:15 :  completed - Honeck & Mozarts c-mol messe
-09-Jun-24 06:15:15 :  completed - Honeck & Mozarts c-mol messe
-09-Jun-24 06:15:15 :  completed - Jul i Ramasjang
-09-Jun-24 06:15:15 :  completed - Jul i Ramasjang
-09-Jun-24 06:15:15 :  completed - Jul i Ramasjang
-09-Jun-24 06:15:15 :  completed - Jul i Ramasjang
-09-Jun-24 06:15:15 :  completed - Nytårsgalla
-09-Jun-24 06:15:15 :  completed - Nytårsgalla
-09-Jun-24 06:15:15 :  completed - Nytårsgalla
-09-Jun-24 06:15:15 :  completed - Nytårsgalla
-09-Jun-24 06:15:15 :  completed - Jeff Buckley – En Hyldestkoncert
-09-Jun-24 06:15:15 :  completed - Jeff Buckley – En Hyldestkoncert
-09-Jun-24 06:15:15 :  completed - Luisi & Mahlers 1.
-09-Jun-24 06:15:15 :  completed - Luisi & Nielsens 4.
-09-Jun-24 06:15:15 :  completed - DR Big Bands nytårskoncert
-09-Jun-24 06:15:15 :  completed - DR Big Bands nytårskoncert
-09-Jun-24 06:15:15 :  completed - Original Schönbrunn Slotsfilharmonikere
-09-Jun-24 06:15:16 :  completed - Fröst & Det Svenske Kammerorkester
-09-Jun-24 06:15:16 :  completed - Toner fra byen og landet
-09-Jun-24 06:15:16 :  completed - DR Big Band Sessions
-09-Jun-24 06:15:16 :  completed - Kom og Syng Carmina Burana
-09-Jun-24 06:15:16 :  completed - Kom og Syng Carmina Burana
-09-Jun-24 06:15:16 :  completed - DR Big Band & Mathias Heise
-09-Jun-24 06:15:16 :  completed - The Original: Wiener Johann Strauss Konzert-Gala
-09-Jun-24 06:15:16 :  completed - Kochanovsky & Kavakos
-09-Jun-24 06:15:16 :  completed - Kochanovsky & Kavakos
-09-Jun-24 06:15:16 :  completed - Sallys Far
-09-Jun-24 06:15:16 :  completed - Slimane
-09-Jun-24 06:15:16 :  completed - Himmelsk lys
-09-Jun-24 06:15:16 :  completed - DR Big Band elsker Steely Dan
-09-Jun-24 06:15:16 :  completed - Himmelsk lys
-09-Jun-24 06:15:16 :  completed - Himmelsk lys
-09-Jun-24 06:15:16 :  completed - Carmina Burana
-09-Jun-24 06:15:16 :  completed - Carmina Burana
-09-Jun-24 06:15:16 :  completed - Carmina Burana
-09-Jun-24 06:15:16 :  completed - Hymns From Nineveh
-09-Jun-24 06:15:16 :  completed - Emma Sehested Høeg
-09-Jun-24 06:15:16 :  completed - DR Pigekorets forår
-09-Jun-24 06:15:16 :  completed - Emma Sehested Høeg
-09-Jun-24 06:15:16 :  completed - DR Pigekorets forår
-09-Jun-24 06:15:16 :  completed - DR Pigekorets forår
-09-Jun-24 06:15:16 :  completed - De la Parra & Den umulige symfoni
-09-Jun-24 06:15:16 :  completed - DR Big Band & Jørgen Emborgs melodier
-09-Jun-24 06:15:16 :  completed - De la Parra & Den umulige symfoni
-09-Jun-24 06:15:16 :  completed - Luisi & Ein Heldenleben
-09-Jun-24 06:15:16 :  completed - Luisi & Ein Heldenleben
-09-Jun-24 06:15:16 :  completed - Zigeunerlieder
-09-Jun-24 06:15:16 :  completed - DR Pigekorets forår
-09-Jun-24 06:15:16 :  completed - DR Pigekorets forår
-09-Jun-24 06:15:16 :  completed - DR Big Band & Nicole Zuraitis
-09-Jun-24 06:15:16 :  completed - Heyward & Planeterne
-09-Jun-24 06:15:16 :  completed - Heyward & Planeterne
-09-Jun-24 06:15:16 :  completed - Tim Christensen & Danmarks Underholdningsorkester
-09-Jun-24 06:15:16 :  completed - Tim Christensen & Danmarks Underholdningsorkester
-09-Jun-24 06:15:16 :  completed - Passionskoncert
-09-Jun-24 06:15:16 :  completed - Galaxymphony
-09-Jun-24 06:15:16 :  completed - Passionskoncert
-09-Jun-24 06:15:16 :  completed - Galaxymphony
-09-Jun-24 06:15:16 :  completed - Galaxymphony
-09-Jun-24 06:15:16 :  completed - Tausk & Sibelius’ 1.
-09-Jun-24 06:15:16 :  completed - Popelka & Smetana
-09-Jun-24 06:15:16 :  completed - Miraklernes sti
-09-Jun-24 06:15:16 :  completed - Popelka & Smetana
-09-Jun-24 06:15:16 :  completed - Blomstedt & Beethovens 7.
-09-Jun-24 06:15:16 :  completed - Blomstedt & Beethovens 7.
-09-Jun-24 06:15:16 :  completed - Kuusisto & Ravel
-09-Jun-24 06:15:16 :  completed - Kuusisto & Ravel
-09-Jun-24 06:15:16 :  completed - Ollikainen & Sibelius’ 2.
-09-Jun-24 06:15:16 :  completed - DR Koncertkoret & Rakhmaninov
-09-Jun-24 06:15:16 :  completed - DR Koncertkoret & Rakhmaninov
-09-Jun-24 06:15:16 :  completed - DR Pigekoret +
-09-Jun-24 06:15:16 :  completed - DR Pigekoret +
-09-Jun-24 06:15:16 :  completed - DR Pigekoret +
-09-Jun-24 06:15:16 :  completed - Hannigan & Girl Crazy
-09-Jun-24 06:15:16 :  completed - Hannigan & Girl Crazy
-09-Jun-24 06:15:16 :  completed - Sommerkoncert med DR Vokalensemblet & Phillip Faber
-09-Jun-24 06:15:16 :  completed - total: 212
-09-Jun-24 06:15:16 : -----------------------------------------------------------------------------------------------------------------
-09-Jun-24 06:15:16 :  Starting  - (amagerbio.py) scraper
-09-Jun-24 06:15:19 :  completed - Wasted & Alien Force
-09-Jun-24 06:15:20 :  completed - St. Paul & The Broken Bones
-09-Jun-24 06:15:22 :  completed - Canned Heat
-09-Jun-24 06:15:23 :  completed - Ora Cogan
-09-Jun-24 06:15:24 :  completed - Jorge Drexler
-09-Jun-24 06:15:25 :  completed - Backworld
-09-Jun-24 06:15:26 :  completed - Støttekoncert + talks til fordel for verdens flygtninge
-09-Jun-24 06:15:27 :  completed - Beth Hart
-09-Jun-24 06:15:28 :  completed - Opeth
-09-Jun-24 06:15:29 :  completed - The Gories
-09-Jun-24 06:15:31 :  completed - Gossip
-09-Jun-24 06:15:32 :  completed - Witch
-09-Jun-24 06:15:33 :  completed - Steve Hackett
-09-Jun-24 06:15:34 :  completed - Gogol Bordello
-09-Jun-24 06:15:35 :  completed - ACTION 4’s – feat: Heise, Sørensen, Chaplin & Eger
-09-Jun-24 06:15:36 :  completed - Youssou N’Dour
-09-Jun-24 06:15:37 :  completed - Wine Lips
-09-Jun-24 06:15:38 :  completed - Ulthar
-09-Jun-24 06:15:39 :  completed - Heathen
-09-Jun-24 06:15:40 :  completed - Sorten Muld
-09-Jun-24 06:15:41 :  completed - The Obsessed
-09-Jun-24 06:15:42 :  completed - ERDM Vol. 23: Undergang + Cadaveric Incubator
-09-Jun-24 06:15:43 :  completed - Rammstein Jam
-09-Jun-24 06:15:45 :  completed - Amon Amarth
-09-Jun-24 06:15:47 :  completed - Zeal & Ardor
-09-Jun-24 06:15:47 :  completed - Hexenbrett & Deathstorm
-09-Jun-24 06:15:48 :  completed - Frimer & Møller Band + The Blues Overdrive
-09-Jun-24 06:15:49 :  completed - Carnivore AD
-09-Jun-24 06:15:50 :  completed - Tobias Triers orkester
-09-Jun-24 06:15:51 :  completed - The Doors Alive
-09-Jun-24 06:15:52 :  completed - Østkyst Hustlers
-09-Jun-24 06:15:53 :  completed - The Pretenders
-09-Jun-24 06:15:54 :  completed - jxdn
-09-Jun-24 06:15:56 :  completed - Stillborn & Dun Ringill
-09-Jun-24 06:15:57 :  completed - Father Befouled + Fossilization
-09-Jun-24 06:15:58 :  completed - Nordic Elite Wrestling
-09-Jun-24 06:15:59 :  completed - Apocalyptica
-09-Jun-24 06:16:01 :  completed - The Real Group
-09-Jun-24 06:16:01 :  completed - Leoni Torres
-09-Jun-24 06:16:02 :  completed - Ciro y Los Persas
-09-Jun-24 06:16:03 :  completed - Ida Nielsen & The Funkbots
-09-Jun-24 06:16:04 :  completed - Cannibal Corpse
-09-Jun-24 06:16:06 :  completed - Aegteskab
-09-Jun-24 06:16:07 :  completed - Unprocessed
-09-Jun-24 06:16:07 :  completed - Illdisposed
-09-Jun-24 06:16:09 :  completed - Sebastian – Solo
-09-Jun-24 06:16:09 :  completed - Crystal Viper
-09-Jun-24 06:16:11 :  completed - Drori-Hansen Furniture
-09-Jun-24 06:16:12 :  completed - Charlie Parr
-09-Jun-24 06:16:13 :  completed - Albin Lee Meldau
-09-Jun-24 06:16:14 :  completed - Monster Magnet – 35th Anniversary European Tour
-09-Jun-24 06:16:15 :  completed - Aura Dione
-09-Jun-24 06:16:15 :  completed - Ezra Collective
-09-Jun-24 06:16:16 :  completed - Frank Carter & The Rattlesnakes
-09-Jun-24 06:16:17 :  completed - Milling & Molbech – Prince
-09-Jun-24 06:16:18 :  completed - Milling & Molbech – Prince
-09-Jun-24 06:16:19 :  completed - Milling & Molbech – Prince
-09-Jun-24 06:16:20 :  completed - Milling & Molbech – Prince
-09-Jun-24 06:16:21 :  completed - Yellowjackets
-09-Jun-24 06:16:23 :  completed - Fish
-09-Jun-24 06:16:24 :  completed - Baroness & Graveyard
-09-Jun-24 06:16:25 :  completed - Dodo & The Dodo’s
-09-Jun-24 06:16:26 :  completed - Frank Turner
-09-Jun-24 06:16:27 :  completed - Magtens Korridorer
-09-Jun-24 06:16:28 :  completed - Sømændene
-09-Jun-24 06:16:30 :  completed - Slower
-09-Jun-24 06:16:31 :  completed - Dirty Loops
-09-Jun-24 06:16:32 :  completed - Skerryvore
-09-Jun-24 06:16:33 :  completed - Poul Halberg Powertrio
-09-Jun-24 06:16:34 :  completed - Nia Archives
-09-Jun-24 06:16:35 :  completed - Niarn
-09-Jun-24 06:16:36 :  completed - Pink Floyd Project
-09-Jun-24 06:16:38 :  completed - 10cc
-09-Jun-24 06:16:39 :  completed - 10cc med siddepladser
-09-Jun-24 06:16:40 :  completed - Saga
-09-Jun-24 06:16:41 :  completed - Kakkmaddafakka
-09-Jun-24 06:16:43 :  completed - Twin Noir
-09-Jun-24 06:16:44 :  completed - As I Lay Dying
-09-Jun-24 06:16:45 :  completed - Jacob Dinesen
-09-Jun-24 06:16:46 :  completed - Electric Guitars
-09-Jun-24 06:16:47 :  completed - Fit For an Autopsy
-09-Jun-24 06:16:48 :  completed - Rockers By Choice
-09-Jun-24 06:16:50 :  completed - Front 242
-09-Jun-24 06:16:51 :  completed - The Halo Effect
-09-Jun-24 06:16:52 :  completed - Eluveitie
-09-Jun-24 06:16:53 :  completed - G-Eazy
-09-Jun-24 06:16:54 :  completed - Kaya Brüel synger Jomfru Ane Band
-09-Jun-24 06:16:55 :  completed - Lake Street Dive
-09-Jun-24 06:16:56 :  completed - DR Big Band elsker Steely Dan
-09-Jun-24 06:16:57 :  completed - Thomas Buttenschøn
-09-Jun-24 06:16:58 :  completed - Danser med Drenge
-09-Jun-24 06:16:59 :  completed - Sarah Shook and the Disarmers
-09-Jun-24 06:17:00 :  completed - total: 92
-09-Jun-24 06:17:00 : -----------------------------------------------------------------------------------------------------------------
-09-Jun-24 06:17:00 :  Starting  - (lafontaine.py) scraper
-09-Jun-24 06:17:03 :  completed - Jacob Fischer, Zier Romme Larsen & Anders Fjeldsted
-09-Jun-24 06:17:04 :  completed - Jamsession v. Anders Malta, Rune Fog-Nielsen & Cornelia Nilsson
-09-Jun-24 06:17:04 :  completed - JAZZ FESTIVAL – Niels HP/Kjeld Lauritsen kvartet
-09-Jun-24 06:17:04 :  completed - JAZZ FESTIVAL – Jamsession v. Lars Søeberg Andersen, Regin Fuhlendorf & Henrik Holst Hansen
-09-Jun-24 06:17:04 :  completed - JAZZ FESTIVAL – Caroline Bugala/Kjeld Lauritsen
-09-Jun-24 06:17:04 :  completed - JAZZ FESTIVAL – Jamsession v. Rasmus Sørensen, Jakob Roland & Andreas Fryland
-09-Jun-24 06:17:04 :  completed - JAZZ FESTIVAL – Kira Martini, Caroline Bugala, Mads Søndergaard & Morten Ærø
-09-Jun-24 06:17:04 :  completed - JAZZ FESTIVAL – Jamsession v. Jan Harbeck, Ida Hvid & Janus Templeton
-09-Jun-24 06:17:04 :  completed - JAZZ FESTIVAL – Big Fun!
-09-Jun-24 06:17:04 :  completed - JAZZ FESTIVAL – Jamsession v. Mads Søndergaard, Jan Harbeck & Espen Laub
-09-Jun-24 06:17:04 :  completed - JAZZ FESTIVAL – Alice Carreri/Martin Schack Kvartet
-09-Jun-24 06:17:04 :  completed - JAZZ FESTIVAL – Jamsession v. Andreas Toftemark, Paul Sikivie & Adam Ross
-09-Jun-24 06:17:04 :  completed - JAZZ FESTIVAL – Jacob Fischer Kvartet feat. Zier Romme Larsen
-09-Jun-24 06:17:04 :  completed - JAZZ FESTIVAL – Jamsession v. Andreas Toftemark, Rune Fogh & Emil Norman
-09-Jun-24 06:17:04 :  completed - JAZZ FESTIVAL – Anders Gaardmand, Ben Besiakov, Daniel Franck & Frands Rifbjerg
-09-Jun-24 06:17:04 :  completed - JAZZ FESTIVAL – Jamsession v. Claus Waidtløw, Jakob Roland & Henrik Holst
-09-Jun-24 06:17:04 :  completed - JAZZ FESTIVAL – Henrik Gunde, Hans Ulrik, Jeppe Skovbakke & Morten Lund
-09-Jun-24 06:17:04 :  completed - JAZZ FESTIVAL – Jamsession v. Claus Waidtløw, Rune Fogh & Andreas Svendsen
-09-Jun-24 06:17:04 :  completed - JAZZ FESTIVAL – Live Jive Jungle
-09-Jun-24 06:17:04 :  completed - JAZZ FESTIVAL – Jamsession v. Pelle von Bülow, Anders Ammitzbøll & Andreas Fryland
-09-Jun-24 06:17:04 :  completed - JAZZ FESTIVAL – Alice Carreri/Jacob Fischer kvartet
-09-Jun-24 06:17:04 :  completed - JAZZ FESTIVAL – Jamsession v. Andreas Toftemark & trio
-09-Jun-24 06:17:04 :  completed - total: 22
-09-Jun-24 06:17:04 : -----------------------------------------------------------------------------------------------------------------
-09-Jun-24 06:17:04 :  Starting  - (jazzhusmontmartre.py) scraper
-09-Jun-24 06:17:05 :  completed - Mathias Heise Quadrillion(udsolgt)
-09-Jun-24 06:17:05 :  completed - Musiksanseriet barselskoncert(udsolgt)
-09-Jun-24 06:17:05 :  completed - MGK Sankt Annæ: Afslutningskoncert(fri entré)
-09-Jun-24 06:17:05 :  completed - Jan Lundgren/Ulf Wakenius Quartet “A tribute to Oscar and Duke"(få billetter)
-09-Jun-24 06:17:05 :  completed - Late Night Jam
-09-Jun-24 06:17:05 :  completed - Jan Lundgren/Ulf Wakenius Quartet “A tribute to Oscar and Duke"(få billetter)
-09-Jun-24 06:17:05 :  completed - Late Night Jam
-09-Jun-24 06:17:05 :  completed - Jan Lundgren/Ulf Wakenius Quartet “A tribute to Oscar and Duke" (udsolgt)
-09-Jun-24 06:17:05 :  completed - Late Night Jam 
-09-Jun-24 06:17:05 :  completed - JazzKamikaze
-09-Jun-24 06:17:05 :  completed - Late Night Jam 
-09-Jun-24 06:17:05 :  completed - Gretchen Parlato/Lionel Loueke Duo
-09-Jun-24 06:17:05 :  completed - Late Night Jam 
-09-Jun-24 06:17:05 :  completed - Gretchen Parlato/Lionel Loueke Duo
-09-Jun-24 06:17:05 :  completed - Late Night Jam 
-09-Jun-24 06:17:05 :  completed - Gretchen Parlato/Lionel Loueke Duo
-09-Jun-24 06:17:05 :  completed - Late Night Jam 
-09-Jun-24 06:17:05 :  completed - 5 x VUUST
-09-Jun-24 06:17:05 :  completed - Late Night Jam 
-09-Jun-24 06:17:05 :  completed - Nils Landgren Funk Unit “30 years"(udsolgt)
-09-Jun-24 06:17:05 :  completed - Late Night Jam 
-09-Jun-24 06:17:06 :  completed - Nils Landgren Funk Unit “30 years"(få billetter)
-09-Jun-24 06:17:06 :  completed - Late Night Jam 
-09-Jun-24 06:17:06 :  completed - Nils Landgren Funk Unit “30 years"
-09-Jun-24 06:17:06 :  completed - total: 24
+08-Jul-24 03:51:30 : -----------------------------------------------------------------------------------------------------------------
+08-Jul-24 03:51:30 :  Starting  - (rust.py) scraper
+08-Jul-24 03:51:36 :  completed - Vingborg/Valencia
+08-Jul-24 03:51:37 :  completed - Miller
+08-Jul-24 03:51:37 :  completed - Girlband! (UK)
+08-Jul-24 03:51:38 :  completed - DR PACKER (AU)
+08-Jul-24 03:51:38 :  completed - ANNÆLIX + FIRKANT Releasekoncert
+08-Jul-24 03:51:39 :  completed - Kasablanca
+08-Jul-24 03:51:41 :  completed - Jeremy Troy
+08-Jul-24 03:51:42 :  completed - Valgtemig releasekoncert
+08-Jul-24 03:51:42 :  completed - TELENOVA (AU)
+08-Jul-24 03:51:43 :  completed - Rust In Peace: Blazing Eternity + Altar Of Oblivion
+08-Jul-24 03:51:44 :  completed - Evig Ferie (NO)
+08-Jul-24 03:51:44 :  completed - Rust In Peace: Philip Sayce (CA)
+08-Jul-24 03:51:45 :  completed - NAÂMAN (FR)
+08-Jul-24 03:51:45 :  completed - AIKO (CZ)
+08-Jul-24 03:51:46 :  completed - Baseløs
+08-Jul-24 03:51:47 :  completed - ROSÉL
+08-Jul-24 03:51:48 :  completed - Kessoncoda (UK)
+08-Jul-24 03:51:49 :  completed - Siri Neel releasekoncert
+08-Jul-24 03:51:49 :  completed - MadeinTYO (US)
+08-Jul-24 03:51:50 :  completed - Dan Croll (UK)
+08-Jul-24 03:51:50 :  completed - Rust In Peace: Hotel Hunger
+08-Jul-24 03:51:51 :  completed - Rust In Peace: Hotel Hunger
+08-Jul-24 03:51:51 :  completed - IST IST (UK)
+08-Jul-24 03:51:52 :  completed - BLANKS (NL)
+08-Jul-24 03:51:53 :  completed - Nils Hoffmann (DE)
+08-Jul-24 03:51:54 :  completed - Rust In Peace: Maceration + Terrorpy + Crown The Beast
+08-Jul-24 03:51:55 :  completed - total: 26
+08-Jul-24 03:51:55 : -----------------------------------------------------------------------------------------------------------------
+08-Jul-24 03:51:55 :  Starting  - (hotelcecil.py) scraper
+08-Jul-24 03:51:56 :  completed - Rumpistol Ensemble
+08-Jul-24 03:51:56 :  completed - Martin Kohlstedt (DE)
+08-Jul-24 03:51:56 :  completed - Stefan Pasborg Trio
+08-Jul-24 03:51:56 :  completed - Tom Skinner (UK)
+08-Jul-24 03:51:56 :  completed - Isaiah Collier & The Chosen Few (US)
+08-Jul-24 03:51:57 :  completed - Billie Marten (UK)
+08-Jul-24 03:51:57 :  completed - Ana Frango ElÃ©trico (BR)
+08-Jul-24 03:51:57 :  completed - 20_14 ASSEMBLY
+08-Jul-24 03:51:57 :  completed - SmÃ¦kDown
+08-Jul-24 03:51:57 :  completed - Knudsen/Bremer/Ewert
+08-Jul-24 03:51:58 :  completed - Conrad Molden
+08-Jul-24 03:51:58 :  completed - Bros
+08-Jul-24 03:51:58 :  completed - Toldermania
+08-Jul-24 03:51:58 :  completed - David Eugene Edwards (US)
+08-Jul-24 03:51:58 :  completed - Ghost Iris
+08-Jul-24 03:51:59 :  completed - Anne Bakland
+08-Jul-24 03:51:59 :  completed - Bros
+08-Jul-24 03:51:59 :  completed - Josh Berry (UK)
+08-Jul-24 03:51:59 :  completed - Anne Bakland
+08-Jul-24 03:51:59 :  completed - Crack Cloud (CAN)
+08-Jul-24 03:52:00 :  completed - Bros
+08-Jul-24 03:52:00 :  completed - RH
+08-Jul-24 03:52:00 :  completed - Jacob AksglÃ¦de
+08-Jul-24 03:52:00 :  completed - Jacob AksglÃ¦de
+08-Jul-24 03:52:00 :  completed - Jacob AksglÃ¦de
+08-Jul-24 03:52:01 :  completed - Saturnus
+08-Jul-24 03:52:01 :  completed - Sam Lee (UK)
+08-Jul-24 03:52:01 :  completed - Shaka Loveless
+08-Jul-24 03:52:01 :  completed - Flyte (UK)
+08-Jul-24 03:52:01 :  completed - DÃ¸ssing
+08-Jul-24 03:52:02 :  completed - Hakkedrengene
+08-Jul-24 03:52:02 :  completed - Country Night
+08-Jul-24 03:52:02 :  completed - Miriam Mandipira & The Soul Family
+08-Jul-24 03:52:02 :  completed - Astrid Engberg
+08-Jul-24 03:52:02 :  completed - Miriam Mandipira & The Soul Family
+08-Jul-24 03:52:03 :  completed - Marie Key
+08-Jul-24 03:52:03 :  completed - Marie Key
+08-Jul-24 03:52:03 :  completed - Marie Key
+08-Jul-24 03:52:03 :  completed - Nana Rashid
+08-Jul-24 03:52:03 :  completed - Nana Rashid
+08-Jul-24 03:52:03 :  completed - Monty Franklin (AUS)
+08-Jul-24 03:52:04 :  completed - Jacob Bellens
+08-Jul-24 03:52:04 :  completed - Marie Key
+08-Jul-24 03:52:04 :  completed - Marie Key
+08-Jul-24 03:52:04 :  completed - Marie Key
+08-Jul-24 03:52:05 :  completed - Okay Kaya
+08-Jul-24 03:52:05 :  completed - Matt Andersen (CAN)
+08-Jul-24 03:52:05 :  completed - Mads Langer
+08-Jul-24 03:52:05 :  completed - Lasse Skriver
+08-Jul-24 03:52:05 :  completed - Dardust
+08-Jul-24 03:52:06 :  completed - Natalie Cuomo (US) & Dan LaMorte (US)
+08-Jul-24 03:52:06 :  completed - Marie Key
+08-Jul-24 03:52:06 :  completed - Baloosh
+08-Jul-24 03:52:06 :  completed - Ella Augusta
+08-Jul-24 03:52:06 :  completed - Baloosh
+08-Jul-24 03:52:06 :  completed - Thor Pedersen
+08-Jul-24 03:52:07 :  completed - Alexander Oscar
+08-Jul-24 03:52:07 :  completed - Mabe Fratti
+08-Jul-24 03:52:07 :  completed - Marie Key
+08-Jul-24 03:52:07 :  completed - School of X
+08-Jul-24 03:52:07 :  completed - Phillip Devantier
+08-Jul-24 03:52:08 :  completed - Magnus MÃ¼nster
+08-Jul-24 03:52:08 :  completed - Ãsten
+08-Jul-24 03:52:08 :  completed - Elsked
+08-Jul-24 03:52:08 :  completed - IVAN$ITO
+08-Jul-24 03:52:08 :  completed - Tue West
+08-Jul-24 03:52:08 :  completed - ÃNDI
+08-Jul-24 03:52:08 :  completed - CÃ¦cilie Norby
+08-Jul-24 03:52:08 :  completed - Gong
+08-Jul-24 03:52:08 :  completed - CÃ¦cilie Norby
+08-Jul-24 03:52:09 :  completed - Elias Eliot
+08-Jul-24 03:52:09 :  completed - Sega Bodega
+08-Jul-24 03:52:09 :  completed - Leoniden (DE)
+08-Jul-24 03:52:09 :  completed - Dans & LÃ¦r
+08-Jul-24 03:52:09 :  completed - Calby
+08-Jul-24 03:52:10 :  completed - The Raveonettes
+08-Jul-24 03:52:10 :  completed - The Raveonettes
+08-Jul-24 03:52:10 :  completed - Julia Holter (US)
+08-Jul-24 03:52:10 :  completed - The Raveonettes
+08-Jul-24 03:52:10 :  completed - The Raveonettes
+08-Jul-24 03:52:11 :  completed - The Raveonettes
+08-Jul-24 03:52:11 :  completed - Signe Svendsen & Kajsa Vala
+08-Jul-24 03:52:11 :  completed - Fallulah
+08-Jul-24 03:52:11 :  completed - Signe Svendsen & Kajsa Vala
+08-Jul-24 03:52:11 :  completed - The Raveonettes
+08-Jul-24 03:52:12 :  completed - Unmack
+08-Jul-24 03:52:12 :  completed - OTOOTO
+08-Jul-24 03:52:12 :  completed - MonoNeon (US)
+08-Jul-24 03:52:12 :  completed - Alberte Winding
+08-Jul-24 03:52:12 :  completed - Nabiha
+08-Jul-24 03:52:12 :  completed - Larry Dean (SCT)
+08-Jul-24 03:52:13 :  completed - Baal
+08-Jul-24 03:52:13 :  completed - Baal
+08-Jul-24 03:52:13 :  completed - Alberte Winding
+08-Jul-24 03:52:13 :  completed - Baal
+08-Jul-24 03:52:13 :  completed - Huxi Bach
+08-Jul-24 03:52:14 :  completed - Anne Bakland
+08-Jul-24 03:52:14 :  completed - Baal
+08-Jul-24 03:52:14 :  completed - Nymalet
+08-Jul-24 03:52:14 :  completed - Nymalet
+08-Jul-24 03:52:14 :  completed - Martin NÃ¸rgaard
+08-Jul-24 03:52:14 :  completed - Martin NÃ¸rgaard
+08-Jul-24 03:52:14 :  completed - The Comedy Store
+08-Jul-24 03:52:14 :  completed - Martin NÃ¸rgaard
+08-Jul-24 03:52:15 :  completed - Tomas HÃ¸ffding
+08-Jul-24 03:52:15 :  completed - Natasha Brock
+08-Jul-24 03:52:15 :  completed - Lasse Rimmer
+08-Jul-24 03:52:15 :  completed - Tomas HÃ¸ffding
+08-Jul-24 03:52:15 :  completed - total: 108
+08-Jul-24 03:52:15 : -----------------------------------------------------------------------------------------------------------------
+08-Jul-24 03:52:15 :  Starting  - (culturebox.py) scraper
+08-Jul-24 03:52:20 :  completed - BLACK BOX - FRI 12 JULY 2024
+08-Jul-24 03:52:21 :  completed - BLACK BOX - SAT 13 JULY 2024
+08-Jul-24 03:52:22 :  completed - BLACK BOX - FRI 19 JULY 2024
+08-Jul-24 03:52:24 :  completed - BLACK BOX - SAT 20 JULY 2024
+08-Jul-24 03:52:25 :  completed - BLACK BOX - FRI 26 JULY 2024
+08-Jul-24 03:52:27 :  completed - BLACK BOX - SAT 27 JULY 2024
+08-Jul-24 03:52:28 :  completed - BLACK BOX - FRI 2 AUGUST 2024
+08-Jul-24 03:52:29 :  completed - BLACK BOX - SAT 3 AUGUST 2024
+08-Jul-24 03:52:31 :  completed - BLACK BOX - FRI 9 AUGUST 2024
+08-Jul-24 03:52:32 :  completed - BLACK BOX - SAT 10 AUGUST 2024
+08-Jul-24 03:52:33 :  completed - BLACK BOX - FRI 23 AUGUST 2024
+08-Jul-24 03:52:35 :  completed - BLACK BOX - SAT 24 AUGUST 2024
+08-Jul-24 03:52:35 :  completed - total: 12
+08-Jul-24 03:52:35 : -----------------------------------------------------------------------------------------------------------------
+08-Jul-24 03:52:35 :  Starting  - (loppen.py) scraper
+08-Jul-24 03:52:37 :  completed - Glyders
+08-Jul-24 03:52:38 :  completed - Frigjort Festival 2024 fredag
+08-Jul-24 03:52:39 :  completed - Frigjort Festival 2024 lørdag
+08-Jul-24 03:52:41 :  completed - Gustaf
+08-Jul-24 03:52:42 :  completed - David Ritschard
+08-Jul-24 03:52:43 :  completed - Januar
+08-Jul-24 03:52:44 :  completed - Library Card
+08-Jul-24 03:52:45 :  completed - Causa Sui 2024
+08-Jul-24 03:52:46 :  completed - Liturgy
+08-Jul-24 03:52:47 :  completed - The Darts 2024
+08-Jul-24 03:52:48 :  completed - Maustetytöt
+08-Jul-24 03:52:49 :  completed - Alex Warren
+08-Jul-24 03:52:50 :  completed - The Mukherjee Development
+08-Jul-24 03:52:51 :  completed - Amanda Bergman
+08-Jul-24 03:52:52 :  completed - GIRL & GIRL
+08-Jul-24 03:52:53 :  completed - Bodega
+08-Jul-24 03:52:54 :  completed - Filuka
+08-Jul-24 03:52:55 :  completed - J Bernardt
+08-Jul-24 03:52:56 :  completed - aptbs-2024
+08-Jul-24 03:52:57 :  completed - The Headhunters
+08-Jul-24 03:52:58 :  completed - Hjalte Ross
+08-Jul-24 03:52:59 :  completed - Pak
+08-Jul-24 03:53:00 :  completed - trust
+08-Jul-24 03:53:01 :  completed - CTD Matinee show
+08-Jul-24 03:53:02 :  completed - Crash Test Dummies
+08-Jul-24 03:53:03 :  completed - The Messthetics
+08-Jul-24 03:53:04 :  completed - Crows
+08-Jul-24 03:53:05 :  completed - Total Hip Replacement
+08-Jul-24 03:53:06 :  completed - Royel Otis
+08-Jul-24 03:53:07 :  completed - DUMMY
+08-Jul-24 03:53:09 :  completed - Jonny Hefty & Jøden
+08-Jul-24 03:53:10 :  completed - Sasha Adrian
+08-Jul-24 03:53:11 :  completed - Bad Nerves
+08-Jul-24 03:53:12 :  completed - Nadine Shah
+08-Jul-24 03:53:13 :  completed - Personal Trainer
+08-Jul-24 03:53:14 :  completed - METZ 2024
+08-Jul-24 03:53:15 :  completed - Shannon and the Clams
+08-Jul-24 03:53:16 :  completed - The Sheepdogs
+08-Jul-24 03:53:17 :  completed - EARLY JAMES
+08-Jul-24 03:53:17 :  completed - total: 39
+08-Jul-24 03:53:17 : -----------------------------------------------------------------------------------------------------------------
+08-Jul-24 03:53:17 :  Starting  - (pumpehuset.py) scraper
+08-Jul-24 03:53:21 :  completed - Electric Sun Fest
+08-Jul-24 03:53:21 :  completed - Electric Sun Fest
+08-Jul-24 03:53:21 :  completed - Babasónicos
+08-Jul-24 03:53:21 :  completed - Afroace &#038; Rumba
+08-Jul-24 03:53:22 :  completed - Ari Abdul
+08-Jul-24 03:53:22 :  completed - Boldy James + The Alchemist
+08-Jul-24 03:53:23 :  completed - Soulfly
+08-Jul-24 03:53:23 :  completed - Terror + Lifesick
+08-Jul-24 03:53:23 :  completed - Babasónicos Ekstrakoncert
+08-Jul-24 03:53:24 :  completed - Afroace &#038; Rumba
+08-Jul-24 03:53:25 :  completed - Babasónicos
+08-Jul-24 03:53:25 :  completed - Electric Sun Fest
+08-Jul-24 03:53:25 :  completed - Electric Sun Fest
+08-Jul-24 03:53:25 :  completed - Soulfly
+08-Jul-24 03:53:25 :  completed - Babasónicos Ekstrakoncert
+08-Jul-24 03:53:25 :  completed - Terror + Lifesick
+08-Jul-24 03:53:25 :  completed - Ari Abdul
+08-Jul-24 03:53:25 :  completed - Boldy James + The Alchemist
+08-Jul-24 03:53:26 :  completed - Babasónicos
+08-Jul-24 03:53:26 :  completed - Electric Sun Fest
+08-Jul-24 03:53:27 :  completed - Babasónicos Ekstrakoncert
+08-Jul-24 03:53:27 :  completed - Electric Sun Fest
+08-Jul-24 03:53:27 :  completed - Soulfly
+08-Jul-24 03:53:27 :  completed - Afroace &#038; Rumba
+08-Jul-24 03:53:27 :  completed - Terror + Lifesick
+08-Jul-24 03:53:27 :  completed - Ari Abdul
+08-Jul-24 03:53:27 :  completed - Boldy James + The Alchemist
+08-Jul-24 03:53:28 :  completed - Electric Sun Fest
+08-Jul-24 03:53:28 :  completed - Terror + Lifesick
+08-Jul-24 03:53:28 :  completed - Babasónicos Ekstrakoncert
+08-Jul-24 03:53:28 :  completed - Babasónicos
+08-Jul-24 03:53:28 :  completed - Afroace &#038; Rumba
+08-Jul-24 03:53:28 :  completed - Ari Abdul
+08-Jul-24 03:53:28 :  completed - Soulfly
+08-Jul-24 03:53:28 :  completed - Electric Sun Fest
+08-Jul-24 03:53:28 :  completed - Boldy James + The Alchemist
+08-Jul-24 03:53:29 :  completed - Electric Sun Fest
+08-Jul-24 03:53:29 :  completed - Babasónicos
+08-Jul-24 03:53:30 :  completed - Ari Abdul
+08-Jul-24 03:53:30 :  completed - Terror + Lifesick
+08-Jul-24 03:53:30 :  completed - Soulfly
+08-Jul-24 03:53:30 :  completed - Afroace &#038; Rumba
+08-Jul-24 03:53:30 :  completed - Babasónicos Ekstrakoncert
+08-Jul-24 03:53:30 :  completed - Electric Sun Fest
+08-Jul-24 03:53:30 :  completed - Boldy James + The Alchemist
+08-Jul-24 03:53:31 :  completed - Electric Sun Fest
+08-Jul-24 03:53:31 :  completed - Boldy James + The Alchemist
+08-Jul-24 03:53:31 :  completed - Babasónicos Ekstrakoncert
+08-Jul-24 03:53:31 :  completed - Afroace &#038; Rumba
+08-Jul-24 03:53:32 :  completed - Electric Sun Fest
+08-Jul-24 03:53:32 :  completed - Babasónicos
+08-Jul-24 03:53:32 :  completed - Ari Abdul
+08-Jul-24 03:53:32 :  completed - Soulfly
+08-Jul-24 03:53:32 :  completed - Terror + Lifesick
+08-Jul-24 03:53:33 :  completed - Ari Abdul
+08-Jul-24 03:53:33 :  completed - Terror + Lifesick
+08-Jul-24 03:53:33 :  completed - Babasónicos
+08-Jul-24 03:53:33 :  completed - Afroace &#038; Rumba
+08-Jul-24 03:53:33 :  completed - Boldy James + The Alchemist
+08-Jul-24 03:53:33 :  completed - Electric Sun Fest
+08-Jul-24 03:53:33 :  completed - Soulfly
+08-Jul-24 03:53:33 :  completed - Electric Sun Fest
+08-Jul-24 03:53:34 :  completed - Babasónicos Ekstrakoncert
+08-Jul-24 03:53:35 :  completed - Babasónicos
+08-Jul-24 03:53:35 :  completed - Electric Sun Fest
+08-Jul-24 03:53:35 :  completed - Afroace &#038; Rumba
+08-Jul-24 03:53:35 :  completed - Ari Abdul
+08-Jul-24 03:53:35 :  completed - Boldy James + The Alchemist
+08-Jul-24 03:53:35 :  completed - Electric Sun Fest
+08-Jul-24 03:53:35 :  completed - Terror + Lifesick
+08-Jul-24 03:53:35 :  completed - Babasónicos Ekstrakoncert
+08-Jul-24 03:53:35 :  completed - Soulfly
+08-Jul-24 03:53:36 :  completed - Electric Sun Fest
+08-Jul-24 03:53:36 :  completed - Electric Sun Fest
+08-Jul-24 03:53:36 :  completed - Babasónicos
+08-Jul-24 03:53:36 :  completed - Babasónicos Ekstrakoncert
+08-Jul-24 03:53:36 :  completed - Soulfly
+08-Jul-24 03:53:36 :  completed - Ari Abdul
+08-Jul-24 03:53:37 :  completed - Afroace &#038; Rumba
+08-Jul-24 03:53:37 :  completed - Terror + Lifesick
+08-Jul-24 03:53:37 :  completed - Boldy James + The Alchemist
+08-Jul-24 03:53:39 :  completed - Blonde Redhead
+08-Jul-24 03:53:39 :  completed - Varg2TM
+08-Jul-24 03:53:39 :  completed - Cro-Mags
+08-Jul-24 03:53:39 :  completed - Ty Segall
+08-Jul-24 03:53:40 :  completed - Randall King
+08-Jul-24 03:53:40 :  completed - Left To Die + Incantation
+08-Jul-24 03:53:40 :  completed - BODYSLAM! Wrestling
+08-Jul-24 03:53:40 :  completed - Show Me The Body
+08-Jul-24 03:53:40 :  completed - Avi Kaplan
+08-Jul-24 03:53:41 :  completed - Avi Kaplan
+08-Jul-24 03:53:41 :  completed - Cro-Mags
+08-Jul-24 03:53:41 :  completed - Left To Die + Incantation
+08-Jul-24 03:53:41 :  completed - Ty Segall
+08-Jul-24 03:53:41 :  completed - Show Me The Body
+08-Jul-24 03:53:41 :  completed - Blonde Redhead
+08-Jul-24 03:53:41 :  completed - Randall King
+08-Jul-24 03:53:41 :  completed - Varg2TM
+08-Jul-24 03:53:42 :  completed - BODYSLAM! Wrestling
+08-Jul-24 03:53:42 :  completed - Varg2TM
+08-Jul-24 03:53:43 :  completed - Left To Die + Incantation
+08-Jul-24 03:53:43 :  completed - Ty Segall
+08-Jul-24 03:53:43 :  completed - Cro-Mags
+08-Jul-24 03:53:43 :  completed - Blonde Redhead
+08-Jul-24 03:53:43 :  completed - Show Me The Body
+08-Jul-24 03:53:43 :  completed - Avi Kaplan
+08-Jul-24 03:53:43 :  completed - BODYSLAM! Wrestling
+08-Jul-24 03:53:43 :  completed - Randall King
+08-Jul-24 03:53:45 :  completed - BODYSLAM! Wrestling
+08-Jul-24 03:53:45 :  completed - Blonde Redhead
+08-Jul-24 03:53:45 :  completed - Cro-Mags
+08-Jul-24 03:53:45 :  completed - Left To Die + Incantation
+08-Jul-24 03:53:45 :  completed - Show Me The Body
+08-Jul-24 03:53:45 :  completed - Varg2TM
+08-Jul-24 03:53:45 :  completed - Randall King
+08-Jul-24 03:53:45 :  completed - Avi Kaplan
+08-Jul-24 03:53:45 :  completed - Ty Segall
+08-Jul-24 03:53:46 :  completed - Avi Kaplan
+08-Jul-24 03:53:46 :  completed - Varg2TM
+08-Jul-24 03:53:46 :  completed - BODYSLAM! Wrestling
+08-Jul-24 03:53:46 :  completed - Cro-Mags
+08-Jul-24 03:53:46 :  completed - Blonde Redhead
+08-Jul-24 03:53:46 :  completed - Ty Segall
+08-Jul-24 03:53:46 :  completed - Show Me The Body
+08-Jul-24 03:53:47 :  completed - Left To Die + Incantation
+08-Jul-24 03:53:47 :  completed - Randall King
+08-Jul-24 03:53:48 :  completed - Varg2TM
+08-Jul-24 03:53:48 :  completed - Cro-Mags
+08-Jul-24 03:53:48 :  completed - Left To Die + Incantation
+08-Jul-24 03:53:48 :  completed - Randall King
+08-Jul-24 03:53:48 :  completed - Avi Kaplan
+08-Jul-24 03:53:48 :  completed - Show Me The Body
+08-Jul-24 03:53:48 :  completed - Ty Segall
+08-Jul-24 03:53:48 :  completed - BODYSLAM! Wrestling
+08-Jul-24 03:53:48 :  completed - Blonde Redhead
+08-Jul-24 03:53:49 :  completed - Randall King
+08-Jul-24 03:53:49 :  completed - Ty Segall
+08-Jul-24 03:53:49 :  completed - Varg2TM
+08-Jul-24 03:53:49 :  completed - Show Me The Body
+08-Jul-24 03:53:50 :  completed - BODYSLAM! Wrestling
+08-Jul-24 03:53:50 :  completed - Blonde Redhead
+08-Jul-24 03:53:50 :  completed - Cro-Mags
+08-Jul-24 03:53:50 :  completed - Avi Kaplan
+08-Jul-24 03:53:50 :  completed - Left To Die + Incantation
+08-Jul-24 03:53:51 :  completed - Left To Die + Incantation
+08-Jul-24 03:53:51 :  completed - BODYSLAM! Wrestling
+08-Jul-24 03:53:51 :  completed - Varg2TM
+08-Jul-24 03:53:51 :  completed - Show Me The Body
+08-Jul-24 03:53:51 :  completed - Randall King
+08-Jul-24 03:53:51 :  completed - Avi Kaplan
+08-Jul-24 03:53:51 :  completed - Blonde Redhead
+08-Jul-24 03:53:51 :  completed - Ty Segall
+08-Jul-24 03:53:52 :  completed - Cro-Mags
+08-Jul-24 03:53:52 :  completed - BODYSLAM! Wrestling
+08-Jul-24 03:53:53 :  completed - Varg2TM
+08-Jul-24 03:53:53 :  completed - Avi Kaplan
+08-Jul-24 03:53:53 :  completed - Randall King
+08-Jul-24 03:53:53 :  completed - Ty Segall
+08-Jul-24 03:53:53 :  completed - Cro-Mags
+08-Jul-24 03:53:53 :  completed - Blonde Redhead
+08-Jul-24 03:53:53 :  completed - Left To Die + Incantation
+08-Jul-24 03:53:53 :  completed - Show Me The Body
+08-Jul-24 03:53:56 :  completed - Symphony X
+08-Jul-24 03:53:56 :  completed - John Maus
+08-Jul-24 03:53:56 :  completed - Evergrey
+08-Jul-24 03:53:56 :  completed - Caligula's Horse
+08-Jul-24 03:53:56 :  completed - 06 Boys
+08-Jul-24 03:53:56 :  completed - De Danske Hyrder
+08-Jul-24 03:53:57 :  completed - Udgårdsfest 2024
+08-Jul-24 03:53:57 :  completed - El Kuelgue
+08-Jul-24 03:53:57 :  completed - Skyggesiden
+08-Jul-24 03:53:58 :  completed - Udgårdsfest 2024
+08-Jul-24 03:53:58 :  completed - El Kuelgue
+08-Jul-24 03:53:58 :  completed - Caligula's Horse
+08-Jul-24 03:53:58 :  completed - Skyggesiden
+08-Jul-24 03:53:58 :  completed - Symphony X
+08-Jul-24 03:53:58 :  completed - 06 Boys
+08-Jul-24 03:53:58 :  completed - De Danske Hyrder
+08-Jul-24 03:53:58 :  completed - John Maus
+08-Jul-24 03:53:58 :  completed - Evergrey
+08-Jul-24 03:53:59 :  completed - Skyggesiden
+08-Jul-24 03:54:00 :  completed - 06 Boys
+08-Jul-24 03:54:00 :  completed - Caligula's Horse
+08-Jul-24 03:54:00 :  completed - Evergrey
+08-Jul-24 03:54:00 :  completed - El Kuelgue
+08-Jul-24 03:54:00 :  completed - Udgårdsfest 2024
+08-Jul-24 03:54:00 :  completed - John Maus
+08-Jul-24 03:54:00 :  completed - Symphony X
+08-Jul-24 03:54:00 :  completed - De Danske Hyrder
+08-Jul-24 03:54:01 :  completed - El Kuelgue
+08-Jul-24 03:54:01 :  completed - John Maus
+08-Jul-24 03:54:01 :  completed - Symphony X
+08-Jul-24 03:54:02 :  completed - Skyggesiden
+08-Jul-24 03:54:02 :  completed - Caligula's Horse
+08-Jul-24 03:54:02 :  completed - Udgårdsfest 2024
+08-Jul-24 03:54:02 :  completed - 06 Boys
+08-Jul-24 03:54:02 :  completed - Evergrey
+08-Jul-24 03:54:02 :  completed - De Danske Hyrder
+08-Jul-24 03:54:03 :  completed - Symphony X
+08-Jul-24 03:54:04 :  completed - Skyggesiden
+08-Jul-24 03:54:04 :  completed - Evergrey
+08-Jul-24 03:54:04 :  completed - El Kuelgue
+08-Jul-24 03:54:04 :  completed - De Danske Hyrder
+08-Jul-24 03:54:04 :  completed - 06 Boys
+08-Jul-24 03:54:04 :  completed - John Maus
+08-Jul-24 03:54:04 :  completed - Udgårdsfest 2024
+08-Jul-24 03:54:04 :  completed - Caligula's Horse
+08-Jul-24 03:54:05 :  completed - De Danske Hyrder
+08-Jul-24 03:54:05 :  completed - Symphony X
+08-Jul-24 03:54:05 :  completed - Evergrey
+08-Jul-24 03:54:05 :  completed - John Maus
+08-Jul-24 03:54:05 :  completed - 06 Boys
+08-Jul-24 03:54:05 :  completed - Caligula's Horse
+08-Jul-24 03:54:05 :  completed - El Kuelgue
+08-Jul-24 03:54:06 :  completed - Skyggesiden
+08-Jul-24 03:54:06 :  completed - Udgårdsfest 2024
+08-Jul-24 03:54:07 :  completed - 06 Boys
+08-Jul-24 03:54:07 :  completed - Skyggesiden
+08-Jul-24 03:54:07 :  completed - Symphony X
+08-Jul-24 03:54:07 :  completed - John Maus
+08-Jul-24 03:54:07 :  completed - Evergrey
+08-Jul-24 03:54:07 :  completed - De Danske Hyrder
+08-Jul-24 03:54:07 :  completed - Caligula's Horse
+08-Jul-24 03:54:07 :  completed - El Kuelgue
+08-Jul-24 03:54:07 :  completed - Udgårdsfest 2024
+08-Jul-24 03:54:08 :  completed - Symphony X
+08-Jul-24 03:54:08 :  completed - 06 Boys
+08-Jul-24 03:54:09 :  completed - Evergrey
+08-Jul-24 03:54:09 :  completed - Udgårdsfest 2024
+08-Jul-24 03:54:09 :  completed - Skyggesiden
+08-Jul-24 03:54:09 :  completed - Caligula's Horse
+08-Jul-24 03:54:09 :  completed - El Kuelgue
+08-Jul-24 03:54:09 :  completed - De Danske Hyrder
+08-Jul-24 03:54:09 :  completed - John Maus
+08-Jul-24 03:54:10 :  completed - Udgårdsfest 2024
+08-Jul-24 03:54:10 :  completed - Symphony X
+08-Jul-24 03:54:10 :  completed - De Danske Hyrder
+08-Jul-24 03:54:11 :  completed - Evergrey
+08-Jul-24 03:54:11 :  completed - Skyggesiden
+08-Jul-24 03:54:11 :  completed - 06 Boys
+08-Jul-24 03:54:11 :  completed - John Maus
+08-Jul-24 03:54:11 :  completed - El Kuelgue
+08-Jul-24 03:54:11 :  completed - Caligula's Horse
+08-Jul-24 03:54:13 :  completed - Kalandra + Lili Refrain
+08-Jul-24 03:54:13 :  completed - Københardcore - 50 years of Klaus Boss
+08-Jul-24 03:54:13 :  completed - Ghøstkid
+08-Jul-24 03:54:13 :  completed - Jireel
+08-Jul-24 03:54:13 :  completed - BFL - Brian For Livet
+08-Jul-24 03:54:14 :  completed - Henry Moodie
+08-Jul-24 03:54:14 :  completed - Dog Eat Dog
+08-Jul-24 03:54:14 :  completed - Demon Head
+08-Jul-24 03:54:14 :  completed - Jazmin Bean
+08-Jul-24 03:54:15 :  completed - Demon Head
+08-Jul-24 03:54:15 :  completed - Københardcore - 50 years of Klaus Boss
+08-Jul-24 03:54:15 :  completed - BFL - Brian For Livet
+08-Jul-24 03:54:15 :  completed - Kalandra + Lili Refrain
+08-Jul-24 03:54:15 :  completed - Jireel
+08-Jul-24 03:54:15 :  completed - Dog Eat Dog
+08-Jul-24 03:54:15 :  completed - Ghøstkid
+08-Jul-24 03:54:16 :  completed - Henry Moodie
+08-Jul-24 03:54:16 :  completed - Jazmin Bean
+08-Jul-24 03:54:17 :  completed - Kalandra + Lili Refrain
+08-Jul-24 03:54:17 :  completed - Jireel
+08-Jul-24 03:54:17 :  completed - Københardcore - 50 years of Klaus Boss
+08-Jul-24 03:54:17 :  completed - Ghøstkid
+08-Jul-24 03:54:17 :  completed - Demon Head
+08-Jul-24 03:54:17 :  completed - Henry Moodie
+08-Jul-24 03:54:17 :  completed - Jazmin Bean
+08-Jul-24 03:54:17 :  completed - BFL - Brian For Livet
+08-Jul-24 03:54:17 :  completed - Dog Eat Dog
+08-Jul-24 03:54:18 :  completed - Jazmin Bean
+08-Jul-24 03:54:18 :  completed - Ghøstkid
+08-Jul-24 03:54:19 :  completed - Henry Moodie
+08-Jul-24 03:54:19 :  completed - Københardcore - 50 years of Klaus Boss
+08-Jul-24 03:54:19 :  completed - Demon Head
+08-Jul-24 03:54:19 :  completed - Kalandra + Lili Refrain
+08-Jul-24 03:54:19 :  completed - Jireel
+08-Jul-24 03:54:19 :  completed - BFL - Brian For Livet
+08-Jul-24 03:54:19 :  completed - Dog Eat Dog
+08-Jul-24 03:54:20 :  completed - Demon Head
+08-Jul-24 03:54:21 :  completed - Ghøstkid
+08-Jul-24 03:54:21 :  completed - Kalandra + Lili Refrain
+08-Jul-24 03:54:21 :  completed - Jireel
+08-Jul-24 03:54:21 :  completed - Jazmin Bean
+08-Jul-24 03:54:21 :  completed - Henry Moodie
+08-Jul-24 03:54:21 :  completed - BFL - Brian For Livet
+08-Jul-24 03:54:21 :  completed - Københardcore - 50 years of Klaus Boss
+08-Jul-24 03:54:21 :  completed - Dog Eat Dog
+08-Jul-24 03:54:22 :  completed - Dog Eat Dog
+08-Jul-24 03:54:22 :  completed - Henry Moodie
+08-Jul-24 03:54:22 :  completed - Jazmin Bean
+08-Jul-24 03:54:23 :  completed - Ghøstkid
+08-Jul-24 03:54:23 :  completed - Kalandra + Lili Refrain
+08-Jul-24 03:54:23 :  completed - Jireel
+08-Jul-24 03:54:23 :  completed - BFL - Brian For Livet
+08-Jul-24 03:54:23 :  completed - Københardcore - 50 years of Klaus Boss
+08-Jul-24 03:54:23 :  completed - Demon Head
+08-Jul-24 03:54:24 :  completed - Demon Head
+08-Jul-24 03:54:24 :  completed - Henry Moodie
+08-Jul-24 03:54:24 :  completed - Københardcore - 50 years of Klaus Boss
+08-Jul-24 03:54:24 :  completed - BFL - Brian For Livet
+08-Jul-24 03:54:24 :  completed - Jireel
+08-Jul-24 03:54:24 :  completed - Dog Eat Dog
+08-Jul-24 03:54:24 :  completed - Ghøstkid
+08-Jul-24 03:54:25 :  completed - Jazmin Bean
+08-Jul-24 03:54:25 :  completed - Kalandra + Lili Refrain
+08-Jul-24 03:54:26 :  completed - BFL - Brian For Livet
+08-Jul-24 03:54:26 :  completed - Kalandra + Lili Refrain
+08-Jul-24 03:54:26 :  completed - Jireel
+08-Jul-24 03:54:26 :  completed - Demon Head
+08-Jul-24 03:54:26 :  completed - Københardcore - 50 years of Klaus Boss
+08-Jul-24 03:54:26 :  completed - Dog Eat Dog
+08-Jul-24 03:54:26 :  completed - Jazmin Bean
+08-Jul-24 03:54:26 :  completed - Ghøstkid
+08-Jul-24 03:54:27 :  completed - Henry Moodie
+08-Jul-24 03:54:28 :  completed - Dog Eat Dog
+08-Jul-24 03:54:28 :  completed - Jireel
+08-Jul-24 03:54:28 :  completed - Jazmin Bean
+08-Jul-24 03:54:28 :  completed - Ghøstkid
+08-Jul-24 03:54:28 :  completed - Kalandra + Lili Refrain
+08-Jul-24 03:54:28 :  completed - Henry Moodie
+08-Jul-24 03:54:28 :  completed - BFL - Brian For Livet
+08-Jul-24 03:54:28 :  completed - Københardcore - 50 years of Klaus Boss
+08-Jul-24 03:54:28 :  completed - Demon Head
+08-Jul-24 03:54:31 :  completed - Blackbraid
+08-Jul-24 03:54:31 :  completed - ORM
+08-Jul-24 03:54:31 :  completed - Sungazer
+08-Jul-24 03:54:31 :  completed - Myles Kennedy
+08-Jul-24 03:54:31 :  completed - Spectral Wound
+08-Jul-24 03:54:31 :  completed - Chance Peña
+08-Jul-24 03:54:31 :  completed - Leif Vollebekk
+08-Jul-24 03:54:31 :  completed - Ne Obliviscaris
+08-Jul-24 03:54:32 :  completed - Future Palace
+08-Jul-24 03:54:33 :  completed - Chance Peña
+08-Jul-24 03:54:33 :  completed - Future Palace
+08-Jul-24 03:54:33 :  completed - Sungazer
+08-Jul-24 03:54:33 :  completed - Myles Kennedy
+08-Jul-24 03:54:33 :  completed - Spectral Wound
+08-Jul-24 03:54:33 :  completed - Ne Obliviscaris
+08-Jul-24 03:54:33 :  completed - Leif Vollebekk
+08-Jul-24 03:54:33 :  completed - ORM
+08-Jul-24 03:54:33 :  completed - Blackbraid
+08-Jul-24 03:54:35 :  completed - Ne Obliviscaris
+08-Jul-24 03:54:35 :  completed - ORM
+08-Jul-24 03:54:35 :  completed - Myles Kennedy
+08-Jul-24 03:54:35 :  completed - Leif Vollebekk
+08-Jul-24 03:54:35 :  completed - Sungazer
+08-Jul-24 03:54:35 :  completed - Spectral Wound
+08-Jul-24 03:54:35 :  completed - Future Palace
+08-Jul-24 03:54:35 :  completed - Blackbraid
+08-Jul-24 03:54:35 :  completed - Chance Peña
+08-Jul-24 03:54:37 :  completed - Ne Obliviscaris
+08-Jul-24 03:54:37 :  completed - Leif Vollebekk
+08-Jul-24 03:54:37 :  completed - ORM
+08-Jul-24 03:54:37 :  completed - Myles Kennedy
+08-Jul-24 03:54:37 :  completed - Blackbraid
+08-Jul-24 03:54:37 :  completed - Spectral Wound
+08-Jul-24 03:54:37 :  completed - Sungazer
+08-Jul-24 03:54:37 :  completed - Chance Peña
+08-Jul-24 03:54:38 :  completed - Future Palace
+08-Jul-24 03:54:39 :  completed - Leif Vollebekk
+08-Jul-24 03:54:39 :  completed - Ne Obliviscaris
+08-Jul-24 03:54:39 :  completed - Future Palace
+08-Jul-24 03:54:39 :  completed - Myles Kennedy
+08-Jul-24 03:54:39 :  completed - ORM
+08-Jul-24 03:54:39 :  completed - Chance Peña
+08-Jul-24 03:54:39 :  completed - Blackbraid
+08-Jul-24 03:54:39 :  completed - Sungazer
+08-Jul-24 03:54:39 :  completed - Spectral Wound
+08-Jul-24 03:54:41 :  completed - Chance Peña
+08-Jul-24 03:54:41 :  completed - Myles Kennedy
+08-Jul-24 03:54:41 :  completed - Ne Obliviscaris
+08-Jul-24 03:54:41 :  completed - Spectral Wound
+08-Jul-24 03:54:41 :  completed - Future Palace
+08-Jul-24 03:54:41 :  completed - Blackbraid
+08-Jul-24 03:54:41 :  completed - Leif Vollebekk
+08-Jul-24 03:54:41 :  completed - Sungazer
+08-Jul-24 03:54:41 :  completed - ORM
+08-Jul-24 03:54:42 :  completed - Ne Obliviscaris
+08-Jul-24 03:54:42 :  completed - ORM
+08-Jul-24 03:54:42 :  completed - Myles Kennedy
+08-Jul-24 03:54:42 :  completed - Blackbraid
+08-Jul-24 03:54:43 :  completed - Sungazer
+08-Jul-24 03:54:43 :  completed - Spectral Wound
+08-Jul-24 03:54:43 :  completed - Future Palace
+08-Jul-24 03:54:43 :  completed - Leif Vollebekk
+08-Jul-24 03:54:43 :  completed - Chance Peña
+08-Jul-24 03:54:44 :  completed - Ne Obliviscaris
+08-Jul-24 03:54:45 :  completed - ORM
+08-Jul-24 03:54:45 :  completed - Myles Kennedy
+08-Jul-24 03:54:45 :  completed - Sungazer
+08-Jul-24 03:54:45 :  completed - Future Palace
+08-Jul-24 03:54:45 :  completed - Blackbraid
+08-Jul-24 03:54:45 :  completed - Chance Peña
+08-Jul-24 03:54:45 :  completed - Spectral Wound
+08-Jul-24 03:54:45 :  completed - Leif Vollebekk
+08-Jul-24 03:54:47 :  completed - Chance Peña
+08-Jul-24 03:54:47 :  completed - ORM
+08-Jul-24 03:54:47 :  completed - Ne Obliviscaris
+08-Jul-24 03:54:47 :  completed - Future Palace
+08-Jul-24 03:54:47 :  completed - Myles Kennedy
+08-Jul-24 03:54:47 :  completed - Blackbraid
+08-Jul-24 03:54:47 :  completed - Leif Vollebekk
+08-Jul-24 03:54:47 :  completed - Spectral Wound
+08-Jul-24 03:54:47 :  completed - Sungazer
+08-Jul-24 03:54:50 :  completed - APHACA
+08-Jul-24 03:54:50 :  completed - Gatecreeper
+08-Jul-24 03:54:50 :  completed - Trentemøller
+08-Jul-24 03:54:50 :  completed - Trentemøller
+08-Jul-24 03:54:51 :  completed - Joywave
+08-Jul-24 03:54:51 :  completed - Yamê
+08-Jul-24 03:54:51 :  completed - Trentemøller
+08-Jul-24 03:54:51 :  completed - Tropical Fuck Storm
+08-Jul-24 03:54:51 :  completed - Yung Gravy
+08-Jul-24 03:54:52 :  completed - APHACA
+08-Jul-24 03:54:52 :  completed - Yung Gravy
+08-Jul-24 03:54:52 :  completed - Trentemøller
+08-Jul-24 03:54:52 :  completed - Yamê
+08-Jul-24 03:54:52 :  completed - Trentemøller
+08-Jul-24 03:54:52 :  completed - Joywave
+08-Jul-24 03:54:52 :  completed - Trentemøller
+08-Jul-24 03:54:52 :  completed - Tropical Fuck Storm
+08-Jul-24 03:54:53 :  completed - Gatecreeper
+08-Jul-24 03:54:54 :  completed - APHACA
+08-Jul-24 03:54:54 :  completed - Tropical Fuck Storm
+08-Jul-24 03:54:54 :  completed - Trentemøller
+08-Jul-24 03:54:54 :  completed - Gatecreeper
+08-Jul-24 03:54:54 :  completed - Trentemøller
+08-Jul-24 03:54:54 :  completed - Trentemøller
+08-Jul-24 03:54:54 :  completed - Yamê
+08-Jul-24 03:54:54 :  completed - Joywave
+08-Jul-24 03:54:54 :  completed - Yung Gravy
+08-Jul-24 03:54:55 :  completed - APHACA
+08-Jul-24 03:54:55 :  completed - Trentemøller
+08-Jul-24 03:54:55 :  completed - Yung Gravy
+08-Jul-24 03:54:56 :  completed - Gatecreeper
+08-Jul-24 03:54:56 :  completed - Trentemøller
+08-Jul-24 03:54:56 :  completed - Yamê
+08-Jul-24 03:54:56 :  completed - Tropical Fuck Storm
+08-Jul-24 03:54:56 :  completed - Trentemøller
+08-Jul-24 03:54:56 :  completed - Joywave
+08-Jul-24 03:54:57 :  completed - Tropical Fuck Storm
+08-Jul-24 03:54:58 :  completed - Trentemøller
+08-Jul-24 03:54:58 :  completed - Trentemøller
+08-Jul-24 03:54:58 :  completed - Trentemøller
+08-Jul-24 03:54:58 :  completed - Yung Gravy
+08-Jul-24 03:54:58 :  completed - Joywave
+08-Jul-24 03:54:58 :  completed - Yamê
+08-Jul-24 03:54:58 :  completed - APHACA
+08-Jul-24 03:54:58 :  completed - Gatecreeper
+08-Jul-24 03:54:59 :  completed - Gatecreeper
+08-Jul-24 03:55:00 :  completed - Trentemøller
+08-Jul-24 03:55:00 :  completed - Tropical Fuck Storm
+08-Jul-24 03:55:00 :  completed - Trentemøller
+08-Jul-24 03:55:00 :  completed - Trentemøller
+08-Jul-24 03:55:00 :  completed - Yung Gravy
+08-Jul-24 03:55:00 :  completed - Joywave
+08-Jul-24 03:55:00 :  completed - APHACA
+08-Jul-24 03:55:00 :  completed - Yamê
+08-Jul-24 03:55:01 :  completed - Trentemøller
+08-Jul-24 03:55:01 :  completed - Yamê
+08-Jul-24 03:55:02 :  completed - Tropical Fuck Storm
+08-Jul-24 03:55:02 :  completed - Trentemøller
+08-Jul-24 03:55:02 :  completed - Trentemøller
+08-Jul-24 03:55:02 :  completed - Yung Gravy
+08-Jul-24 03:55:02 :  completed - Gatecreeper
+08-Jul-24 03:55:02 :  completed - Joywave
+08-Jul-24 03:55:02 :  completed - APHACA
+08-Jul-24 03:55:03 :  completed - Trentemøller
+08-Jul-24 03:55:03 :  completed - Tropical Fuck Storm
+08-Jul-24 03:55:03 :  completed - Yung Gravy
+08-Jul-24 03:55:03 :  completed - APHACA
+08-Jul-24 03:55:03 :  completed - Trentemøller
+08-Jul-24 03:55:03 :  completed - Yamê
+08-Jul-24 03:55:03 :  completed - Joywave
+08-Jul-24 03:55:04 :  completed - Gatecreeper
+08-Jul-24 03:55:04 :  completed - Trentemøller
+08-Jul-24 03:55:05 :  completed - Joywave
+08-Jul-24 03:55:05 :  completed - Tropical Fuck Storm
+08-Jul-24 03:55:05 :  completed - Trentemøller
+08-Jul-24 03:55:05 :  completed - Yamê
+08-Jul-24 03:55:05 :  completed - APHACA
+08-Jul-24 03:55:05 :  completed - Gatecreeper
+08-Jul-24 03:55:05 :  completed - Yung Gravy
+08-Jul-24 03:55:05 :  completed - Trentemøller
+08-Jul-24 03:55:06 :  completed - Trentemøller
+08-Jul-24 03:55:08 :  completed - Saint Levant
+08-Jul-24 03:55:08 :  completed - Afsky + Sunken + Morild
+08-Jul-24 03:55:08 :  completed - Bunt.
+08-Jul-24 03:55:08 :  completed - LYDSYN
+08-Jul-24 03:55:08 :  completed - Veil Of Maya + Signs Of The Swarm
+08-Jul-24 03:55:08 :  completed - Dark Tranquillity
+08-Jul-24 03:55:08 :  completed - Blues Pills
+08-Jul-24 03:55:09 :  completed - Two Another
+08-Jul-24 03:55:09 :  completed - You Me At Six
+08-Jul-24 03:55:10 :  completed - Bunt.
+08-Jul-24 03:55:10 :  completed - Afsky + Sunken + Morild
+08-Jul-24 03:55:10 :  completed - LYDSYN
+08-Jul-24 03:55:10 :  completed - Saint Levant
+08-Jul-24 03:55:10 :  completed - You Me At Six
+08-Jul-24 03:55:10 :  completed - Veil Of Maya + Signs Of The Swarm
+08-Jul-24 03:55:10 :  completed - Two Another
+08-Jul-24 03:55:10 :  completed - Blues Pills
+08-Jul-24 03:55:11 :  completed - Dark Tranquillity
+08-Jul-24 03:55:12 :  completed - Dark Tranquillity
+08-Jul-24 03:55:12 :  completed - Bunt.
+08-Jul-24 03:55:12 :  completed - Afsky + Sunken + Morild
+08-Jul-24 03:55:12 :  completed - Saint Levant
+08-Jul-24 03:55:12 :  completed - Blues Pills
+08-Jul-24 03:55:12 :  completed - You Me At Six
+08-Jul-24 03:55:12 :  completed - Veil Of Maya + Signs Of The Swarm
+08-Jul-24 03:55:12 :  completed - LYDSYN
+08-Jul-24 03:55:12 :  completed - Two Another
+08-Jul-24 03:55:13 :  completed - Veil Of Maya + Signs Of The Swarm
+08-Jul-24 03:55:14 :  completed - Dark Tranquillity
+08-Jul-24 03:55:14 :  completed - LYDSYN
+08-Jul-24 03:55:14 :  completed - Bunt.
+08-Jul-24 03:55:14 :  completed - Two Another
+08-Jul-24 03:55:14 :  completed - You Me At Six
+08-Jul-24 03:55:14 :  completed - Blues Pills
+08-Jul-24 03:55:14 :  completed - Afsky + Sunken + Morild
+08-Jul-24 03:55:14 :  completed - Saint Levant
+08-Jul-24 03:55:15 :  completed - You Me At Six
+08-Jul-24 03:55:15 :  completed - LYDSYN
+08-Jul-24 03:55:16 :  completed - Veil Of Maya + Signs Of The Swarm
+08-Jul-24 03:55:16 :  completed - Blues Pills
+08-Jul-24 03:55:16 :  completed - Dark Tranquillity
+08-Jul-24 03:55:16 :  completed - Afsky + Sunken + Morild
+08-Jul-24 03:55:16 :  completed - Saint Levant
+08-Jul-24 03:55:16 :  completed - Two Another
+08-Jul-24 03:55:16 :  completed - Bunt.
+08-Jul-24 03:55:17 :  completed - You Me At Six
+08-Jul-24 03:55:17 :  completed - Bunt.
+08-Jul-24 03:55:17 :  completed - LYDSYN
+08-Jul-24 03:55:17 :  completed - Afsky + Sunken + Morild
+08-Jul-24 03:55:18 :  completed - Blues Pills
+08-Jul-24 03:55:18 :  completed - Saint Levant
+08-Jul-24 03:55:18 :  completed - Veil Of Maya + Signs Of The Swarm
+08-Jul-24 03:55:18 :  completed - Two Another
+08-Jul-24 03:55:18 :  completed - Dark Tranquillity
+08-Jul-24 03:55:19 :  completed - Veil Of Maya + Signs Of The Swarm
+08-Jul-24 03:55:19 :  completed - Dark Tranquillity
+08-Jul-24 03:55:19 :  completed - Saint Levant
+08-Jul-24 03:55:19 :  completed - Two Another
+08-Jul-24 03:55:19 :  completed - LYDSYN
+08-Jul-24 03:55:20 :  completed - Bunt.
+08-Jul-24 03:55:20 :  completed - Blues Pills
+08-Jul-24 03:55:20 :  completed - You Me At Six
+08-Jul-24 03:55:20 :  completed - Afsky + Sunken + Morild
+08-Jul-24 03:55:21 :  completed - Dark Tranquillity
+08-Jul-24 03:55:21 :  completed - Afsky + Sunken + Morild
+08-Jul-24 03:55:21 :  completed - Saint Levant
+08-Jul-24 03:55:21 :  completed - You Me At Six
+08-Jul-24 03:55:21 :  completed - Two Another
+08-Jul-24 03:55:21 :  completed - LYDSYN
+08-Jul-24 03:55:22 :  completed - Blues Pills
+08-Jul-24 03:55:22 :  completed - Bunt.
+08-Jul-24 03:55:22 :  completed - Veil Of Maya + Signs Of The Swarm
+08-Jul-24 03:55:22 :  completed - Dark Tranquillity
+08-Jul-24 03:55:23 :  completed - Bunt.
+08-Jul-24 03:55:23 :  completed - Two Another
+08-Jul-24 03:55:23 :  completed - You Me At Six
+08-Jul-24 03:55:23 :  completed - Veil Of Maya + Signs Of The Swarm
+08-Jul-24 03:55:23 :  completed - Saint Levant
+08-Jul-24 03:55:23 :  completed - Blues Pills
+08-Jul-24 03:55:23 :  completed - LYDSYN
+08-Jul-24 03:55:24 :  completed - Afsky + Sunken + Morild
+08-Jul-24 03:55:26 :  completed - Smash Into Pieces
+08-Jul-24 03:55:26 :  completed - Pind
+08-Jul-24 03:55:26 :  completed - Wheel
+08-Jul-24 03:55:26 :  completed - Inez
+08-Jul-24 03:55:26 :  completed - Nakkeknaekker
+08-Jul-24 03:55:26 :  completed - Therapy?
+08-Jul-24 03:55:26 :  completed - Roben &#038; Knud
+08-Jul-24 03:55:26 :  completed - BEAK>
+08-Jul-24 03:55:26 :  completed - Kanonenfieber
+08-Jul-24 03:55:27 :  completed - Wheel
+08-Jul-24 03:55:28 :  completed - Pind
+08-Jul-24 03:55:28 :  completed - Kanonenfieber
+08-Jul-24 03:55:28 :  completed - Roben &#038; Knud
+08-Jul-24 03:55:28 :  completed - Inez
+08-Jul-24 03:55:28 :  completed - Smash Into Pieces
+08-Jul-24 03:55:28 :  completed - Therapy?
+08-Jul-24 03:55:28 :  completed - BEAK>
+08-Jul-24 03:55:28 :  completed - Nakkeknaekker
+08-Jul-24 03:55:29 :  completed - Pind
+08-Jul-24 03:55:30 :  completed - BEAK>
+08-Jul-24 03:55:30 :  completed - Roben &#038; Knud
+08-Jul-24 03:55:30 :  completed - Wheel
+08-Jul-24 03:55:30 :  completed - Therapy?
+08-Jul-24 03:55:30 :  completed - Inez
+08-Jul-24 03:55:30 :  completed - Smash Into Pieces
+08-Jul-24 03:55:30 :  completed - Nakkeknaekker
+08-Jul-24 03:55:30 :  completed - Kanonenfieber
+08-Jul-24 03:55:31 :  completed - Wheel
+08-Jul-24 03:55:31 :  completed - Smash Into Pieces
+08-Jul-24 03:55:32 :  completed - Kanonenfieber
+08-Jul-24 03:55:32 :  completed - Pind
+08-Jul-24 03:55:32 :  completed - Therapy?
+08-Jul-24 03:55:32 :  completed - Nakkeknaekker
+08-Jul-24 03:55:32 :  completed - BEAK>
+08-Jul-24 03:55:32 :  completed - Roben &#038; Knud
+08-Jul-24 03:55:32 :  completed - Inez
+08-Jul-24 03:55:33 :  completed - Roben &#038; Knud
+08-Jul-24 03:55:33 :  completed - Pind
+08-Jul-24 03:55:33 :  completed - Therapy?
+08-Jul-24 03:55:33 :  completed - Wheel
+08-Jul-24 03:55:34 :  completed - Nakkeknaekker
+08-Jul-24 03:55:34 :  completed - Kanonenfieber
+08-Jul-24 03:55:34 :  completed - Smash Into Pieces
+08-Jul-24 03:55:34 :  completed - BEAK>
+08-Jul-24 03:55:34 :  completed - Inez
+08-Jul-24 03:55:35 :  completed - Pind
+08-Jul-24 03:55:35 :  completed - Kanonenfieber
+08-Jul-24 03:55:35 :  completed - Smash Into Pieces
+08-Jul-24 03:55:35 :  completed - Wheel
+08-Jul-24 03:55:35 :  completed - Therapy?
+08-Jul-24 03:55:35 :  completed - Nakkeknaekker
+08-Jul-24 03:55:36 :  completed - Inez
+08-Jul-24 03:55:36 :  completed - Roben &#038; Knud
+08-Jul-24 03:55:36 :  completed - BEAK>
+08-Jul-24 03:55:37 :  completed - Smash Into Pieces
+08-Jul-24 03:55:38 :  completed - Therapy?
+08-Jul-24 03:55:38 :  completed - BEAK>
+08-Jul-24 03:55:38 :  completed - Kanonenfieber
+08-Jul-24 03:55:38 :  completed - Wheel
+08-Jul-24 03:55:38 :  completed - Roben &#038; Knud
+08-Jul-24 03:55:38 :  completed - Pind
+08-Jul-24 03:55:38 :  completed - Inez
+08-Jul-24 03:55:38 :  completed - Nakkeknaekker
+08-Jul-24 03:55:39 :  completed - Roben &#038; Knud
+08-Jul-24 03:55:39 :  completed - Smash Into Pieces
+08-Jul-24 03:55:39 :  completed - Pind
+08-Jul-24 03:55:39 :  completed - Wheel
+08-Jul-24 03:55:39 :  completed - Therapy?
+08-Jul-24 03:55:39 :  completed - Nakkeknaekker
+08-Jul-24 03:55:39 :  completed - Inez
+08-Jul-24 03:55:39 :  completed - Kanonenfieber
+08-Jul-24 03:55:40 :  completed - BEAK>
+08-Jul-24 03:55:41 :  completed - Kanonenfieber
+08-Jul-24 03:55:41 :  completed - Smash Into Pieces
+08-Jul-24 03:55:41 :  completed - Therapy?
+08-Jul-24 03:55:41 :  completed - Wheel
+08-Jul-24 03:55:41 :  completed - Pind
+08-Jul-24 03:55:41 :  completed - Roben &#038; Knud
+08-Jul-24 03:55:41 :  completed - Inez
+08-Jul-24 03:55:41 :  completed - Nakkeknaekker
+08-Jul-24 03:55:42 :  completed - BEAK>
+08-Jul-24 03:55:44 :  completed - Front 242
+08-Jul-24 03:55:44 :  completed - USO
+08-Jul-24 03:55:44 :  completed - Ezhel
+08-Jul-24 03:55:44 :  completed - Paleface Swiss
+08-Jul-24 03:55:44 :  completed - Bernth
+08-Jul-24 03:55:44 :  completed - Imminence
+08-Jul-24 03:55:44 :  completed - Roben &#038; Knud - ekstrakoncert
+08-Jul-24 03:55:44 :  completed - Darren Kiely
+08-Jul-24 03:55:44 :  completed - Camma
+08-Jul-24 03:55:46 :  completed - Roben &#038; Knud - ekstrakoncert
+08-Jul-24 03:55:46 :  completed - Bernth
+08-Jul-24 03:55:46 :  completed - USO
+08-Jul-24 03:55:46 :  completed - Paleface Swiss
+08-Jul-24 03:55:46 :  completed - Imminence
+08-Jul-24 03:55:46 :  completed - Ezhel
+08-Jul-24 03:55:46 :  completed - Darren Kiely
+08-Jul-24 03:55:46 :  completed - Camma
+08-Jul-24 03:55:46 :  completed - Front 242
+08-Jul-24 03:55:47 :  completed - Roben &#038; Knud - ekstrakoncert
+08-Jul-24 03:55:47 :  completed - Front 242
+08-Jul-24 03:55:47 :  completed - Camma
+08-Jul-24 03:55:48 :  completed - Imminence
+08-Jul-24 03:55:48 :  completed - Ezhel
+08-Jul-24 03:55:48 :  completed - USO
+08-Jul-24 03:55:48 :  completed - Bernth
+08-Jul-24 03:55:48 :  completed - Paleface Swiss
+08-Jul-24 03:55:48 :  completed - Darren Kiely
+08-Jul-24 03:55:49 :  completed - Front 242
+08-Jul-24 03:55:49 :  completed - Bernth
+08-Jul-24 03:55:49 :  completed - Darren Kiely
+08-Jul-24 03:55:49 :  completed - Paleface Swiss
+08-Jul-24 03:55:49 :  completed - Roben &#038; Knud - ekstrakoncert
+08-Jul-24 03:55:49 :  completed - Camma
+08-Jul-24 03:55:49 :  completed - USO
+08-Jul-24 03:55:50 :  completed - Ezhel
+08-Jul-24 03:55:50 :  completed - Imminence
+08-Jul-24 03:55:51 :  completed - Paleface Swiss
+08-Jul-24 03:55:51 :  completed - Front 242
+08-Jul-24 03:55:51 :  completed - Bernth
+08-Jul-24 03:55:51 :  completed - USO
+08-Jul-24 03:55:51 :  completed - Roben &#038; Knud - ekstrakoncert
+08-Jul-24 03:55:51 :  completed - Darren Kiely
+08-Jul-24 03:55:51 :  completed - Ezhel
+08-Jul-24 03:55:51 :  completed - Imminence
+08-Jul-24 03:55:51 :  completed - Camma
+08-Jul-24 03:55:52 :  completed - USO
+08-Jul-24 03:55:52 :  completed - Camma
+08-Jul-24 03:55:53 :  completed - Bernth
+08-Jul-24 03:55:53 :  completed - Imminence
+08-Jul-24 03:55:53 :  completed - Paleface Swiss
+08-Jul-24 03:55:53 :  completed - Roben &#038; Knud - ekstrakoncert
+08-Jul-24 03:55:53 :  completed - Front 242
+08-Jul-24 03:55:53 :  completed - Ezhel
+08-Jul-24 03:55:53 :  completed - Darren Kiely
+08-Jul-24 03:55:54 :  completed - Darren Kiely
+08-Jul-24 03:55:54 :  completed - Bernth
+08-Jul-24 03:55:54 :  completed - Ezhel
+08-Jul-24 03:55:54 :  completed - Roben &#038; Knud - ekstrakoncert
+08-Jul-24 03:55:54 :  completed - USO
+08-Jul-24 03:55:55 :  completed - Front 242
+08-Jul-24 03:55:55 :  completed - Camma
+08-Jul-24 03:55:55 :  completed - Paleface Swiss
+08-Jul-24 03:55:55 :  completed - Imminence
+08-Jul-24 03:55:56 :  completed - Darren Kiely
+08-Jul-24 03:55:56 :  completed - Front 242
+08-Jul-24 03:55:57 :  completed - Roben &#038; Knud - ekstrakoncert
+08-Jul-24 03:55:57 :  completed - Bernth
+08-Jul-24 03:55:57 :  completed - Ezhel
+08-Jul-24 03:55:57 :  completed - Camma
+08-Jul-24 03:55:57 :  completed - USO
+08-Jul-24 03:55:57 :  completed - Paleface Swiss
+08-Jul-24 03:55:58 :  completed - Imminence
+08-Jul-24 03:55:59 :  completed - Bernth
+08-Jul-24 03:55:59 :  completed - Front 242
+08-Jul-24 03:55:59 :  completed - Camma
+08-Jul-24 03:55:59 :  completed - Roben &#038; Knud - ekstrakoncert
+08-Jul-24 03:55:59 :  completed - Imminence
+08-Jul-24 03:55:59 :  completed - Darren Kiely
+08-Jul-24 03:55:59 :  completed - Ezhel
+08-Jul-24 03:55:59 :  completed - USO
+08-Jul-24 03:55:59 :  completed - Paleface Swiss
+08-Jul-24 03:56:02 :  completed - Utopia
+08-Jul-24 03:56:02 :  completed - VNV Nation
+08-Jul-24 03:56:03 :  completed - Utopia
+08-Jul-24 03:56:04 :  completed - VNV Nation
+08-Jul-24 03:56:08 :  completed - Byhaven: Kosmos Trio + Abekejser
+08-Jul-24 03:56:09 :  completed - Byhaven: Humanoid Silhouette + Get Me a Badger
+08-Jul-24 03:56:09 :  completed - Byhaven: Baryl + Mass
+08-Jul-24 03:56:09 :  completed - Byhaven: Spellcaster + Akabanga
+08-Jul-24 03:56:09 :  completed - Byhaven: Bish + Michaela Turcerová's LANDLAND
+08-Jul-24 03:56:09 :  completed - Byhaven: Natasha Imani + Toftemark &#038; the Chosen Groove
+08-Jul-24 03:56:09 :  completed - Byhaven: Amalie Dahl's Breaking/Building Habits + Dubbeltrion
+08-Jul-24 03:56:09 :  completed - Byhaven: Thora &#038; Joakim + Univers
+08-Jul-24 03:56:09 :  completed - Byhaven: Pære Banal + Sauna Senere
+08-Jul-24 03:56:10 :  completed - Byhaven: Amalie Dahl's Breaking/Building Habits + Dubbeltrion
+08-Jul-24 03:56:10 :  completed - Byhaven: Natasha Imani + Toftemark &#038; the Chosen Groove
+08-Jul-24 03:56:11 :  completed - Byhaven: Humanoid Silhouette + Get Me a Badger
+08-Jul-24 03:56:11 :  completed - Byhaven: Baryl + Mass
+08-Jul-24 03:56:11 :  completed - Byhaven: Thora &#038; Joakim + Univers
+08-Jul-24 03:56:11 :  completed - Byhaven: Pære Banal + Sauna Senere
+08-Jul-24 03:56:11 :  completed - Byhaven: Spellcaster + Akabanga
+08-Jul-24 03:56:11 :  completed - Byhaven: Kosmos Trio + Abekejser
+08-Jul-24 03:56:11 :  completed - Byhaven: Bish + Michaela Turcerová's LANDLAND
+08-Jul-24 03:56:12 :  completed - Byhaven: Kosmos Trio + Abekejser
+08-Jul-24 03:56:12 :  completed - Byhaven: Baryl + Mass
+08-Jul-24 03:56:12 :  completed - Byhaven: Amalie Dahl's Breaking/Building Habits + Dubbeltrion
+08-Jul-24 03:56:12 :  completed - Byhaven: Pære Banal + Sauna Senere
+08-Jul-24 03:56:13 :  completed - Byhaven: Natasha Imani + Toftemark &#038; the Chosen Groove
+08-Jul-24 03:56:13 :  completed - Byhaven: Humanoid Silhouette + Get Me a Badger
+08-Jul-24 03:56:13 :  completed - Byhaven: Bish + Michaela Turcerová's LANDLAND
+08-Jul-24 03:56:13 :  completed - Byhaven: Thora &#038; Joakim + Univers
+08-Jul-24 03:56:13 :  completed - Byhaven: Spellcaster + Akabanga
+08-Jul-24 03:56:14 :  completed - Byhaven: Thora &#038; Joakim + Univers
+08-Jul-24 03:56:14 :  completed - Byhaven: Natasha Imani + Toftemark &#038; the Chosen Groove
+08-Jul-24 03:56:14 :  completed - Byhaven: Spellcaster + Akabanga
+08-Jul-24 03:56:14 :  completed - Byhaven: Humanoid Silhouette + Get Me a Badger
+08-Jul-24 03:56:15 :  completed - Byhaven: Kosmos Trio + Abekejser
+08-Jul-24 03:56:15 :  completed - Byhaven: Baryl + Mass
+08-Jul-24 03:56:15 :  completed - Byhaven: Bish + Michaela Turcerová's LANDLAND
+08-Jul-24 03:56:15 :  completed - Byhaven: Pære Banal + Sauna Senere
+08-Jul-24 03:56:15 :  completed - Byhaven: Amalie Dahl's Breaking/Building Habits + Dubbeltrion
+08-Jul-24 03:56:16 :  completed - Byhaven: Bish + Michaela Turcerová's LANDLAND
+08-Jul-24 03:56:16 :  completed - Byhaven: Humanoid Silhouette + Get Me a Badger
+08-Jul-24 03:56:16 :  completed - Byhaven: Amalie Dahl's Breaking/Building Habits + Dubbeltrion
+08-Jul-24 03:56:16 :  completed - Byhaven: Thora &#038; Joakim + Univers
+08-Jul-24 03:56:17 :  completed - Byhaven: Kosmos Trio + Abekejser
+08-Jul-24 03:56:17 :  completed - Byhaven: Baryl + Mass
+08-Jul-24 03:56:17 :  completed - Byhaven: Natasha Imani + Toftemark &#038; the Chosen Groove
+08-Jul-24 03:56:17 :  completed - Byhaven: Spellcaster + Akabanga
+08-Jul-24 03:56:17 :  completed - Byhaven: Pære Banal + Sauna Senere
+08-Jul-24 03:56:18 :  completed - Byhaven: Humanoid Silhouette + Get Me a Badger
+08-Jul-24 03:56:18 :  completed - Byhaven: Kosmos Trio + Abekejser
+08-Jul-24 03:56:18 :  completed - Byhaven: Spellcaster + Akabanga
+08-Jul-24 03:56:18 :  completed - Byhaven: Baryl + Mass
+08-Jul-24 03:56:18 :  completed - Byhaven: Bish + Michaela Turcerová's LANDLAND
+08-Jul-24 03:56:18 :  completed - Byhaven: Amalie Dahl's Breaking/Building Habits + Dubbeltrion
+08-Jul-24 03:56:18 :  completed - Byhaven: Natasha Imani + Toftemark &#038; the Chosen Groove
+08-Jul-24 03:56:18 :  completed - Byhaven: Thora &#038; Joakim + Univers
+08-Jul-24 03:56:19 :  completed - Byhaven: Pære Banal + Sauna Senere
+08-Jul-24 03:56:20 :  completed - Byhaven: Amalie Dahl's Breaking/Building Habits + Dubbeltrion
+08-Jul-24 03:56:20 :  completed - Byhaven: Bish + Michaela Turcerová's LANDLAND
+08-Jul-24 03:56:20 :  completed - Byhaven: Thora &#038; Joakim + Univers
+08-Jul-24 03:56:20 :  completed - Byhaven: Humanoid Silhouette + Get Me a Badger
+08-Jul-24 03:56:20 :  completed - Byhaven: Kosmos Trio + Abekejser
+08-Jul-24 03:56:20 :  completed - Byhaven: Spellcaster + Akabanga
+08-Jul-24 03:56:20 :  completed - Byhaven: Natasha Imani + Toftemark &#038; the Chosen Groove
+08-Jul-24 03:56:20 :  completed - Byhaven: Baryl + Mass
+08-Jul-24 03:56:20 :  completed - Byhaven: Pære Banal + Sauna Senere
+08-Jul-24 03:56:21 :  completed - Byhaven: Pære Banal + Sauna Senere
+08-Jul-24 03:56:21 :  completed - Byhaven: Kosmos Trio + Abekejser
+08-Jul-24 03:56:22 :  completed - Byhaven: Baryl + Mass
+08-Jul-24 03:56:22 :  completed - Byhaven: Amalie Dahl's Breaking/Building Habits + Dubbeltrion
+08-Jul-24 03:56:22 :  completed - Byhaven: Humanoid Silhouette + Get Me a Badger
+08-Jul-24 03:56:22 :  completed - Byhaven: Natasha Imani + Toftemark &#038; the Chosen Groove
+08-Jul-24 03:56:22 :  completed - Byhaven: Spellcaster + Akabanga
+08-Jul-24 03:56:22 :  completed - Byhaven: Thora &#038; Joakim + Univers
+08-Jul-24 03:56:22 :  completed - Byhaven: Bish + Michaela Turcerová's LANDLAND
+08-Jul-24 03:56:23 :  completed - Byhaven: Kosmos Trio + Abekejser
+08-Jul-24 03:56:23 :  completed - Byhaven: Baryl + Mass
+08-Jul-24 03:56:23 :  completed - Byhaven: Natasha Imani + Toftemark &#038; the Chosen Groove
+08-Jul-24 03:56:23 :  completed - Byhaven: Amalie Dahl's Breaking/Building Habits + Dubbeltrion
+08-Jul-24 03:56:23 :  completed - Byhaven: Thora &#038; Joakim + Univers
+08-Jul-24 03:56:24 :  completed - Byhaven: Spellcaster + Akabanga
+08-Jul-24 03:56:24 :  completed - Byhaven: Humanoid Silhouette + Get Me a Badger
+08-Jul-24 03:56:24 :  completed - Byhaven: Pære Banal + Sauna Senere
+08-Jul-24 03:56:24 :  completed - Byhaven: Bish + Michaela Turcerová's LANDLAND
+08-Jul-24 03:56:26 :  completed - Byhaven: Sebastian Wolff
+08-Jul-24 03:56:27 :  completed - Byhaven: Sulka + PAS PÅ
+08-Jul-24 03:56:27 :  completed - Byhaven: Frigjort presents
+08-Jul-24 03:56:27 :  completed - Byhaven: Kvarti + Vincent Wood
+08-Jul-24 03:56:27 :  completed - Byhaven: The Colour + MILA
+08-Jul-24 03:56:27 :  completed - Byhaven: Asta Norr + Bifald + Elliot
+08-Jul-24 03:56:27 :  completed - Byhaven: Elsy Wameyo + Betty Bass
+08-Jul-24 03:56:27 :  completed - Byhaven: Sofie1998 + Søren Michelsen
+08-Jul-24 03:56:27 :  completed - Byhaven: EXTREMELY ROTTEN DEATH METAL VOL. 22
+08-Jul-24 03:56:29 :  completed - Byhaven: The Colour + MILA
+08-Jul-24 03:56:29 :  completed - Byhaven: Kvarti + Vincent Wood
+08-Jul-24 03:56:29 :  completed - Byhaven: Frigjort presents
+08-Jul-24 03:56:29 :  completed - Byhaven: EXTREMELY ROTTEN DEATH METAL VOL. 22
+08-Jul-24 03:56:29 :  completed - Byhaven: Sebastian Wolff
+08-Jul-24 03:56:29 :  completed - Byhaven: Sulka + PAS PÅ
+08-Jul-24 03:56:29 :  completed - Byhaven: Elsy Wameyo + Betty Bass
+08-Jul-24 03:56:29 :  completed - Byhaven: Sofie1998 + Søren Michelsen
+08-Jul-24 03:56:29 :  completed - Byhaven: Asta Norr + Bifald + Elliot
+08-Jul-24 03:56:31 :  completed - Byhaven: Sulka + PAS PÅ
+08-Jul-24 03:56:31 :  completed - Byhaven: Sebastian Wolff
+08-Jul-24 03:56:31 :  completed - Byhaven: Asta Norr + Bifald + Elliot
+08-Jul-24 03:56:31 :  completed - Byhaven: The Colour + MILA
+08-Jul-24 03:56:31 :  completed - Byhaven: Frigjort presents
+08-Jul-24 03:56:31 :  completed - Byhaven: Elsy Wameyo + Betty Bass
+08-Jul-24 03:56:31 :  completed - Byhaven: Sofie1998 + Søren Michelsen
+08-Jul-24 03:56:31 :  completed - Byhaven: Kvarti + Vincent Wood
+08-Jul-24 03:56:31 :  completed - Byhaven: EXTREMELY ROTTEN DEATH METAL VOL. 22
+08-Jul-24 03:56:33 :  completed - Byhaven: Kvarti + Vincent Wood
+08-Jul-24 03:56:33 :  completed - Byhaven: Sebastian Wolff
+08-Jul-24 03:56:33 :  completed - Byhaven: Sulka + PAS PÅ
+08-Jul-24 03:56:33 :  completed - Byhaven: Elsy Wameyo + Betty Bass
+08-Jul-24 03:56:33 :  completed - Byhaven: The Colour + MILA
+08-Jul-24 03:56:33 :  completed - Byhaven: EXTREMELY ROTTEN DEATH METAL VOL. 22
+08-Jul-24 03:56:33 :  completed - Byhaven: Frigjort presents
+08-Jul-24 03:56:33 :  completed - Byhaven: Asta Norr + Bifald + Elliot
+08-Jul-24 03:56:33 :  completed - Byhaven: Sofie1998 + Søren Michelsen
+08-Jul-24 03:56:34 :  completed - Byhaven: EXTREMELY ROTTEN DEATH METAL VOL. 22
+08-Jul-24 03:56:34 :  completed - Byhaven: Kvarti + Vincent Wood
+08-Jul-24 03:56:34 :  completed - Byhaven: Sulka + PAS PÅ
+08-Jul-24 03:56:34 :  completed - Byhaven: The Colour + MILA
+08-Jul-24 03:56:35 :  completed - Byhaven: Sebastian Wolff
+08-Jul-24 03:56:35 :  completed - Byhaven: Frigjort presents
+08-Jul-24 03:56:35 :  completed - Byhaven: Sofie1998 + Søren Michelsen
+08-Jul-24 03:56:35 :  completed - Byhaven: Elsy Wameyo + Betty Bass
+08-Jul-24 03:56:35 :  completed - Byhaven: Asta Norr + Bifald + Elliot
+08-Jul-24 03:56:36 :  completed - Byhaven: Frigjort presents
+08-Jul-24 03:56:36 :  completed - Byhaven: Sebastian Wolff
+08-Jul-24 03:56:36 :  completed - Byhaven: Sulka + PAS PÅ
+08-Jul-24 03:56:36 :  completed - Byhaven: The Colour + MILA
+08-Jul-24 03:56:36 :  completed - Byhaven: EXTREMELY ROTTEN DEATH METAL VOL. 22
+08-Jul-24 03:56:36 :  completed - Byhaven: Kvarti + Vincent Wood
+08-Jul-24 03:56:36 :  completed - Byhaven: Elsy Wameyo + Betty Bass
+08-Jul-24 03:56:37 :  completed - Byhaven: Sofie1998 + Søren Michelsen
+08-Jul-24 03:56:37 :  completed - Byhaven: Asta Norr + Bifald + Elliot
+08-Jul-24 03:56:37 :  completed - Byhaven: Asta Norr + Bifald + Elliot
+08-Jul-24 03:56:38 :  completed - Byhaven: The Colour + MILA
+08-Jul-24 03:56:38 :  completed - Byhaven: Sulka + PAS PÅ
+08-Jul-24 03:56:38 :  completed - Byhaven: Kvarti + Vincent Wood
+08-Jul-24 03:56:38 :  completed - Byhaven: Frigjort presents
+08-Jul-24 03:56:38 :  completed - Byhaven: Sofie1998 + Søren Michelsen
+08-Jul-24 03:56:38 :  completed - Byhaven: Elsy Wameyo + Betty Bass
+08-Jul-24 03:56:38 :  completed - Byhaven: Sebastian Wolff
+08-Jul-24 03:56:38 :  completed - Byhaven: EXTREMELY ROTTEN DEATH METAL VOL. 22
+08-Jul-24 03:56:39 :  completed - Byhaven: Elsy Wameyo + Betty Bass
+08-Jul-24 03:56:39 :  completed - Byhaven: Sebastian Wolff
+08-Jul-24 03:56:39 :  completed - Byhaven: The Colour + MILA
+08-Jul-24 03:56:40 :  completed - Byhaven: Kvarti + Vincent Wood
+08-Jul-24 03:56:40 :  completed - Byhaven: Sofie1998 + Søren Michelsen
+08-Jul-24 03:56:40 :  completed - Byhaven: Asta Norr + Bifald + Elliot
+08-Jul-24 03:56:40 :  completed - Byhaven: EXTREMELY ROTTEN DEATH METAL VOL. 22
+08-Jul-24 03:56:40 :  completed - Byhaven: Sulka + PAS PÅ
+08-Jul-24 03:56:40 :  completed - Byhaven: Frigjort presents
+08-Jul-24 03:56:41 :  completed - Byhaven: Sebastian Wolff
+08-Jul-24 03:56:41 :  completed - Byhaven: Frigjort presents
+08-Jul-24 03:56:41 :  completed - Byhaven: Sofie1998 + Søren Michelsen
+08-Jul-24 03:56:41 :  completed - Byhaven: Asta Norr + Bifald + Elliot
+08-Jul-24 03:56:41 :  completed - Byhaven: Kvarti + Vincent Wood
+08-Jul-24 03:56:42 :  completed - Byhaven: Sulka + PAS PÅ
+08-Jul-24 03:56:42 :  completed - Byhaven: EXTREMELY ROTTEN DEATH METAL VOL. 22
+08-Jul-24 03:56:42 :  completed - Byhaven: Elsy Wameyo + Betty Bass
+08-Jul-24 03:56:42 :  completed - Byhaven: The Colour + MILA
+08-Jul-24 03:56:44 :  completed - The Copenhell Family Reunion 2024
+08-Jul-24 03:56:44 :  completed - Byhaven: Kayak
+08-Jul-24 03:56:45 :  completed - Byhaven: Heart2Heart summerparty
+08-Jul-24 03:56:45 :  completed - Byhaven: Krogen + Harry Eucrow
+08-Jul-24 03:56:45 :  completed - Byhaven: SKAAR + CEVIL
+08-Jul-24 03:56:45 :  completed - Byhaven: Decorticate + Sadopimp + Syringe
+08-Jul-24 03:56:45 :  completed - Byhaven: SYL + SALVER
+08-Jul-24 03:56:45 :  completed - Byhaven: Pi + Tårer Fordi + Sarah Fox
+08-Jul-24 03:56:45 :  completed - Byhaven: Emily Bowen + Lizzie Nielsen
+08-Jul-24 03:56:46 :  completed - Byhaven: Heart2Heart summerparty
+08-Jul-24 03:56:46 :  completed - Byhaven: SYL + SALVER
+08-Jul-24 03:56:46 :  completed - Byhaven: Pi + Tårer Fordi + Sarah Fox
+08-Jul-24 03:56:46 :  completed - Byhaven: SKAAR + CEVIL
+08-Jul-24 03:56:46 :  completed - The Copenhell Family Reunion 2024
+08-Jul-24 03:56:46 :  completed - Byhaven: Emily Bowen + Lizzie Nielsen
+08-Jul-24 03:56:46 :  completed - Byhaven: Krogen + Harry Eucrow
+08-Jul-24 03:56:46 :  completed - Byhaven: Decorticate + Sadopimp + Syringe
+08-Jul-24 03:56:47 :  completed - Byhaven: Kayak
+08-Jul-24 03:56:48 :  completed - Byhaven: SKAAR + CEVIL
+08-Jul-24 03:56:48 :  completed - Byhaven: Emily Bowen + Lizzie Nielsen
+08-Jul-24 03:56:48 :  completed - The Copenhell Family Reunion 2024
+08-Jul-24 03:56:48 :  completed - Byhaven: Kayak
+08-Jul-24 03:56:48 :  completed - Byhaven: Decorticate + Sadopimp + Syringe
+08-Jul-24 03:56:48 :  completed - Byhaven: SYL + SALVER
+08-Jul-24 03:56:48 :  completed - Byhaven: Pi + Tårer Fordi + Sarah Fox
+08-Jul-24 03:56:48 :  completed - Byhaven: Krogen + Harry Eucrow
+08-Jul-24 03:56:48 :  completed - Byhaven: Heart2Heart summerparty
+08-Jul-24 03:56:49 :  completed - Byhaven: Emily Bowen + Lizzie Nielsen
+08-Jul-24 03:56:49 :  completed - Byhaven: Pi + Tårer Fordi + Sarah Fox
+08-Jul-24 03:56:50 :  completed - Byhaven: Kayak
+08-Jul-24 03:56:50 :  completed - Byhaven: Heart2Heart summerparty
+08-Jul-24 03:56:50 :  completed - Byhaven: Krogen + Harry Eucrow
+08-Jul-24 03:56:50 :  completed - The Copenhell Family Reunion 2024
+08-Jul-24 03:56:50 :  completed - Byhaven: SYL + SALVER
+08-Jul-24 03:56:50 :  completed - Byhaven: SKAAR + CEVIL
+08-Jul-24 03:56:50 :  completed - Byhaven: Decorticate + Sadopimp + Syringe
+08-Jul-24 03:56:51 :  completed - Byhaven: Krogen + Harry Eucrow
+08-Jul-24 03:56:51 :  completed - Byhaven: SYL + SALVER
+08-Jul-24 03:56:51 :  completed - The Copenhell Family Reunion 2024
+08-Jul-24 03:56:51 :  completed - Byhaven: Heart2Heart summerparty
+08-Jul-24 03:56:51 :  completed - Byhaven: Pi + Tårer Fordi + Sarah Fox
+08-Jul-24 03:56:51 :  completed - Byhaven: Decorticate + Sadopimp + Syringe
+08-Jul-24 03:56:51 :  completed - Byhaven: Emily Bowen + Lizzie Nielsen
+08-Jul-24 03:56:51 :  completed - Byhaven: Kayak
+08-Jul-24 03:56:51 :  completed - Byhaven: SKAAR + CEVIL
+08-Jul-24 03:56:52 :  completed - Byhaven: SYL + SALVER
+08-Jul-24 03:56:53 :  completed - Byhaven: SKAAR + CEVIL
+08-Jul-24 03:56:53 :  completed - The Copenhell Family Reunion 2024
+08-Jul-24 03:56:53 :  completed - Byhaven: Heart2Heart summerparty
+08-Jul-24 03:56:53 :  completed - Byhaven: Krogen + Harry Eucrow
+08-Jul-24 03:56:53 :  completed - Byhaven: Pi + Tårer Fordi + Sarah Fox
+08-Jul-24 03:56:53 :  completed - Byhaven: Emily Bowen + Lizzie Nielsen
+08-Jul-24 03:56:53 :  completed - Byhaven: Kayak
+08-Jul-24 03:56:53 :  completed - Byhaven: Decorticate + Sadopimp + Syringe
+08-Jul-24 03:56:54 :  completed - Byhaven: Pi + Tårer Fordi + Sarah Fox
+08-Jul-24 03:56:55 :  completed - Byhaven: Kayak
+08-Jul-24 03:56:55 :  completed - Byhaven: Heart2Heart summerparty
+08-Jul-24 03:56:55 :  completed - Byhaven: Krogen + Harry Eucrow
+08-Jul-24 03:56:55 :  completed - The Copenhell Family Reunion 2024
+08-Jul-24 03:56:55 :  completed - Byhaven: SKAAR + CEVIL
+08-Jul-24 03:56:55 :  completed - Byhaven: Decorticate + Sadopimp + Syringe
+08-Jul-24 03:56:55 :  completed - Byhaven: Emily Bowen + Lizzie Nielsen
+08-Jul-24 03:56:55 :  completed - Byhaven: SYL + SALVER
+08-Jul-24 03:56:56 :  completed - Byhaven: Krogen + Harry Eucrow
+08-Jul-24 03:56:56 :  completed - Byhaven: Heart2Heart summerparty
+08-Jul-24 03:56:57 :  completed - Byhaven: Emily Bowen + Lizzie Nielsen
+08-Jul-24 03:56:57 :  completed - Byhaven: SYL + SALVER
+08-Jul-24 03:56:57 :  completed - Byhaven: Decorticate + Sadopimp + Syringe
+08-Jul-24 03:56:57 :  completed - Byhaven: Pi + Tårer Fordi + Sarah Fox
+08-Jul-24 03:56:57 :  completed - Byhaven: Kayak
+08-Jul-24 03:56:57 :  completed - The Copenhell Family Reunion 2024
+08-Jul-24 03:56:57 :  completed - Byhaven: SKAAR + CEVIL
+08-Jul-24 03:56:58 :  completed - Byhaven: Decorticate + Sadopimp + Syringe
+08-Jul-24 03:56:59 :  completed - Byhaven: Kayak
+08-Jul-24 03:56:59 :  completed - Byhaven: Krogen + Harry Eucrow
+08-Jul-24 03:56:59 :  completed - Byhaven: Emily Bowen + Lizzie Nielsen
+08-Jul-24 03:56:59 :  completed - Byhaven: SYL + SALVER
+08-Jul-24 03:56:59 :  completed - Byhaven: SKAAR + CEVIL
+08-Jul-24 03:56:59 :  completed - Byhaven: Heart2Heart summerparty
+08-Jul-24 03:56:59 :  completed - Byhaven: Pi + Tårer Fordi + Sarah Fox
+08-Jul-24 03:56:59 :  completed - The Copenhell Family Reunion 2024
+08-Jul-24 03:57:02 :  completed - Byhaven: Maple Glider
+08-Jul-24 03:57:02 :  completed - Byhaven: Kris + Valentin
+08-Jul-24 03:57:02 :  completed - Byhaven: Pustulant Flesh + Carbon Tomb
+08-Jul-24 03:57:02 :  completed - Byhaven: DATTER + Astrid Schick
+08-Jul-24 03:57:02 :  completed - Byhaven: EMIL + Popdreng
+08-Jul-24 03:57:02 :  completed - Byhaven: NEXØ + Smooch! + Pistol Pistol Pistol
+08-Jul-24 03:57:02 :  completed - Byhaven: Mainstream Unofficial Pride
+08-Jul-24 03:57:02 :  completed - Byhaven: Eezy + Lay
+08-Jul-24 03:57:02 :  completed - Byhaven: MAYA + Eros For You
+08-Jul-24 03:57:03 :  completed - Byhaven: Kris + Valentin
+08-Jul-24 03:57:04 :  completed - Byhaven: EMIL + Popdreng
+08-Jul-24 03:57:04 :  completed - Byhaven: Mainstream Unofficial Pride
+08-Jul-24 03:57:04 :  completed - Byhaven: DATTER + Astrid Schick
+08-Jul-24 03:57:04 :  completed - Byhaven: Eezy + Lay
+08-Jul-24 03:57:04 :  completed - Byhaven: MAYA + Eros For You
+08-Jul-24 03:57:04 :  completed - Byhaven: NEXØ + Smooch! + Pistol Pistol Pistol
+08-Jul-24 03:57:04 :  completed - Byhaven: Maple Glider
+08-Jul-24 03:57:04 :  completed - Byhaven: Pustulant Flesh + Carbon Tomb
+08-Jul-24 03:57:05 :  completed - Byhaven: NEXØ + Smooch! + Pistol Pistol Pistol
+08-Jul-24 03:57:06 :  completed - Byhaven: EMIL + Popdreng
+08-Jul-24 03:57:06 :  completed - Byhaven: MAYA + Eros For You
+08-Jul-24 03:57:06 :  completed - Byhaven: DATTER + Astrid Schick
+08-Jul-24 03:57:06 :  completed - Byhaven: Maple Glider
+08-Jul-24 03:57:06 :  completed - Byhaven: Kris + Valentin
+08-Jul-24 03:57:06 :  completed - Byhaven: Eezy + Lay
+08-Jul-24 03:57:06 :  completed - Byhaven: Pustulant Flesh + Carbon Tomb
+08-Jul-24 03:57:06 :  completed - Byhaven: Mainstream Unofficial Pride
+08-Jul-24 03:57:07 :  completed - Byhaven: DATTER + Astrid Schick
+08-Jul-24 03:57:07 :  completed - Byhaven: Mainstream Unofficial Pride
+08-Jul-24 03:57:07 :  completed - Byhaven: Pustulant Flesh + Carbon Tomb
+08-Jul-24 03:57:07 :  completed - Byhaven: NEXØ + Smooch! + Pistol Pistol Pistol
+08-Jul-24 03:57:07 :  completed - Byhaven: EMIL + Popdreng
+08-Jul-24 03:57:08 :  completed - Byhaven: Kris + Valentin
+08-Jul-24 03:57:08 :  completed - Byhaven: Maple Glider
+08-Jul-24 03:57:08 :  completed - Byhaven: MAYA + Eros For You
+08-Jul-24 03:57:08 :  completed - Byhaven: Eezy + Lay
+08-Jul-24 03:57:09 :  completed - Byhaven: Mainstream Unofficial Pride
+08-Jul-24 03:57:09 :  completed - Byhaven: Kris + Valentin
+08-Jul-24 03:57:09 :  completed - Byhaven: Pustulant Flesh + Carbon Tomb
+08-Jul-24 03:57:09 :  completed - Byhaven: DATTER + Astrid Schick
+08-Jul-24 03:57:10 :  completed - Byhaven: Maple Glider
+08-Jul-24 03:57:10 :  completed - Byhaven: NEXØ + Smooch! + Pistol Pistol Pistol
+08-Jul-24 03:57:10 :  completed - Byhaven: MAYA + Eros For You
+08-Jul-24 03:57:10 :  completed - Byhaven: Eezy + Lay
+08-Jul-24 03:57:10 :  completed - Byhaven: EMIL + Popdreng
+08-Jul-24 03:57:11 :  completed - Byhaven: Kris + Valentin
+08-Jul-24 03:57:11 :  completed - Byhaven: MAYA + Eros For You
+08-Jul-24 03:57:11 :  completed - Byhaven: EMIL + Popdreng
+08-Jul-24 03:57:11 :  completed - Byhaven: Mainstream Unofficial Pride
+08-Jul-24 03:57:11 :  completed - Byhaven: Pustulant Flesh + Carbon Tomb
+08-Jul-24 03:57:11 :  completed - Byhaven: Eezy + Lay
+08-Jul-24 03:57:11 :  completed - Byhaven: DATTER + Astrid Schick
+08-Jul-24 03:57:11 :  completed - Byhaven: NEXØ + Smooch! + Pistol Pistol Pistol
+08-Jul-24 03:57:11 :  completed - Byhaven: Maple Glider
+08-Jul-24 03:57:12 :  completed - Byhaven: MAYA + Eros For You
+08-Jul-24 03:57:12 :  completed - Byhaven: Maple Glider
+08-Jul-24 03:57:13 :  completed - Byhaven: DATTER + Astrid Schick
+08-Jul-24 03:57:13 :  completed - Byhaven: Mainstream Unofficial Pride
+08-Jul-24 03:57:13 :  completed - Byhaven: Kris + Valentin
+08-Jul-24 03:57:13 :  completed - Byhaven: NEXØ + Smooch! + Pistol Pistol Pistol
+08-Jul-24 03:57:13 :  completed - Byhaven: Pustulant Flesh + Carbon Tomb
+08-Jul-24 03:57:13 :  completed - Byhaven: EMIL + Popdreng
+08-Jul-24 03:57:13 :  completed - Byhaven: Eezy + Lay
+08-Jul-24 03:57:14 :  completed - Byhaven: Eezy + Lay
+08-Jul-24 03:57:15 :  completed - Byhaven: Maple Glider
+08-Jul-24 03:57:15 :  completed - Byhaven: MAYA + Eros For You
+08-Jul-24 03:57:15 :  completed - Byhaven: Pustulant Flesh + Carbon Tomb
+08-Jul-24 03:57:15 :  completed - Byhaven: EMIL + Popdreng
+08-Jul-24 03:57:15 :  completed - Byhaven: DATTER + Astrid Schick
+08-Jul-24 03:57:15 :  completed - Byhaven: NEXØ + Smooch! + Pistol Pistol Pistol
+08-Jul-24 03:57:15 :  completed - Byhaven: Kris + Valentin
+08-Jul-24 03:57:15 :  completed - Byhaven: Mainstream Unofficial Pride
+08-Jul-24 03:57:16 :  completed - Byhaven: Mainstream Unofficial Pride
+08-Jul-24 03:57:16 :  completed - Byhaven: Eezy + Lay
+08-Jul-24 03:57:16 :  completed - Byhaven: Kris + Valentin
+08-Jul-24 03:57:16 :  completed - Byhaven: NEXØ + Smooch! + Pistol Pistol Pistol
+08-Jul-24 03:57:17 :  completed - Byhaven: EMIL + Popdreng
+08-Jul-24 03:57:17 :  completed - Byhaven: Pustulant Flesh + Carbon Tomb
+08-Jul-24 03:57:17 :  completed - Byhaven: MAYA + Eros For You
+08-Jul-24 03:57:17 :  completed - Byhaven: DATTER + Astrid Schick
+08-Jul-24 03:57:17 :  completed - Byhaven: Maple Glider
+08-Jul-24 03:57:19 :  completed - Portal to Party - A Festival by Fraads
+08-Jul-24 03:57:19 :  completed - Portal to Party - A Festival by Fraads
+08-Jul-24 03:57:20 :  completed - Portal to Party - A Festival by Fraads
+08-Jul-24 03:57:20 :  completed - Portal to Party - A Festival by Fraads
+08-Jul-24 03:57:21 :  completed - total: 1061
+08-Jul-24 03:57:21 : -----------------------------------------------------------------------------------------------------------------
+08-Jul-24 03:57:21 :  Starting  - (stengade.py) scraper
+08-Jul-24 03:57:23 :  completed - Unto Others [US] + Special Guests: Terminalist + Archangel // Few Tickets Left — Spillestedet Stengade
+08-Jul-24 03:57:24 :  completed - Sheer Mag [US] + Special Guests: The Guilt [SE] + Planet Y — Spillestedet Stengade
+08-Jul-24 03:57:25 :  completed - Aland Z  + Support: Hakami — Spillestedet Stengade
+08-Jul-24 03:57:25 :  completed - Necrot [US] + Support: TBA — Spillestedet Stengade
+08-Jul-24 03:57:26 :  completed - Exelerate + Spheres [FR] + The Vision Ablaze — Spillestedet Stengade
+08-Jul-24 03:57:27 :  completed - Dopethrone [CA] + Support: Karavan [NO] + Goatsmoker // Few Tickets Left — Spillestedet Stengade
+08-Jul-24 03:57:28 :  completed - Fen [UK] + Special Guests: Lysbaerer + Heksproces — Spillestedet Stengade
+08-Jul-24 03:57:28 :  completed - W.I.T.C.H. [ZM] — Spillestedet Stengade
+08-Jul-24 03:57:29 :  completed - Cobra Spell [INT] + Support: TBA — Spillestedet Stengade
+08-Jul-24 03:57:30 :  completed - The Luna Riot Ball Vol.6 - Motörqueens [IT] — Spillestedet Stengade
+08-Jul-24 03:57:31 :  completed - Queer Rap Night with Elijah Kashmir + FreddyQ - presented by Queer Music Agency — Spillestedet Stengade
+08-Jul-24 03:57:31 :  completed - barejegvarmig + Support: Biga Afro — Spillestedet Stengade
+08-Jul-24 03:57:32 :  completed - Lærke Emilie + Support: Mariya — Spillestedet Stengade
+08-Jul-24 03:57:33 :  completed - King Dude [US] + Support: TBA — Spillestedet Stengade
+08-Jul-24 03:57:34 :  completed - Deeper [US] + Support: TBA — Spillestedet Stengade
+08-Jul-24 03:57:34 :  completed - Nana Jacobi + Support: TBA — Spillestedet Stengade
+08-Jul-24 03:57:35 :  completed - Midnight Danger [SE] + Support: Pink Plague — Spillestedet Stengade
+08-Jul-24 03:57:36 :  completed - The Shivas [US] + Special Guests: Fox Paloma — Spillestedet Stengade
+08-Jul-24 03:57:37 :  completed - Austere [AU] + Support: Skuggor [SE] — Spillestedet Stengade
+08-Jul-24 03:57:38 :  completed - Ozric Tentacles [UK] + Support: Silas & Saski [UK] // Few Tickets Left — Spillestedet Stengade
+08-Jul-24 03:57:38 :  completed - The Chains - Release Concert + Support: Java Skull + DJ's: Cry Tough Sound + Toddmeister + Elias [SE] — Spillestedet Stengade
+08-Jul-24 03:57:39 :  completed - Inspector Spacetime [IS] — Spillestedet Stengade
+08-Jul-24 03:57:40 :  completed - Slet Det - Release Concert + Special Guests: TBA // Free Entry — Spillestedet Stengade
+08-Jul-24 03:57:41 :  completed - Ellende [AT] + Groza [DE] + Servant [DE] — Spillestedet Stengade
+08-Jul-24 03:57:42 :  completed - Wild Pink + Support: TBA — Spillestedet Stengade
+08-Jul-24 03:57:43 :  completed - Dool [NL] + Hangman's Chair [FR] — Spillestedet Stengade
+08-Jul-24 03:57:43 :  completed - HeavyMetal.dk 25 års Jubilæum: Grusom + Skarnet + Shadowspawn + Advocacy — Spillestedet Stengade
+08-Jul-24 03:57:44 :  completed - Hexvessel [FI] + Special Guests: Sum of R [SUI/FI] — Spillestedet Stengade
+08-Jul-24 03:57:45 :  completed - The Devil & The Universe [AT] + Support: TBA — Spillestedet Stengade
+08-Jul-24 03:57:46 :  completed - Leap [UK] + Support: TBA — Spillestedet Stengade
+08-Jul-24 03:57:46 :  completed - Magnus Tempels — Spillestedet Stengade
+08-Jul-24 03:57:47 :  completed - Master Boot Record [IT] — Spillestedet Stengade
+08-Jul-24 03:57:48 :  completed - Summons + Special Guests: Melan Tropic — Spillestedet Stengade
+08-Jul-24 03:57:49 :  completed - Hazlett [AU/SE] + Support: TBA // Few Tickets Left — Spillestedet Stengade
+08-Jul-24 03:57:49 :  completed - One Day of Death: Civerous [US] + Crematory Stench [US] — Spillestedet Stengade
+08-Jul-24 03:57:49 :  completed - total: 35
+08-Jul-24 03:57:49 : -----------------------------------------------------------------------------------------------------------------
+08-Jul-24 03:57:49 :  Starting  - (drkoncerthuset.py) scraper
+08-Jul-24 03:57:53 :  completed - Tabloid
+08-Jul-24 03:57:53 :  completed - Joshua Redman Group featuring Gabrielle Cavassa
+08-Jul-24 03:57:53 :  completed - Girls in Airports
+08-Jul-24 03:57:53 :  completed - OTOOTO
+08-Jul-24 03:57:53 :  completed - ANOHNI and the Johnsons
+08-Jul-24 03:57:53 :  completed - Cæcilie Norby
+08-Jul-24 03:57:53 :  completed - ANOHNI and the Johnsons
+08-Jul-24 03:57:53 :  completed - Jasper Høiby’s 3Elements
+08-Jul-24 03:57:53 :  completed - Rufus Wainwright
+08-Jul-24 03:57:53 :  completed - Marcus Miller
+08-Jul-24 03:57:53 :  completed - Det Færøske Symfoniorkester og Eivør
+08-Jul-24 03:57:53 :  completed - A Night at the Oscars
+08-Jul-24 03:57:53 :  completed - A Night at the Oscars
+08-Jul-24 03:57:53 :  completed - A Night at the Oscars
+08-Jul-24 03:57:53 :  completed - A Night at the Oscars
+08-Jul-24 03:57:53 :  completed - DR VOKALENSEMBLET PÅ FYN
+08-Jul-24 03:57:53 :  completed - DR VOKALENSEMBLET PÅ FYN
+08-Jul-24 03:57:53 :  completed - Cat Power
+08-Jul-24 03:57:53 :  completed - Kom og syng – Danske årstidssange
+08-Jul-24 03:57:53 :  completed - Luisi & Das Lied von der Erde
+08-Jul-24 03:57:53 :  completed - Luisi & Das Lied von der Erde
+08-Jul-24 03:57:53 :  completed - Cat Power
+08-Jul-24 03:57:53 :  completed - Hermanos Gutiérrez
+08-Jul-24 03:57:53 :  completed - Kom og syng – Danske årstidssange
+08-Jul-24 03:57:53 :  completed - DR Vokalensemblet & Bruckner 200 år
+08-Jul-24 03:57:53 :  completed - Ronny Chieng
+08-Jul-24 03:57:53 :  completed - Luisi & Hadelich
+08-Jul-24 03:57:53 :  completed - Luisi & Hadelich
+08-Jul-24 03:57:53 :  completed - Katherine Ryan
+08-Jul-24 03:57:53 :  completed - Kochanovsky & Rakhmaninov
+08-Jul-24 03:57:53 :  completed - DR Big Band & Nils Landgren
+08-Jul-24 03:57:53 :  completed - Meditationskoncert
+08-Jul-24 03:57:53 :  completed - Alex Warren
+08-Jul-24 03:57:53 :  completed - Göteborg Symfoniorkester
+08-Jul-24 03:57:53 :  completed - Meditationskoncert
+08-Jul-24 03:57:53 :  completed - Meditationskoncert
+08-Jul-24 03:57:53 :  completed - Rumours of Fleetwood Mac
+08-Jul-24 03:57:53 :  completed - Rumours of Fleetwood Mac
+08-Jul-24 03:57:53 :  completed - Caroline Henderson
+08-Jul-24 03:57:53 :  completed - Ukrainske overraskelser
+08-Jul-24 03:57:53 :  completed - The Infernal Comedy
+08-Jul-24 03:57:53 :  completed - The Infernal Comedy
+08-Jul-24 03:57:53 :  completed - Saraste & Anne Sofie von Otter
+08-Jul-24 03:57:53 :  completed - Fantastiske Stemmer
+08-Jul-24 03:57:53 :  completed - Saraste & Anne Sofie von Otter
+08-Jul-24 03:57:53 :  completed - Randers Kirkemusikfestival
+08-Jul-24 03:57:53 :  completed - Stjerner og Striber
+08-Jul-24 03:57:53 :  completed - Stjerner og Striber
+08-Jul-24 03:57:53 :  completed - A Symphony of Musicals
+08-Jul-24 03:57:53 :  completed - A Symphony of Musicals
+08-Jul-24 03:57:53 :  completed - Sko/Torp
+08-Jul-24 03:57:53 :  completed - DR Pigekoret i mørke
+08-Jul-24 03:57:53 :  completed - DR Pigekoret i mørke
+08-Jul-24 03:57:53 :  completed - Peter Sommer
+08-Jul-24 03:57:54 :  completed - DR Big Band 60 år XL - LX
+08-Jul-24 03:57:54 :  completed - Hasan & Mozart
+08-Jul-24 03:57:54 :  completed - Brit Floyd P-U-L-S-E
+08-Jul-24 03:57:54 :  completed - Musikariets efterårsferie
+08-Jul-24 03:57:54 :  completed - Musikariets efterårsferie
+08-Jul-24 03:57:54 :  completed - Brit Floyd P-U-L-S-E
+08-Jul-24 03:57:54 :  completed - Brit Floyd P-U-L-S-E
+08-Jul-24 03:57:54 :  completed - Anthony Jeselnik
+08-Jul-24 03:57:54 :  completed - Interpol
+08-Jul-24 03:57:54 :  completed - Luisi & Skrjabins 2.
+08-Jul-24 03:57:54 :  completed - Luisi & Skrjabins 2.
+08-Jul-24 03:57:54 :  completed - DR Pigekoret i mørke
+08-Jul-24 03:57:54 :  completed - DR Big Band 60 år - Jazz Galla
+08-Jul-24 03:57:54 :  completed - Hans Philip
+08-Jul-24 03:57:54 :  completed - Hans Philip
+08-Jul-24 03:57:54 :  completed - Hans Philip
+08-Jul-24 03:57:54 :  completed - Tony Ann
+08-Jul-24 03:57:54 :  completed - Allehelgenskoncert
+08-Jul-24 03:57:54 :  completed - JP Cooper
+08-Jul-24 03:57:54 :  completed - Allehelgenskoncert
+08-Jul-24 03:57:54 :  completed - Allehelgenskoncert
+08-Jul-24 03:57:54 :  completed - Joan As Police Woman
+08-Jul-24 03:57:54 :  completed - Tower of Power
+08-Jul-24 03:57:54 :  completed - Iron & Wine
+08-Jul-24 03:57:54 :  completed - Palace
+08-Jul-24 03:57:54 :  completed - Ganger
+08-Jul-24 03:57:54 :  completed - Splittet til atomer
+08-Jul-24 03:57:54 :  completed - Luisi & Tjajkovskijs 6.
+08-Jul-24 03:57:54 :  completed - Ganger
+08-Jul-24 03:57:54 :  completed - LUCY
+08-Jul-24 03:57:54 :  completed - Luisi & Tjajkovskijs 6.
+08-Jul-24 03:57:54 :  completed - Rasmus Walter
+08-Jul-24 03:57:54 :  completed - Peter Sommer
+08-Jul-24 03:57:54 :  completed - Peter Sommer
+08-Jul-24 03:57:54 :  completed - Queen Machine x Danmarks Underholdningsorkester
+08-Jul-24 03:57:54 :  completed - Queen Machine x Danmarks Underholdningsorkester
+08-Jul-24 03:57:55 :  completed - Peltokoski & Zarathustra
+08-Jul-24 03:57:55 :  completed - Peltokoski & Zarathustra
+08-Jul-24 03:57:55 :  completed - Lausanne Kammerorkester & Mozart
+08-Jul-24 03:57:55 :  completed - DR Big Band - Freddie Hubbard revisited
+08-Jul-24 03:57:55 :  completed - Bo Kaspers Orkester
+08-Jul-24 03:57:55 :  completed - Bo Kaspers Orkester
+08-Jul-24 03:57:55 :  completed - Queen Machine x Danmarks Underholdningsorkester
+08-Jul-24 03:57:55 :  completed - Tommy Emmanuel, CGP
+08-Jul-24 03:57:55 :  completed - Carl Emil Petersen
+08-Jul-24 03:57:55 :  completed - De Niese & Dido og Æneas
+08-Jul-24 03:57:55 :  completed - De Niese & Dido og Æneas
+08-Jul-24 03:57:55 :  completed - Hymne til Sankt Cæcilia
+08-Jul-24 03:57:55 :  completed - Hymne til Sankt Cæcilia
+08-Jul-24 03:57:55 :  completed - Jonah Blacksmith Live
+08-Jul-24 03:57:55 :  completed - Jonah Blacksmith Live
+08-Jul-24 03:57:55 :  completed - Max Richter
+08-Jul-24 03:57:55 :  completed - Carl Emil Petersen
+08-Jul-24 03:57:55 :  completed - Brahms & Debussy
+08-Jul-24 03:57:55 :  completed - Brahms & Debussy
+08-Jul-24 03:57:55 :  completed - DR Big Band præsenterer Helge Sunde
+08-Jul-24 03:57:55 :  completed - DR's Store Juleshow
+08-Jul-24 03:57:55 :  completed - DR's Store Juleshow
+08-Jul-24 03:57:55 :  completed - Burhan G & Danmarks Underholdningsorkester
+08-Jul-24 03:57:55 :  completed - Jul med DR Vokalensemblet
+08-Jul-24 03:57:55 :  completed - Jul med DR Vokalensemblet
+08-Jul-24 03:57:55 :  completed - Jul med DR Vokalensemblet
+08-Jul-24 03:57:55 :  completed - DR Pigekorets jul
+08-Jul-24 03:57:55 :  completed - Jul i DR Big Band
+08-Jul-24 03:57:55 :  completed - DR Pigekorets jul
+08-Jul-24 03:57:55 :  completed - Jul i DR Big Band
+08-Jul-24 03:57:55 :  completed - Jul med DR Vokalensemblet
+08-Jul-24 03:57:55 :  completed - DR Pigekorets jul
+08-Jul-24 03:57:55 :  completed - DR Pigekorets jul
+08-Jul-24 03:57:55 :  completed - Honeck & Mozarts c-mol messe
+08-Jul-24 03:57:55 :  completed - Honeck & Mozarts c-mol messe
+08-Jul-24 03:57:55 :  completed - Jul i Ramasjang
+08-Jul-24 03:57:55 :  completed - Jul i Ramasjang
+08-Jul-24 03:57:55 :  completed - Jul i Ramasjang
+08-Jul-24 03:57:55 :  completed - Jul i Ramasjang
+08-Jul-24 03:57:55 :  completed - Nytårsgalla
+08-Jul-24 03:57:55 :  completed - Nytårsgalla
+08-Jul-24 03:57:55 :  completed - Nytårsgalla
+08-Jul-24 03:57:55 :  completed - Nytårsgalla
+08-Jul-24 03:57:55 :  completed - Jeff Buckley – En Hyldestkoncert
+08-Jul-24 03:57:55 :  completed - Jeff Buckley – En Hyldestkoncert
+08-Jul-24 03:57:55 :  completed - Luisi & Mahlers 1.
+08-Jul-24 03:57:55 :  completed - Luisi & Nielsens 4.
+08-Jul-24 03:57:55 :  completed - DR Big Bands nytårskoncert
+08-Jul-24 03:57:55 :  completed - DR Big Bands nytårskoncert
+08-Jul-24 03:57:55 :  completed - Original Schönbrunn Slotsfilharmonikere
+08-Jul-24 03:57:55 :  completed - Fröst & Det Svenske Kammerorkester
+08-Jul-24 03:57:55 :  completed - Toner fra byen og landet
+08-Jul-24 03:57:55 :  completed - DR Big Band Sessions
+08-Jul-24 03:57:55 :  completed - Fischer & Wagner
+08-Jul-24 03:57:55 :  completed - Kom og Syng Carmina Burana
+08-Jul-24 03:57:55 :  completed - Kom og Syng Carmina Burana
+08-Jul-24 03:57:55 :  completed - DR Big Band & Mathias Heise
+08-Jul-24 03:57:55 :  completed - The Original: Wiener Johann Strauss Konzert-Gala
+08-Jul-24 03:57:55 :  completed - Kochanovsky & Kavakos
+08-Jul-24 03:57:55 :  completed - Kochanovsky & Kavakos
+08-Jul-24 03:57:55 :  completed - Sallys Far
+08-Jul-24 03:57:55 :  completed - Sallys Far
+08-Jul-24 03:57:55 :  completed - Slimane
+08-Jul-24 03:57:55 :  completed - Himmelsk lys
+08-Jul-24 03:57:55 :  completed - DR Big Band elsker Steely Dan
+08-Jul-24 03:57:55 :  completed - Himmelsk lys
+08-Jul-24 03:57:55 :  completed - Himmelsk lys
+08-Jul-24 03:57:55 :  completed - Carmina Burana
+08-Jul-24 03:57:55 :  completed - Carmina Burana
+08-Jul-24 03:57:55 :  completed - Carmina Burana
+08-Jul-24 03:57:55 :  completed - La Belle Époque
+08-Jul-24 03:57:55 :  completed - Hymns From Nineveh
+08-Jul-24 03:57:55 :  completed - Emma Sehested Høeg
+08-Jul-24 03:57:55 :  completed - DR Pigekorets forår
+08-Jul-24 03:57:55 :  completed - Emma Sehested Høeg
+08-Jul-24 03:57:55 :  completed - DR Pigekorets forår
+08-Jul-24 03:57:55 :  completed - DR Pigekorets forår
+08-Jul-24 03:57:56 :  completed - Alexis Ffrench
+08-Jul-24 03:57:56 :  completed - De la Parra & Den umulige symfoni
+08-Jul-24 03:57:56 :  completed - DR Big Band & Jørgen Emborgs melodier
+08-Jul-24 03:57:56 :  completed - De la Parra & Den umulige symfoni
+08-Jul-24 03:57:56 :  completed - Luisi & Ein Heldenleben
+08-Jul-24 03:57:56 :  completed - Luisi & Ein Heldenleben
+08-Jul-24 03:57:56 :  completed - Zigeunerlieder
+08-Jul-24 03:57:56 :  completed - DR Pigekorets forår
+08-Jul-24 03:57:56 :  completed - DR Pigekorets forår
+08-Jul-24 03:57:56 :  completed - DR Big Band & Nicole Zuraitis
+08-Jul-24 03:57:56 :  completed - Heyward & Planeterne
+08-Jul-24 03:57:56 :  completed - Heyward & Planeterne
+08-Jul-24 03:57:56 :  completed - Tim Christensen & Danmarks Underholdningsorkester
+08-Jul-24 03:57:56 :  completed - Tim Christensen & Danmarks Underholdningsorkester
+08-Jul-24 03:57:56 :  completed - Passionskoncert
+08-Jul-24 03:57:56 :  completed - Galaxymphony
+08-Jul-24 03:57:56 :  completed - Passionskoncert
+08-Jul-24 03:57:56 :  completed - Galaxymphony
+08-Jul-24 03:57:56 :  completed - Galaxymphony
+08-Jul-24 03:57:56 :  completed - Alison Moyet
+08-Jul-24 03:57:56 :  completed - Tausk & Sibelius’ 1.
+08-Jul-24 03:57:56 :  completed - Popelka & Smetana
+08-Jul-24 03:57:56 :  completed - Miraklernes sti
+08-Jul-24 03:57:56 :  completed - Popelka & Smetana
+08-Jul-24 03:57:56 :  completed - Blomstedt & Beethovens 7.
+08-Jul-24 03:57:56 :  completed - Blomstedt & Beethovens 7.
+08-Jul-24 03:57:56 :  completed - Kuusisto & Ravel
+08-Jul-24 03:57:56 :  completed - Kuusisto & Ravel
+08-Jul-24 03:57:56 :  completed - Ollikainen & Sibelius’ 2.
+08-Jul-24 03:57:56 :  completed - DR Koncertkoret & Rakhmaninov
+08-Jul-24 03:57:56 :  completed - DR Koncertkoret & Rakhmaninov
+08-Jul-24 03:57:56 :  completed - DR Pigekoret +
+08-Jul-24 03:57:56 :  completed - DR Pigekoret +
+08-Jul-24 03:57:56 :  completed - DR Pigekoret +
+08-Jul-24 03:57:56 :  completed - Hannigan & Girl Crazy
+08-Jul-24 03:57:56 :  completed - Hannigan & Girl Crazy
+08-Jul-24 03:57:56 :  completed - Sommerkoncert med DR Vokalensemblet & Phillip Faber
+08-Jul-24 03:57:56 :  completed - total: 204
+08-Jul-24 03:57:56 : -----------------------------------------------------------------------------------------------------------------
+08-Jul-24 03:57:56 :  Starting  - (amagerbio.py) scraper
+08-Jul-24 03:57:58 :  completed - Steve Hackett
+08-Jul-24 03:57:59 :  completed - Gogol Bordello
+08-Jul-24 03:57:59 :  completed - ACTION 4’s – feat: Heise, Sørensen, Chaplin & Eger
+08-Jul-24 03:58:00 :  completed - Youssou N’Dour
+08-Jul-24 03:58:01 :  completed - Wine Lips
+08-Jul-24 03:58:02 :  completed - Ulthar
+08-Jul-24 03:58:02 :  completed - Heathen
+08-Jul-24 03:58:03 :  completed - Sorten Muld
+08-Jul-24 03:58:03 :  completed - The Obsessed
+08-Jul-24 03:58:04 :  completed - Miranda!
+08-Jul-24 03:58:04 :  completed - ERDM Vol. 23: Undergang + Cadaveric Incubator
+08-Jul-24 03:58:05 :  completed - Rammstein Jam
+08-Jul-24 03:58:06 :  completed - Amon Amarth
+08-Jul-24 03:58:07 :  completed - Home Front
+08-Jul-24 03:58:08 :  completed - Zeal & Ardor
+08-Jul-24 03:58:08 :  completed - Hexenbrett & Deathstorm
+08-Jul-24 03:58:09 :  completed - Frimer & Møller Band + The Blues Overdrive
+08-Jul-24 03:58:09 :  completed - Carnivore AD
+08-Jul-24 03:58:10 :  completed - Tobias Triers orkester
+08-Jul-24 03:58:10 :  completed - The Doors Alive
+08-Jul-24 03:58:11 :  completed - Østkyst Hustlers
+08-Jul-24 03:58:12 :  completed - The Pretenders
+08-Jul-24 03:58:13 :  completed - jxdn
+08-Jul-24 03:58:13 :  completed - Kevin Johansen + Liniers
+08-Jul-24 03:58:14 :  completed - Stillborn & Dun Ringill
+08-Jul-24 03:58:15 :  completed - Father Befouled + Fossilization
+08-Jul-24 03:58:15 :  completed - Nordic Elite Wrestling
+08-Jul-24 03:58:16 :  completed - Apocalyptica
+08-Jul-24 03:58:16 :  completed - The Real Group
+08-Jul-24 03:58:17 :  completed - Kid Congo & The Pink Monkey Birds
+08-Jul-24 03:58:17 :  completed - Satan
+08-Jul-24 03:58:18 :  completed - Leoni Torres
+08-Jul-24 03:58:19 :  completed - Rockakademiets Hæderspriskoncert
+08-Jul-24 03:58:19 :  completed - Ciro y Los Persas
+08-Jul-24 03:58:20 :  completed - Ida Nielsen & The Funkbots
+08-Jul-24 03:58:21 :  completed - Cannibal Corpse
+08-Jul-24 03:58:22 :  completed - Aegteskab
+08-Jul-24 03:58:22 :  completed - Cloud Rat
+08-Jul-24 03:58:25 :  completed - Unprocessed
+08-Jul-24 03:58:26 :  completed - Illdisposed
+08-Jul-24 03:58:26 :  completed - Sebastian – Solo
+08-Jul-24 03:58:27 :  completed - Crystal Viper
+08-Jul-24 03:58:27 :  completed - Drori-Hansen Furniture
+08-Jul-24 03:58:28 :  completed - Charlie Parr
+08-Jul-24 03:58:28 :  completed - Franglish
+08-Jul-24 03:58:29 :  completed - Albin Lee Meldau
+08-Jul-24 03:58:30 :  completed - Monster Magnet – 35th Anniversary European Tour
+08-Jul-24 03:58:30 :  completed - Ezra Collective
+08-Jul-24 03:58:31 :  completed - Frank Carter & The Rattlesnakes
+08-Jul-24 03:58:32 :  completed - Redd Kross
+08-Jul-24 03:58:32 :  completed - Milling & Molbech – Prince
+08-Jul-24 03:58:33 :  completed - Milling & Molbech – Prince
+08-Jul-24 03:58:33 :  completed - Milling & Molbech – Prince
+08-Jul-24 03:58:34 :  completed - Mizmor
+08-Jul-24 03:58:35 :  completed - Milling & Molbech – Prince
+08-Jul-24 03:58:35 :  completed - Yellowjackets
+08-Jul-24 03:58:36 :  completed - Voodoo Saints
+08-Jul-24 03:58:37 :  completed - Fish
+08-Jul-24 03:58:37 :  completed - Baroness & Graveyard
+08-Jul-24 03:58:38 :  completed - Dodo & The Dodo’s
+08-Jul-24 03:58:38 :  completed - Frank Turner
+08-Jul-24 03:58:39 :  completed - Fantastic Negrito
+08-Jul-24 03:58:40 :  completed - Magtens Korridorer
+08-Jul-24 03:58:40 :  completed - Sømændene
+08-Jul-24 03:58:41 :  completed - Slower
+08-Jul-24 03:58:41 :  completed - Dirty Loops
+08-Jul-24 03:58:42 :  completed - Skerryvore
+08-Jul-24 03:58:43 :  completed - Poul Halberg Powertrio
+08-Jul-24 03:58:43 :  completed - Nia Archives
+08-Jul-24 03:58:44 :  completed - Niarn
+08-Jul-24 03:58:44 :  completed - Pink Floyd Project
+08-Jul-24 03:58:45 :  completed - 10cc
+08-Jul-24 03:58:46 :  completed - 10cc med siddepladser
+08-Jul-24 03:58:46 :  completed - Saga
+08-Jul-24 03:58:46 :  completed - Kakkmaddafakka
+08-Jul-24 03:58:47 :  completed - Twin Noir
+08-Jul-24 03:58:48 :  completed - As I Lay Dying
+08-Jul-24 03:58:49 :  completed - Palaye Royale
+08-Jul-24 03:58:49 :  completed - Jacob Dinesen
+08-Jul-24 03:58:50 :  completed - Electric Guitars
+08-Jul-24 03:58:50 :  completed - October Drift
+08-Jul-24 03:58:51 :  completed - Fit For an Autopsy
+08-Jul-24 03:58:52 :  completed - Mike Andersen Band
+08-Jul-24 03:58:53 :  completed - Rockers By Choice
+08-Jul-24 03:58:53 :  completed - Mike Tramp
+08-Jul-24 03:58:54 :  completed - Frankie Moreno – The Elvis Presley Show
+08-Jul-24 03:58:55 :  completed - Front 242
+08-Jul-24 03:58:56 :  completed - The Halo Effect
+08-Jul-24 03:58:56 :  completed - Eluveitie
+08-Jul-24 03:58:57 :  completed - G-Eazy
+08-Jul-24 03:58:57 :  completed - Set It Off
+08-Jul-24 03:58:58 :  completed - Kaya Brüel synger Jomfru Ane Band
+08-Jul-24 03:58:58 :  completed - Lake Street Dive
+08-Jul-24 03:58:59 :  completed - Headie One
+08-Jul-24 03:59:00 :  completed - DR Big Band elsker Steely Dan
+08-Jul-24 03:59:00 :  completed - Hayseed Dixie
+08-Jul-24 03:59:01 :  completed - Shooter Gang
+08-Jul-24 03:59:01 :  completed - Baby Lasagna
+08-Jul-24 03:59:02 :  completed - Thomas Buttenschøn
+08-Jul-24 03:59:03 :  completed - Hit med 80’erne
+08-Jul-24 03:59:03 :  completed - Nemo
+08-Jul-24 03:59:04 :  completed - Danser med Drenge
+08-Jul-24 03:59:05 :  completed - Sarah Shook and the Disarmers
+08-Jul-24 03:59:05 :  completed - total: 103
+08-Jul-24 03:59:05 : -----------------------------------------------------------------------------------------------------------------
+08-Jul-24 03:59:05 :  Starting  - (lafontaine.py) scraper
+08-Jul-24 03:59:07 :  completed - JAZZ FESTIVAL – Kira Martini, Caroline Bugala, Mads Søndergaard & Morten Ærø
+08-Jul-24 03:59:07 :  completed - JAZZ FESTIVAL – Jamsession v. Jan Harbeck, Ida Hvid & Janus Templeton
+08-Jul-24 03:59:07 :  completed - JAZZ FESTIVAL – Big Fun!
+08-Jul-24 03:59:07 :  completed - JAZZ FESTIVAL – Jamsession v. Jan Harbeck, Morten Ankarfeldt & Espen Laub
+08-Jul-24 03:59:07 :  completed - JAZZ FESTIVAL – Alice Carreri/Martin Schack Kvartet
+08-Jul-24 03:59:07 :  completed - JAZZ FESTIVAL – Jamsession v. Andreas Toftemark, Paul Sikivie & Adam Ross
+08-Jul-24 03:59:07 :  completed - JAZZ FESTIVAL – Jacob Fischer Kvartet feat. Zier Romme Larsen
+08-Jul-24 03:59:07 :  completed - JAZZ FESTIVAL – Jamsession v. Andreas Toftemark, Rune Fogh & Emil Norman
+08-Jul-24 03:59:07 :  completed - JAZZ FESTIVAL – Anders Gaardmand, Ben Besiakov, Daniel Franck & Frands Rifbjerg
+08-Jul-24 03:59:07 :  completed - JAZZ FESTIVAL – Jamsession v. Claus Waidtløw, Jakob Roland & Henrik Holst
+08-Jul-24 03:59:07 :  completed - JAZZ FESTIVAL – Henrik Gunde, Hans Ulrik, Jeppe Skovbakke & Morten Lund
+08-Jul-24 03:59:07 :  completed - JAZZ FESTIVAL – Jamsession v. Claus Waidtløw, Rune Fogh & Andreas Svendsen
+08-Jul-24 03:59:07 :  completed - JAZZ FESTIVAL – Live Jive Jungle
+08-Jul-24 03:59:07 :  completed - JAZZ FESTIVAL – Jamsession v. Pelle von Bülow, Anders Ammitzbøll & Andreas Fryland
+08-Jul-24 03:59:07 :  completed - JAZZ FESTIVAL – Alice Carreri/Jacob Fischer kvartet
+08-Jul-24 03:59:07 :  completed - JAZZ FESTIVAL – Jamsession v. Andreas Toftemark & trio
+08-Jul-24 03:59:07 :  completed - total: 16
+08-Jul-24 03:59:07 : -----------------------------------------------------------------------------------------------------------------
+08-Jul-24 03:59:07 :  Starting  - (jazzhusmontmartre.py) scraper
+08-Jul-24 03:59:08 :  completed - Late Night Jam 
+08-Jul-24 03:59:08 :  completed - Gretchen Parlato/Lionel Loueke Duo(udsolgt)
+08-Jul-24 03:59:08 :  completed - Late Night Jam 
+08-Jul-24 03:59:08 :  completed - Gretchen Parlato/Lionel Loueke (udsolgt)
+08-Jul-24 03:59:08 :  completed - Late Night Jam 
+08-Jul-24 03:59:08 :  completed - Gretchen Parlato/Lionel Loueke Duo(få billetter)
+08-Jul-24 03:59:08 :  completed - Late Night Jam 
+08-Jul-24 03:59:08 :  completed - 5 x VUUST(udsolgt)
+08-Jul-24 03:59:08 :  completed - Late Night Jam 
+08-Jul-24 03:59:08 :  completed - Nils Landgren Funk Unit “30 years"(udsolgt)
+08-Jul-24 03:59:08 :  completed - Late Night Jam 
+08-Jul-24 03:59:08 :  completed - Nils Landgren Funk Unit “30 years"(udsolgt)
+08-Jul-24 03:59:08 :  completed - Late Night Jam 
+08-Jul-24 03:59:08 :  completed - Nils Landgren Funk Unit “30 years" (udsolgt)
+08-Jul-24 03:59:08 :  completed - total: 14
