@@ -1,5 +1,5 @@
 from scrapers import pumpehuset,hotelcecil,culturebox,loppen,rust ## 1st batch website
-from scrapers import stengade,drkoncerthuset,amagerbio,lafontaine,jazzhusmontmartre ## 2nd batch website
+from scrapers import stengade,drkoncerthuset,amagerbio,lafontaine,jazzhusmontmartre,livejazz ## 2nd batch website
 from datetime import datetime
 import json
 import codecs
@@ -92,16 +92,17 @@ def crawler():
     savefile = []
     
     # Returning a [list] contains of {dict} scrape data - from each script from /scrapers folder
-    savefile.extend(rust.run())
-    savefile.extend(hotelcecil.run())
-    savefile.extend(culturebox.run())
-    savefile.extend(loppen.run())
-    savefile.extend(pumpehuset.run())
-    savefile.extend(stengade.run())
-    savefile.extend(drkoncerthuset.run())
-    savefile.extend(amagerbio.run())
-    savefile.extend(lafontaine.run())
-    savefile.extend(jazzhusmontmartre.run())
+    # savefile.extend(rust.run())
+    # savefile.extend(hotelcecil.run())
+    # savefile.extend(culturebox.run())
+    # savefile.extend(loppen.run())
+    # savefile.extend(pumpehuset.run())
+    # savefile.extend(stengade.run())
+    # savefile.extend(drkoncerthuset.run())
+    # savefile.extend(amagerbio.run())
+    # savefile.extend(lafontaine.run())
+    # savefile.extend(jazzhusmontmartre.run())
+    savefile.extend(livejazz.run())
     
     return savefile
 
