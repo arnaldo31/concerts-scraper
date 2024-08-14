@@ -92,16 +92,16 @@ def crawler():
     savefile = []
     
     # Returning a [list] contains of {dict} scrape data - from each script from /scrapers folder
-    # savefile.extend(rust.run())
-    # savefile.extend(hotelcecil.run())
-    # savefile.extend(culturebox.run())
-    # savefile.extend(loppen.run())
-    # savefile.extend(pumpehuset.run())
-    # savefile.extend(stengade.run())
-    # savefile.extend(drkoncerthuset.run())
-    # savefile.extend(amagerbio.run())
-    # savefile.extend(lafontaine.run())
-    # savefile.extend(jazzhusmontmartre.run())
+    savefile.extend(rust.run())
+    savefile.extend(hotelcecil.run())
+    savefile.extend(culturebox.run())
+    savefile.extend(loppen.run())
+    savefile.extend(pumpehuset.run())
+    savefile.extend(stengade.run())
+    savefile.extend(drkoncerthuset.run())
+    savefile.extend(amagerbio.run())
+    savefile.extend(lafontaine.run())
+    savefile.extend(jazzhusmontmartre.run())
     savefile.extend(livejazz.run())
     
     return savefile

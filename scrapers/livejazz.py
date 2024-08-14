@@ -107,9 +107,9 @@ def parse_data(item:dict):
     dic['title'] = item['name']
     start = int(item['start'])
     final = int(item['finish'])
-    startDate = datetime.fromtimestamp(start).strftime('%Y-%m-%dT%H:%M:%S.000000Z')
-    start_time = datetime.fromtimestamp(start).strftime("%H:%M")
-    endDate = datetime.fromtimestamp(final).strftime('%Y-%m-%dT%H:%M:%S.000000Z')
+    startDate = datetime.utcfromtimestamp(start).strftime('%Y-%m-%dT%H:%M:%S.000000Z')
+    start_time = datetime.utcfromtimestamp(start).strftime("%H:%M")
+    endDate = datetime.utcfromtimestamp(final).strftime('%Y-%m-%dT%H:%M:%S.000000Z')
 
     dic['monthlySchedule'] = {
             "startDate": startDate, 
@@ -117,17 +117,18 @@ def parse_data(item:dict):
         }
     dic['openingHours'] = start_time
     
-    genre_list = []
-    for gen in item['genre']:
-        gen = str(gen)
-        for gen_item in genres:
-            if gen == gen_item['id']:
-                genre_list.append(gen_item['name'])
+    # genre_list = []
+    # for gen in item['genre']:
+    #     gen = str(gen)
+    #     for gen_item in genres:
+    #         if gen == gen_item['id']:
+    #             genre_list.append(gen_item['name'])
     
-    if genre_list != []:
-        dic['genre'] = ','.join(genre_list)
-    else:
-        dic['genre'] = 'Jazz'
+    # if genre_list != []:
+    #     dic['genre'] = ','.join(genre_list)
+    # else:
+    #     dic['genre'] = 'Jazz'
+    dic['genre'] = 'Jazz'
     try:
         dic['body'] = item['description']
     except:
@@ -141,10 +142,11 @@ def parse_data(item:dict):
     dic['address'] = ''
     for ven in venues:
         if ven['id'] == venueID:
+            venue_name = ven.get('name')
             city = ven.get('city')
-            country = ven.get('country')
+            #country = ven.get('country')
             addres = ven.get('street')
-            full_address = f'{addres}, {city}, {country}'
+            full_address = f'{venue_name}, {addres}, {city}'
             dic['address'] = full_address
 
     ticket = item.get('ticket')
